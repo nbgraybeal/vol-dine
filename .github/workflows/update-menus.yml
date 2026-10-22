@@ -1,0 +1,42 @@
+
+name: Update UTK Dining Menus
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-menus:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python libraries
+        run: pip install -r requirements.txt
+
+      - name: Retrieve latest menus
+        run: python scraper.py
+
+      - name: Save updated menu data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No menu changes to commit."
+          else
+            git commit -m "Update UTK dining menus"
+            git push
+          fi
