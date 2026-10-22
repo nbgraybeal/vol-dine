@@ -5,148 +5,259 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Vol Dine | UT Knoxville Dining</title>
+
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       margin: 0;
-      font-family: Arial, sans-serif;
-      background: #f7f7f7;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f5f5f5;
       color: #222;
     }
+
     header {
       background: #ff8200;
       color: white;
-      padding: 35px 25px;
+      padding: 22px 20px;
       text-align: center;
     }
-    header h1 { margin: 0; font-size: 40px; }
-    main { max-width: 900px; margin: 30px auto; padding: 0 20px; }
-    select {
-      padding: 12px;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      font-size: 16px;
-      margin-bottom: 25px;
+
+    header h1 {
+      margin: 0;
+      font-size: 32px;
+      font-weight: 800;
+      letter-spacing: 1px;
     }
-    .station {
-      background: white;
-      padding: 22px;
-      border-radius: 12px;
-      margin-bottom: 20px;
-      box-shadow: 0 2px 8px #00000012;
+
+    header p {
+      margin: 5px 0 0;
+      font-size: 13px;
     }
-    .station h2 {
-      margin-top: 0;
-      border-bottom: 2px solid #ff8200;
-      padding-bottom: 10px;
+
+    main {
+      max-width: 1200px;
+      margin: 22px auto;
+      padding: 0 20px;
     }
-    .item {
+
+    .controls {
       display: flex;
+      align-items: center;
       justify-content: space-between;
-      gap: 15px;
-      padding: 10px 0;
-      border-bottom: 1px solid #eee;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 12px;
     }
-    .calories { color: #666; white-space: nowrap; }
-    #status { color: #666; }
+
+    .controls h2 {
+      margin: 0;
+      font-size: 21px;
+    }
+
+    select {
+      padding: 9px 14px;
+      border: 1px solid #ccc;
+      border-radius: 7px;
+      background: white;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    #status {
+      color: #777;
+      font-size: 11px;
+      margin-bottom: 15px;
+    }
+
+    /* Compact masonry-style layout */
+
+    #menu {
+      column-count: 2;
+      column-gap: 14px;
+    }
+
+    .station {
+      display: inline-block;
+      width: 100%;
+      vertical-align: top;
+      background: white;
+      padding: 13px 16px;
+      border-radius: 8px;
+      margin-bottom: 14px;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.07);
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+
+    .station h2 {
+      margin: 0 0 8px;
+      padding-bottom: 7px;
+      border-bottom: 2px solid #ff8200;
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    .item {
+      font-size: 13px;
+      padding: 4px 0;
+      line-height: 1.3;
+      border-bottom: 1px solid #f2f2f2;
+    }
+
+    .item:last-child {
+      border-bottom: none;
+    }
+
+    footer {
+      text-align: center;
+      color: #888;
+      font-size: 11px;
+      padding: 25px;
+    }
+
+    @media (max-width: 650px) {
+      header {
+        padding: 18px 12px;
+      }
+
+      header h1 {
+        font-size: 28px;
+      }
+
+      main {
+        padding: 0 12px;
+        margin-top: 16px;
+      }
+
+      #menu {
+        column-count: 1;
+      }
+
+      .station {
+        margin-bottom: 10px;
+      }
+
+      .controls h2 {
+        font-size: 19px;
+      }
+    }
   </style>
 </head>
+
 <body>
 
-<header>
-  <h1>VOL DINE</h1>
-  <p>What's cooking, Rocky Top?</p>
-</header>
+  <header>
+    <h1>VOL DINE</h1>
+    <p>What's cooking, Rocky Top?</p>
+  </header>
 
-<main>
-  <h2>Stokely Dining Hall</h2>
+  <main>
 
-  <label for="meal">Choose a meal:</label>
-  <select id="meal">
-    <option>Breakfast</option>
-    <option selected>Lunch</option>
-    <option>Dinner</option>
-  </select>
+    <div class="controls">
+      <h2>Stokely Dining Hall</h2>
 
-  <p id="status">Loading menu...</p>
-  <div id="menu"></div>
-</main>
+      <select id="meal" aria-label="Select meal">
+        <option>Breakfast</option>
+        <option selected>Lunch</option>
+        <option>Dinner</option>
+      </select>
+    </div>
 
-<script>
-  let stations = {};
+    <p id="status">Loading menu...</p>
 
-  async function loadMenu() {
-    try {
-      const response = await fetch("./data/stokely.json");
+    <div id="menu"></div>
 
-      if (!response.ok) {
-        throw new Error("Could not load menu file.");
+  </main>
+
+  <footer>
+    Vol Dine — Unofficial UT Knoxville Dining Guide
+  </footer>
+
+  <script>
+    let stations = {};
+
+    async function loadMenu() {
+      try {
+        const response = await fetch("./data/stokely.json");
+
+        if (!response.ok) {
+          throw new Error("Could not load menu data.");
+        }
+
+        const data = await response.json();
+
+        stations = data.stations || {};
+
+        const timestamp = data.retrieved_at
+          ? new Date(data.retrieved_at).toLocaleString()
+          : "Unknown";
+
+        document.getElementById("status").textContent =
+          "Menu data retrieved: " + timestamp;
+
+        displayMenu();
+
+      } catch (error) {
+        document.getElementById("status").textContent =
+          "Unable to load menu: " + error.message;
+      }
+    }
+
+    function displayMenu() {
+      const selectedMeal =
+        document.getElementById("meal").value;
+
+      const container =
+        document.getElementById("menu");
+
+      container.replaceChildren();
+
+      let stationCount = 0;
+
+      for (const station of Object.values(stations)) {
+        const meal = Object.values(
+          station.mealPeriods || {}
+        ).find(m => m.name === selectedMeal);
+
+        if (!meal || !meal.menuItems?.length) {
+          continue;
+        }
+
+        stationCount++;
+
+        const section = document.createElement("section");
+        section.className = "station";
+
+        const heading = document.createElement("h2");
+        heading.textContent = station.name;
+
+        section.appendChild(heading);
+
+        for (const item of meal.menuItems) {
+          const row = document.createElement("div");
+          row.className = "item";
+          row.textContent = item.name;
+
+          section.appendChild(row);
+        }
+
+        container.appendChild(section);
       }
 
-      const data = await response.json();
-      stations = data.stations;
-      document.getElementById("status").textContent =
-        "Menu retrieved: " +
-        new Date(data.retrieved_at).toLocaleString();
-
-      displayMenu();
-    } catch (error) {
-      document.getElementById("status").textContent =
-        "Error loading menu: " + error.message;
-    }
-  }
-
-  function displayMenu() {
-    const selectedMeal = document.getElementById("meal").value;
-    const container = document.getElementById("menu");
-    container.replaceChildren();
-
-    let stationCount = 0;
-
-    for (const station of Object.values(stations)) {
-      const meal = Object.values(station.mealPeriods || {})
-        .find(m => m.name === selectedMeal);
-
-      if (!meal || !meal.menuItems?.length) continue;
-
-      stationCount++;
-
-      const section = document.createElement("section");
-      section.className = "station";
-
-      const heading = document.createElement("h2");
-      heading.textContent = station.name;
-      section.appendChild(heading);
-
-      for (const item of meal.menuItems) {
-        const row = document.createElement("div");
-        row.className = "item";
-
-        const name = document.createElement("span");
-        name.textContent = item.name;
-
-        const calories = document.createElement("span");
-        calories.className = "calories";
-        calories.textContent =
-          (item.nutrition?.primary_attributes?.calories?.value ?? "?")
-          + " cal";
-
-        row.append(name, calories);
-        section.appendChild(row);
+      if (stationCount === 0) {
+        container.textContent =
+          "No menu available for this meal.";
       }
-
-      container.appendChild(section);
     }
 
-    if (!stationCount) {
-      container.textContent = "No menu available for this meal.";
-    }
-  }
+    document.getElementById("meal")
+      .addEventListener("change", displayMenu);
 
-  document.getElementById("meal")
-    .addEventListener("change", displayMenu);
-
-  loadMenu();
-</script>
+    loadMenu();
+  </script>
 
 </body>
 </html>
