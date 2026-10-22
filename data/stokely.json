@@ -1,6 +1,7 @@
 {
   "location": "Stokely Dining Hall",
-  "retrieved_at": "2026-10-22T22:03:08.554759+00:00",
+  "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
+  "retrieved_at": "2026-10-22T22:29:44.174794+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
