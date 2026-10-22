@@ -1,0 +1,152 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vol Dine | UT Knoxville Dining</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      color: #222;
+    }
+    header {
+      background: #ff8200;
+      color: white;
+      padding: 35px 25px;
+      text-align: center;
+    }
+    header h1 { margin: 0; font-size: 40px; }
+    main { max-width: 900px; margin: 30px auto; padding: 0 20px; }
+    select {
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 16px;
+      margin-bottom: 25px;
+    }
+    .station {
+      background: white;
+      padding: 22px;
+      border-radius: 12px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 8px #00000012;
+    }
+    .station h2 {
+      margin-top: 0;
+      border-bottom: 2px solid #ff8200;
+      padding-bottom: 10px;
+    }
+    .item {
+      display: flex;
+      justify-content: space-between;
+      gap: 15px;
+      padding: 10px 0;
+      border-bottom: 1px solid #eee;
+    }
+    .calories { color: #666; white-space: nowrap; }
+    #status { color: #666; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>VOL DINE</h1>
+  <p>What's cooking, Rocky Top?</p>
+</header>
+
+<main>
+  <h2>Stokely Dining Hall</h2>
+
+  <label for="meal">Choose a meal:</label>
+  <select id="meal">
+    <option>Breakfast</option>
+    <option selected>Lunch</option>
+    <option>Dinner</option>
+  </select>
+
+  <p id="status">Loading menu...</p>
+  <div id="menu"></div>
+</main>
+
+<script>
+  let stations = {};
+
+  async function loadMenu() {
+    try {
+      const response = await fetch("./data/stokely.json");
+
+      if (!response.ok) {
+        throw new Error("Could not load menu file.");
+      }
+
+      const data = await response.json();
+      stations = data.stations;
+      document.getElementById("status").textContent =
+        "Menu retrieved: " +
+        new Date(data.retrieved_at).toLocaleString();
+
+      displayMenu();
+    } catch (error) {
+      document.getElementById("status").textContent =
+        "Error loading menu: " + error.message;
+    }
+  }
+
+  function displayMenu() {
+    const selectedMeal = document.getElementById("meal").value;
+    const container = document.getElementById("menu");
+    container.replaceChildren();
+
+    let stationCount = 0;
+
+    for (const station of Object.values(stations)) {
+      const meal = Object.values(station.mealPeriods || {})
+        .find(m => m.name === selectedMeal);
+
+      if (!meal || !meal.menuItems?.length) continue;
+
+      stationCount++;
+
+      const section = document.createElement("section");
+      section.className = "station";
+
+      const heading = document.createElement("h2");
+      heading.textContent = station.name;
+      section.appendChild(heading);
+
+      for (const item of meal.menuItems) {
+        const row = document.createElement("div");
+        row.className = "item";
+
+        const name = document.createElement("span");
+        name.textContent = item.name;
+
+        const calories = document.createElement("span");
+        calories.className = "calories";
+        calories.textContent =
+          (item.nutrition?.primary_attributes?.calories?.value ?? "?")
+          + " cal";
+
+        row.append(name, calories);
+        section.appendChild(row);
+      }
+
+      container.appendChild(section);
+    }
+
+    if (!stationCount) {
+      container.textContent = "No menu available for this meal.";
+    }
+  }
+
+  document.getElementById("meal")
+    .addEventListener("change", displayMenu);
+
+  loadMenu();
+</script>
+
+</body>
+</html>
