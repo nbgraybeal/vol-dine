@@ -7,6 +7,12 @@
   <title>Vol Dine | UT Knoxville Dining</title>
 
   <style>
+    :root {
+      --orange: #ff8200;
+      --text: #222;
+      --background: #f5f5f5;
+    }
+
     * {
       box-sizing: border-box;
     }
@@ -14,51 +20,90 @@
     body {
       margin: 0;
       font-family: Arial, Helvetica, sans-serif;
-      background: #f5f5f5;
-      color: #222;
+      background: var(--background);
+      color: var(--text);
     }
 
-    header {
-      background: #ff8200;
-      color: white;
-      padding: 22px 20px;
+    /* CAMPUS PHOTO HEADER */
+
+    .hero {
+      min-height: 330px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       text-align: center;
+      padding: 55px 20px;
+      color: white;
+
+      background:
+        linear-gradient(
+          rgba(0, 0, 0, 0.55),
+          rgba(0, 0, 0, 0.65)
+        ),
+        url("./images/header.jpg") center / cover no-repeat;
+
+      background-color: #333;
+      border-bottom: 5px solid var(--orange);
     }
 
-    header h1 {
-      margin: 0;
-      font-size: 32px;
+    .orange-line {
+      width: 55px;
+      height: 4px;
+      background: var(--orange);
+      margin: 0 auto 20px;
+      border-radius: 3px;
+    }
+
+    .hero h1 {
+      font-size: clamp(42px, 6vw, 72px);
       font-weight: 800;
-      letter-spacing: 1px;
+      letter-spacing: 3px;
+      margin: 0;
+      line-height: 1.1;
     }
 
-    header p {
-      margin: 5px 0 0;
-      font-size: 13px;
+    .hero p {
+      font-size: clamp(15px, 2vw, 20px);
+      margin: 15px 0 0;
     }
+
+    .bottom-line {
+      margin: 24px auto 0;
+    }
+
+    /* MAIN CONTENT */
 
     main {
       max-width: 1200px;
-      margin: 22px auto;
+      margin: 25px auto;
       padding: 0 20px;
     }
 
     .controls {
       display: flex;
-      align-items: center;
       justify-content: space-between;
-      gap: 12px;
+      align-items: end;
       flex-wrap: wrap;
-      margin-bottom: 12px;
+      gap: 14px;
+      margin-bottom: 14px;
     }
 
-    .controls h2 {
-      margin: 0;
-      font-size: 21px;
+    .control-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .control-group label {
+      font-size: 11px;
+      font-weight: 700;
+      color: #666;
+      text-transform: uppercase;
+      letter-spacing: 0.7px;
     }
 
     select {
-      padding: 9px 14px;
+      padding: 10px 14px;
       border: 1px solid #ccc;
       border-radius: 7px;
       background: white;
@@ -66,13 +111,17 @@
       cursor: pointer;
     }
 
+    #hall {
+      min-width: 240px;
+    }
+
     #status {
       color: #777;
       font-size: 11px;
-      margin-bottom: 15px;
+      margin: 10px 0 16px;
     }
 
-    /* Compact masonry-style layout */
+    /* COMPACT MASONRY MENU */
 
     #menu {
       column-count: 2;
@@ -95,7 +144,7 @@
     .station h2 {
       margin: 0 0 8px;
       padding-bottom: 7px;
-      border-bottom: 2px solid #ff8200;
+      border-bottom: 2px solid var(--orange);
       font-size: 15px;
       font-weight: 700;
     }
@@ -119,17 +168,27 @@
     }
 
     @media (max-width: 650px) {
-      header {
-        padding: 18px 12px;
+      .hero {
+        min-height: 240px;
+        padding: 40px 16px;
       }
 
-      header h1 {
-        font-size: 28px;
+      .hero h1 {
+        letter-spacing: 1px;
       }
 
       main {
         padding: 0 12px;
         margin-top: 16px;
+      }
+
+      .controls {
+        align-items: stretch;
+      }
+
+      .control-group,
+      select {
+        width: 100%;
       }
 
       #menu {
@@ -139,35 +198,46 @@
       .station {
         margin-bottom: 10px;
       }
-
-      .controls h2 {
-        font-size: 19px;
-      }
     }
   </style>
 </head>
 
 <body>
 
-  <header>
-    <h1>VOL DINE</h1>
-    <p>What's cooking, Rocky Top?</p>
+  <header class="hero">
+    <div>
+      <div class="orange-line"></div>
+      <h1>VOL DINE</h1>
+      <p>What's cooking, Rocky Top?</p>
+      <div class="orange-line bottom-line"></div>
+    </div>
   </header>
 
   <main>
 
     <div class="controls">
-      <h2>Stokely Dining Hall</h2>
 
-      <select id="meal" aria-label="Select meal">
-        <option>Breakfast</option>
-        <option selected>Lunch</option>
-        <option>Dinner</option>
-      </select>
+      <div class="control-group">
+        <label for="hall">Dining Hall</label>
+        <select id="hall">
+          <option value="stokely">Stokely Dining Hall</option>
+          <option value="rocky-top">Rocky Top Dining Hall</option>
+          <option value="southern-kitchen">Southern Kitchen</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="meal">Meal</label>
+        <select id="meal">
+          <option>Breakfast</option>
+          <option selected>Lunch</option>
+          <option>Dinner</option>
+        </select>
+      </div>
+
     </div>
 
     <p id="status">Loading menu...</p>
-
     <div id="menu"></div>
 
   </main>
@@ -177,17 +247,35 @@
   </footer>
 
   <script>
+    const hallSelect = document.getElementById("hall");
+    const mealSelect = document.getElementById("meal");
+    const status = document.getElementById("status");
+    const container = document.getElementById("menu");
+
     let stations = {};
+    let requestNumber = 0;
 
     async function loadMenu() {
+      const currentRequest = ++requestNumber;
+      const hall = hallSelect.value;
+
+      status.textContent = "Loading menu...";
+      container.replaceChildren();
+      stations = {};
+
       try {
-        const response = await fetch("./data/stokely.json");
+        const response = await fetch(
+          "./data/" + hall + ".json"
+        );
 
         if (!response.ok) {
-          throw new Error("Could not load menu data.");
+          throw new Error("Could not load dining hall menu.");
         }
 
         const data = await response.json();
+
+        // Ignore outdated responses if the user switches halls
+        if (currentRequest !== requestNumber) return;
 
         stations = data.stations || {};
 
@@ -195,24 +283,21 @@
           ? new Date(data.retrieved_at).toLocaleString()
           : "Unknown";
 
-        document.getElementById("status").textContent =
+        status.textContent =
           "Menu data retrieved: " + timestamp;
 
         displayMenu();
 
       } catch (error) {
-        document.getElementById("status").textContent =
+        if (currentRequest !== requestNumber) return;
+
+        status.textContent =
           "Unable to load menu: " + error.message;
       }
     }
 
     function displayMenu() {
-      const selectedMeal =
-        document.getElementById("meal").value;
-
-      const container =
-        document.getElementById("menu");
-
+      const selectedMeal = mealSelect.value;
       container.replaceChildren();
 
       let stationCount = 0;
@@ -233,14 +318,12 @@
 
         const heading = document.createElement("h2");
         heading.textContent = station.name;
-
         section.appendChild(heading);
 
         for (const item of meal.menuItems) {
           const row = document.createElement("div");
           row.className = "item";
           row.textContent = item.name;
-
           section.appendChild(row);
         }
 
@@ -253,8 +336,8 @@
       }
     }
 
-    document.getElementById("meal")
-      .addEventListener("change", displayMenu);
+    hallSelect.addEventListener("change", loadMenu);
+    mealSelect.addEventListener("change", displayMenu);
 
     loadMenu();
   </script>

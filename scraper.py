@@ -3,85 +3,109 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import html
-
-URL = "https://dining.utk.edu/vendor/stokely-dining-hall/"
-
-print("Downloading Stokely Dining Hall menu...")
-
-response = requests.get(URL, timeout=30)
-response.raise_for_status()
-
-soup = BeautifulSoup(response.text, "html.parser")
-
-menu_data = None
-
-# Search all HTML elements and their attributes
-for element in soup.find_all(True):
-    for attribute, value in element.attrs.items():
-
-        if isinstance(value, list):
-            value = " ".join(value)
-
-        if not isinstance(value, str):
-            continue
-
-        if "subLocations" not in value:
-            continue
-
-        try:
-            decoded = html.unescape(value)
-            parsed = json.loads(decoded)
-
-            if isinstance(parsed, dict) and "subLocations" in parsed:
-                menu_data = parsed
-                print("SUCCESS: Extracted menu JSON!")
-                break
-
-        except json.JSONDecodeError:
-            continue
-
-    if menu_data is not None:
-        break
-
-if menu_data is None:
-    print("Could not extract menu JSON.")
-    print("The data may be embedded inside a JavaScript variable.")
-    raise SystemExit(1)
-
-from datetime import datetime, timezone
 from pathlib import Path
+from datetime import datetime, timezone
 
-output = {
-    "location": "Stokely Dining Hall",
-    "retrieved_at": datetime.now(timezone.utc).isoformat(),
-    "stations": menu_data["subLocations"]
+DINING_HALLS = {
+    "stokely": {
+        "name": "Stokely Dining Hall",
+        "url": "https://dining.utk.edu/vendor/stokely-dining-hall/"
+    },
+    "rocky-top": {
+        "name": "Rocky Top Dining Hall",
+        "url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/"
+    },
+    "southern-kitchen": {
+        "name": "Southern Kitchen",
+        "url": "https://dining.utk.edu/vendor/southern-kitchen/"
+    }
 }
 
-Path("data").mkdir(exist_ok=True)
+DATA_FOLDER = Path(__file__).resolve().parent / "data"
+DATA_FOLDER.mkdir(exist_ok=True)
 
-with open("data/stokely.json", "w", encoding="utf-8") as file:
-    json.dump(output, file, indent=2, ensure_ascii=False)
 
-print("SUCCESS: Saved menu to data/stokely.json")
+def extract_menu(page_html):
+    soup = BeautifulSoup(page_html, "html.parser")
 
-print("\nSTOKELY DINING HALL")
+    for element in soup.find_all(True):
+        for value in element.attrs.values():
+            if isinstance(value, list):
+                value = " ".join(value)
 
-for station in menu_data["subLocations"].values():
+            if not isinstance(value, str):
+                continue
 
-    station_name = station.get("name", "Unknown station")
+            if "subLocations" not in value:
+                continue
 
-    for meal in station.get("mealPeriods", {}).values():
+            try:
+                data = json.loads(html.unescape(value))
+                if isinstance(data, dict) and isinstance(
+                    data.get("subLocations"), dict
+                ):
+                    return data
+            except (ValueError, TypeError):
+                continue
 
-        meal_name = meal.get("name", "Unknown meal")
+    return None
 
-        print(f"\n{station_name.upper()} - {meal_name.upper()}")
-        print("-" * 40)
 
-        for item in meal.get("menuItems", []):
+def update_hall(key, hall):
+    print(f"\nDownloading {hall['name']}...")
 
-            name = item.get("name", "Unknown item")
-            nutrition = item.get("nutrition") or {}
-            attributes = nutrition.get("primary_attributes") or {}
-            calories = attributes.get("calories", {}).get("value", "?")
+    response = requests.get(
+        hall["url"],
+        timeout=30,
+        headers={"User-Agent": "VolDine/1.0 (menu viewer)"}
+    )
+    response.raise_for_status()
 
-            print(f"  {name} ({calories} calories)")
+    menu = extract_menu(response.text)
+
+    if menu is None:
+        raise ValueError("No embedded menu JSON found.")
+
+    output = {
+        "location": hall["name"],
+        "source_url": hall["url"],
+        "retrieved_at": datetime.now(
+            timezone.utc
+        ).isoformat(),
+        "stations": menu["subLocations"]
+    }
+
+    path = DATA_FOLDER / f"{key}.json"
+
+    with open(path, "w", encoding="utf-8") as file:
+        json.dump(output, file, indent=2, ensure_ascii=False)
+
+    count = sum(
+        len(meal.get("menuItems", []))
+        for station in menu["subLocations"].values()
+        for meal in station.get("mealPeriods", {}).values()
+    )
+
+    print(f"SUCCESS: Saved {path.name} ({count} menu entries)")
+
+
+def main():
+    failures = []
+
+    for key, hall in DINING_HALLS.items():
+        try:
+            update_hall(key, hall)
+        except (requests.RequestException, ValueError) as error:
+            print(f"ERROR: {hall['name']}: {error}")
+            failures.append(hall["name"])
+
+    if failures:
+        raise SystemExit(
+            "Failed to update: " + ", ".join(failures)
+        )
+
+    print("\nAll dining halls updated successfully!")
+
+
+if __name__ == "__main__":
+    main()
