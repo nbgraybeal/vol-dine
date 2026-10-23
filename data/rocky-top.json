@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-10-23T10:06:30.871670+00:00",
+  "retrieved_at": "2026-10-23T10:34:51.960712+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -6070,25 +6070,25 @@
               }
             },
             {
-              "id": "99547",
-              "name": "Hash Browns",
+              "id": "99655",
+              "name": "Hash Brown Potato Patty",
               "nutrition": {
-                "id": "2488",
-                "description": "Pan-fried seasoned shredded potatoes",
-                "serving_size": "1/2 cup",
-                "ingredient_statement": "Hash Brown Potato (POTATOES, DEXTROSE, DISODIUM PYROPHOSPHATE (ADDED TO MAINTAIN COLOR), POTASSIUM SORBATE (ADDED TO MAINTAIN FRESHNESS)), Canola Oil, Kosher Salt, Black Pepper",
+                "id": "900",
+                "description": "Crispy fried shredded potato patty",
+                "serving_size": "each",
+                "ingredient_statement": "Hash Brown Potato (Potatoes, Vegetable Oil (Contains One Or More Of The Following Oils: Canola, Soybean, Cottonseed, Sunflower, Corn). Contains 2% or less of Dehydrated Onion, Dextrose, Natural Flavor, Salt, Sodium Acid Pyrophosphate Added To MaintainColor.)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "120"
+                    "value": "130"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "8.0g"
+                    "value": "9.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "0.5g"
+                    "value": "1.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -6100,11 +6100,11 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "359mg"
+                    "value": "268mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "13g"
+                    "value": "11g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -6112,23 +6112,23 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "1g"
+                    "value": "0g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "1.0g"
+                    "value": "0.9g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "7.6mg"
+                    "value": "0.0mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.2mg"
+                    "value": "0.0mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "200mg"
+                    "value": "170mg"
                   }
                 },
                 "allergen_attributes": {
