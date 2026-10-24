@@ -1,0 +1,446 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Allergen Badge Preview | Vol Dine</title>
+
+  <style>
+    :root {
+      --orange: #ff8200;
+      --text: #222;
+      --background: #f5f5f5;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: var(--background);
+      color: var(--text);
+    }
+
+    /* CAMPUS PHOTO HEADER */
+
+    .hero {
+      min-height: 330px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 55px 20px;
+      color: white;
+
+      background:
+        linear-gradient(
+          rgba(0, 0, 0, 0.55),
+          rgba(0, 0, 0, 0.65)
+        ),
+        url("./images/header.jpg") center / cover no-repeat;
+
+      background-color: #333;
+      border-bottom: 5px solid var(--orange);
+    }
+
+    .orange-line {
+      width: 55px;
+      height: 4px;
+      background: var(--orange);
+      margin: 0 auto 20px;
+      border-radius: 3px;
+    }
+
+    .hero h1 {
+      font-size: clamp(42px, 6vw, 72px);
+      font-weight: 800;
+      letter-spacing: 3px;
+      margin: 0;
+      line-height: 1.1;
+    }
+
+    .hero p {
+      font-size: clamp(15px, 2vw, 20px);
+      margin: 15px 0 0;
+    }
+
+    .bottom-line {
+      margin: 24px auto 0;
+    }
+
+    /* MAIN CONTENT */
+
+    main {
+      max-width: 1200px;
+      margin: 25px auto;
+      padding: 0 20px;
+    }
+
+    .controls {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-bottom: 14px;
+    }
+
+    .control-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .control-group label {
+      font-size: 11px;
+      font-weight: 700;
+      color: #666;
+      text-transform: uppercase;
+      letter-spacing: 0.7px;
+    }
+
+    select {
+      padding: 10px 14px;
+      border: 1px solid #ccc;
+      border-radius: 7px;
+      background: white;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    #hall {
+      min-width: 240px;
+    }
+
+    #status {
+      color: #777;
+      font-size: 11px;
+      margin: 10px 0 16px;
+    }
+
+    /* COMPACT MASONRY MENU */
+
+    #menu {
+      column-count: 2;
+      column-gap: 14px;
+    }
+
+    .station {
+      display: inline-block;
+      width: 100%;
+      vertical-align: top;
+      background: white;
+      padding: 13px 16px;
+      border-radius: 8px;
+      margin-bottom: 14px;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.07);
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+
+    .station h2 {
+      margin: 0 0 8px;
+      padding-bottom: 7px;
+      border-bottom: 2px solid var(--orange);
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    .item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      font-size: 13px;
+      padding: 4px 0;
+      line-height: 1.3;
+      border-bottom: 1px solid #f2f2f2;
+    }
+
+    .item:last-child {
+      border-bottom: none;
+    }
+
+    .item-name { min-width: 0; overflow-wrap: anywhere; }
+    .allergens {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 4px;
+      flex: 0 0 131px;
+    }
+    .allergen {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 23px;
+      height: 23px;
+      padding: 0;
+      border: 1px solid #e7b784;
+      border-radius: 50%;
+      background: #fff0e0;
+      color: #663600;
+      font: 700 10px Arial, sans-serif;
+      cursor: pointer;
+    }
+    .allergen:focus-visible { outline: 2px solid #222; outline-offset: 2px; }
+    .allergen-unknown {
+      width: auto;
+      padding: 0 6px;
+      border-radius: 5px;
+      background: #f2f2f2;
+      border-color: #ccc;
+      color: #555;
+      font-weight: 400;
+    }
+    .preview-note, .allergen-legend, #allergen-detail {
+      font-size: 12px;
+      line-height: 1.5;
+      color: #555;
+    }
+    .allergen-legend { margin: 8px 0; }
+    #allergen-detail { min-height: 18px; margin: 6px 0 14px; }
+    @media (max-width: 400px) { .allergens { flex-basis: 104px; } }
+
+    footer {
+      text-align: center;
+      color: #888;
+      font-size: 11px;
+      padding: 25px;
+    }
+
+    @media (max-width: 650px) {
+      .hero {
+        min-height: 240px;
+        padding: 40px 16px;
+      }
+
+      .hero h1 {
+        letter-spacing: 1px;
+      }
+
+      main {
+        padding: 0 12px;
+        margin-top: 16px;
+      }
+
+      .controls {
+        align-items: stretch;
+      }
+
+      .control-group,
+      select {
+        width: 100%;
+      }
+
+      #menu {
+        column-count: 1;
+      }
+
+      .station {
+        margin-bottom: 10px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <header class="hero">
+    <div>
+      <div class="orange-line"></div>
+      <h1>VOL DINE</h1>
+      <p>What's cooking, Rocky Top?</p>
+      <div class="orange-line bottom-line"></div>
+    </div>
+  </header>
+
+  <main>
+
+    <p class="preview-note"><strong>Allergen badge preview</strong> · Uses the same menu data as Vol Dine. <a href="./">Back to the regular menu</a></p>
+
+    <div class="controls">
+
+      <div class="control-group">
+        <label for="hall">Dining Hall</label>
+        <select id="hall">
+          <option value="stokely">Stokely Dining Hall</option>
+          <option value="rocky-top">Rocky Top Dining Hall</option>
+          <option value="southern-kitchen">Southern Kitchen</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="meal">Meal</label>
+        <select id="meal">
+          <option>Breakfast</option>
+          <option selected>Lunch</option>
+          <option>Dinner</option>
+        </select>
+      </div>
+
+    </div>
+
+    <p id="status">Loading menu...</p>
+    <p class="allergen-legend">Contains: S = Soy · E = Eggs · M = Milk · W = Wheat · G = Gluten · P = Peanut · Se = Sesame · F = Fish · Sh = Shellfish · TN = Tree nuts</p>
+    <p class="preview-note">Tap a badge for its meaning. Missing badges do not guarantee allergen-free food. Unknown information is marked with “?”.</p>
+    <p id="allergen-detail" role="status" aria-live="polite"></p>
+    <div id="menu"></div>
+
+  </main>
+
+  <footer>
+    Vol Dine — Unofficial UT Knoxville Dining Guide
+  </footer>
+
+  <script>
+    const hallSelect = document.getElementById("hall");
+    const mealSelect = document.getElementById("meal");
+    const status = document.getElementById("status");
+    const container = document.getElementById("menu");
+
+    let stations = {};
+    let menuStatus = "available";
+    let requestNumber = 0;
+
+    const allergenCodes = {
+      contains_soy: "S", contains_eggs: "E", contains_milk: "M",
+      contains_wheat: "W", contains_gluten: "G", contains_peanut: "P",
+      contains_sesame: "Se", contains_fish: "F", contains_shellfish: "Sh",
+      contains_tree_nuts: "TN"
+    };
+
+    function allergenBadges(item) {
+      const badges = document.createElement("span");
+      badges.className = "allergens";
+      const attributes = item.nutrition?.allergen_attributes || {};
+      const unknown = [];
+      function addBadge(code, label, isUnknown = false) {
+        const badge = document.createElement("button");
+        badge.type = "button";
+        badge.className = "allergen" + (isUnknown ? " allergen-unknown" : "");
+        badge.textContent = code;
+        badge.title = label;
+        badge.setAttribute("aria-label", item.name + ": " + label);
+        badge.addEventListener("click", () => {
+          document.getElementById("allergen-detail").textContent = item.name + ": " + label;
+        });
+        badges.appendChild(badge);
+      }
+      for (const [key, code] of Object.entries(allergenCodes)) {
+        const attribute = attributes[key];
+        if (attribute?.value === "Y") {
+          addBadge(code, attribute.label);
+        } else if (attribute?.value !== "N") {
+          unknown.push(attribute?.label || key.replace("contains_", "").replaceAll("_", " "));
+        }
+      }
+      if (unknown.length) addBadge("?", "Unknown allergen information: " + unknown.join(", "), true);
+      return badges;
+    }
+
+    async function loadMenu() {
+      const currentRequest = ++requestNumber;
+      const hall = hallSelect.value;
+
+      status.textContent = "Loading menu...";
+      container.replaceChildren();
+      stations = {};
+      document.getElementById("allergen-detail").textContent = "";
+      menuStatus = "available";
+
+      try {
+        const response = await fetch(
+          "./data/" + hall + ".json"
+        );
+
+        if (!response.ok) {
+          throw new Error("Could not load dining hall menu.");
+        }
+
+        const data = await response.json();
+
+        // Ignore outdated responses if the user switches halls
+        if (currentRequest !== requestNumber) return;
+
+        stations = data.stations || {};
+        menuStatus = data.status || "available";
+
+        const timestamp = data.retrieved_at
+          ? new Date(data.retrieved_at).toLocaleString()
+          : "Unknown";
+
+        status.textContent =
+          "Menu data retrieved: " + timestamp;
+
+        displayMenu();
+
+      } catch (error) {
+        if (currentRequest !== requestNumber) return;
+
+        status.textContent =
+          "Unable to load menu: " + error.message;
+      }
+    }
+
+    function displayMenu() {
+      const selectedMeal = mealSelect.value;
+      container.replaceChildren();
+      document.getElementById("allergen-detail").textContent = "";
+
+      if (menuStatus === "no_menu") {
+        container.textContent =
+          "No menu published today. This dining hall may be closed.";
+        return;
+      }
+
+      let stationCount = 0;
+
+      for (const station of Object.values(stations)) {
+        const meal = Object.values(
+          station.mealPeriods || {}
+        ).find(m => m.name === selectedMeal);
+
+        if (!meal || !meal.menuItems?.length) {
+          continue;
+        }
+
+        stationCount++;
+
+        const section = document.createElement("section");
+        section.className = "station";
+
+        const heading = document.createElement("h2");
+        heading.textContent = station.name;
+        section.appendChild(heading);
+
+        for (const item of meal.menuItems) {
+          const row = document.createElement("div");
+          row.className = "item";
+          const name = document.createElement("span");
+          name.className = "item-name";
+          name.textContent = item.name;
+          row.append(name, allergenBadges(item));
+          section.appendChild(row);
+        }
+
+        container.appendChild(section);
+      }
+
+      if (stationCount === 0) {
+        container.textContent =
+          "No menu available for this meal.";
+      }
+    }
+
+    hallSelect.addEventListener("change", loadMenu);
+    mealSelect.addEventListener("change", displayMenu);
+
+    loadMenu();
+  </script>
+
+</body>
+</html>
