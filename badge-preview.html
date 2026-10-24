@@ -164,46 +164,27 @@
       border-bottom: none;
     }
 
-    .item-name { min-width: 0; overflow-wrap: anywhere; }
-    .allergens {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: flex-end;
-      gap: 4px;
-      flex: 0 0 131px;
+    .item { position: relative; display: block; }
+    .item-name {
+      display: block; width: 100%; text-align: left;
+      background: transparent; border: 0; padding: 0;
+      font: inherit; color: inherit; cursor: help;
+      min-width: 0; overflow-wrap: anywhere;
     }
-    .allergen {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      width: 23px;
-      height: 23px;
-      padding: 0;
-      border: 1px solid #e7b784;
-      border-radius: 50%;
-      background: #fff0e0;
-      color: #663600;
-      font: 700 10px Arial, sans-serif;
-      cursor: pointer;
+    .item-name:focus-visible { outline: 2px solid var(--orange); outline-offset: 2px; }
+    .allergen-tooltip {
+      display: none; position: absolute; z-index: 10;
+      top: 100%; left: 0; width: min(320px, 100%);
+      padding: 10px 12px; border: 1px solid #ddd;
+      border-radius: 6px; background: #fff; color: #333;
+      box-shadow: 0 3px 12px rgba(0,0,0,.15);
+      font-size: 12px; line-height: 1.5;
     }
-    .allergen:focus-visible { outline: 2px solid #222; outline-offset: 2px; }
-    .allergen-unknown {
-      width: auto;
-      padding: 0 6px;
-      border-radius: 5px;
-      background: #f2f2f2;
-      border-color: #ccc;
-      color: #555;
-      font-weight: 400;
-    }
-    .preview-note, .allergen-legend, #allergen-detail {
-      font-size: 12px;
-      line-height: 1.5;
-      color: #555;
-    }
-    .allergen-legend { margin: 8px 0; }
-    #allergen-detail { min-height: 18px; margin: 6px 0 14px; }
-    @media (max-width: 400px) { .allergens { flex-basis: 104px; } }
+    .item:hover .allergen-tooltip,
+    .item:focus-within .allergen-tooltip,
+    .item.is-open .allergen-tooltip { display: block; }
+    .item.is-dismissed .allergen-tooltip { display: none; }
+    .preview-note { font-size: 12px; line-height: 1.5; color: #555; }
 
     footer {
       text-align: center;
@@ -260,7 +241,7 @@
 
   <main>
 
-    <p class="preview-note"><strong>Allergen badge preview</strong> · Uses the same menu data as Vol Dine. <a href="./">Back to the regular menu</a></p>
+    <p class="preview-note"><strong>Allergen hover preview</strong> · Uses the same menu data as Vol Dine. <a href="./">Back to the regular menu</a></p>
 
     <div class="controls">
 
@@ -285,9 +266,7 @@
     </div>
 
     <p id="status">Loading menu...</p>
-    <p class="allergen-legend">Contains: S = Soy · E = Eggs · M = Milk · W = Wheat · G = Gluten · P = Peanut · Se = Sesame · F = Fish · Sh = Shellfish · TN = Tree nuts</p>
-    <p class="preview-note">Tap a badge for its meaning. Missing badges do not guarantee allergen-free food. Unknown information is marked with “?”.</p>
-    <p id="allergen-detail" role="status" aria-live="polite"></p>
+    <p class="preview-note">Hover over a food name or tap it to see allergen information. Reported information does not guarantee allergen-free food.</p>
     <div id="menu"></div>
 
   </main>
@@ -313,33 +292,22 @@
       contains_tree_nuts: "TN"
     };
 
-    function allergenBadges(item) {
-      const badges = document.createElement("span");
-      badges.className = "allergens";
+    function allergenDescription(item) {
       const attributes = item.nutrition?.allergen_attributes || {};
       const unknown = [];
-      function addBadge(code, label, isUnknown = false) {
-        const badge = document.createElement("button");
-        badge.type = "button";
-        badge.className = "allergen" + (isUnknown ? " allergen-unknown" : "");
-        badge.textContent = code;
-        badge.title = label;
-        badge.setAttribute("aria-label", item.name + ": " + label);
-        badge.addEventListener("click", () => {
-          document.getElementById("allergen-detail").textContent = item.name + ": " + label;
-        });
-        badges.appendChild(badge);
-      }
-      for (const [key, code] of Object.entries(allergenCodes)) {
+      const contains = [];
+      for (const key of Object.keys(allergenCodes)) {
         const attribute = attributes[key];
+        const label = key.replace("contains_", "").replaceAll("_", " ");
         if (attribute?.value === "Y") {
-          addBadge(code, attribute.label);
+          contains.push(label);
         } else if (attribute?.value !== "N") {
-          unknown.push(attribute?.label || key.replace("contains_", "").replaceAll("_", " "));
+          unknown.push(label);
         }
       }
-      if (unknown.length) addBadge("?", "Unknown allergen information: " + unknown.join(", "), true);
-      return badges;
+      if (unknown.length === Object.keys(allergenCodes).length) return "Allergen information is unknown.";
+      return (contains.length ? "Contains: " + contains.join(", ") + "." : "No listed allergens reported.") +
+        (unknown.length ? " Unknown: " + unknown.join(", ") + "." : "");
     }
 
     async function loadMenu() {
@@ -349,7 +317,6 @@
       status.textContent = "Loading menu...";
       container.replaceChildren();
       stations = {};
-      document.getElementById("allergen-detail").textContent = "";
       menuStatus = "available";
 
       try {
@@ -389,7 +356,6 @@
     function displayMenu() {
       const selectedMeal = mealSelect.value;
       container.replaceChildren();
-      document.getElementById("allergen-detail").textContent = "";
 
       if (menuStatus === "no_menu") {
         container.textContent =
@@ -420,10 +386,31 @@
         for (const item of meal.menuItems) {
           const row = document.createElement("div");
           row.className = "item";
-          const name = document.createElement("span");
+          const name = document.createElement("button");
+          name.type = "button";
           name.className = "item-name";
           name.textContent = item.name;
-          row.append(name, allergenBadges(item));
+          const tooltip = document.createElement("span");
+          tooltip.className = "allergen-tooltip";
+          tooltip.id = "allergen-" + currentTooltipId++;
+          tooltip.setAttribute("role", "tooltip");
+          tooltip.textContent = allergenDescription(item);
+          name.setAttribute("aria-describedby", tooltip.id);
+          name.addEventListener("click", () => {
+            const wasOpen = row.classList.contains("is-open");
+            container.querySelectorAll(".is-open").forEach(el => el.classList.remove("is-open"));
+            row.classList.toggle("is-open", !wasOpen);
+            row.classList.toggle("is-dismissed", wasOpen);
+          });
+          name.addEventListener("keydown", event => {
+            if (event.key === "Escape") {
+              row.classList.remove("is-open");
+              row.classList.add("is-dismissed");
+            }
+          });
+          row.addEventListener("mouseleave", () => row.classList.remove("is-dismissed"));
+          name.addEventListener("blur", () => row.classList.remove("is-open", "is-dismissed"));
+          row.append(name, tooltip);
           section.appendChild(row);
         }
 
@@ -439,8 +426,10 @@
     hallSelect.addEventListener("change", loadMenu);
     mealSelect.addEventListener("change", displayMenu);
 
+    let currentTooltipId = 0;
     loadMenu();
   </script>
 
 </body>
 </html>
+
