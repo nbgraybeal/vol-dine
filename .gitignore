@@ -2,3 +2,5 @@ __pycache__/
 .venv/
 .env
 stokely_debug.html
+dist/
+.test-deps/
