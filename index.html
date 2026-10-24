@@ -253,6 +253,7 @@
     const container = document.getElementById("menu");
 
     let stations = {};
+    let menuStatus = "available";
     let requestNumber = 0;
 
     async function loadMenu() {
@@ -262,6 +263,7 @@
       status.textContent = "Loading menu...";
       container.replaceChildren();
       stations = {};
+      menuStatus = "available";
 
       try {
         const response = await fetch(
@@ -278,6 +280,7 @@
         if (currentRequest !== requestNumber) return;
 
         stations = data.stations || {};
+        menuStatus = data.status || "available";
 
         const timestamp = data.retrieved_at
           ? new Date(data.retrieved_at).toLocaleString()
@@ -299,6 +302,12 @@
     function displayMenu() {
       const selectedMeal = mealSelect.value;
       container.replaceChildren();
+
+      if (menuStatus === "no_menu") {
+        container.textContent =
+          "No menu published today. This dining hall may be closed.";
+        return;
+      }
 
       let stationCount = 0;
 

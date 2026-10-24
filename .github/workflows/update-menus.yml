@@ -30,6 +30,7 @@ jobs:
         run: python scraper.py
 
       - name: Save updated menu data
+        if: ${{ success() || failure() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

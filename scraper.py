@@ -41,10 +41,13 @@ def extract_menu(page_html):
 
             try:
                 data = json.loads(html.unescape(value))
-                if isinstance(data, dict) and isinstance(
-                    data.get("subLocations"), dict
-                ):
-                    return data
+                if isinstance(data, dict):
+                    stations = data.get("subLocations")
+                    if isinstance(stations, dict):
+                        return data
+                    if stations == []:
+                        data["subLocations"] = {}
+                        return data
             except (ValueError, TypeError):
                 continue
 
@@ -72,7 +75,8 @@ def update_hall(key, hall):
         "retrieved_at": datetime.now(
             timezone.utc
         ).isoformat(),
-        "stations": menu["subLocations"]
+        "stations": menu["subLocations"],
+        "status": "available" if menu["subLocations"] else "no_menu"
     }
 
     path = DATA_FOLDER / f"{key}.json"
