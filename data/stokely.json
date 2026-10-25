@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-10-25T20:58:01.643964+00:00",
+  "retrieved_at": "2026-10-25T21:24:44.690623+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -20228,134 +20228,6 @@
               }
             },
             {
-              "id": "54217",
-              "name": "Chicken Souvlaki",
-              "nutrition": {
-                "id": "7719",
-                "description": "Marinated chicken skewer",
-                "serving_size": "2 each",
-                "ingredient_statement": "Chicken Thigh, Cider Vinegar, Canola Oil, Garlic, Dried Oregano, Black Pepper, Paprika, Kosher Salt",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "190"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "7.5g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "1.5g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "130mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "143mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "0g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "0g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "0g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "27.2g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "11.8mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "1.2mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "340mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                }
-              }
-            },
-            {
               "id": "54078",
               "name": "French Fried Onions",
               "nutrition": {
@@ -21398,6 +21270,11 @@
           "name": "Lunch",
           "menuItems": [
             {
+              "id": "99812",
+              "name": "BBQ Chicken Pizza",
+              "nutrition": []
+            },
+            {
               "id": "54136",
               "name": "Classic Cheese Pizza",
               "nutrition": {
@@ -21585,134 +21462,6 @@
                   "potassium": {
                     "label": "Potassium",
                     "value": "25mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  }
-                }
-              }
-            },
-            {
-              "id": "54167",
-              "name": "Grilled Zucchini Flatbread",
-              "nutrition": {
-                "id": "7013",
-                "description": "Grilled zucchini and red onion, tomato topping, mozzarella and basil oil",
-                "serving_size": "each",
-                "ingredient_statement": "All Purpose Flour, Water, Water, Squash Zucchini, Tomato , Onion, Mozzarella Cheese, Vegetable Oil Blend, Vegetable Oil Blend, Vegetable Oil Blend, Basil, Onion, Vegetable Oil Blend, Basil, Kosher Salt, Granulated Sugar, Vegetable Oil Blend, Yeast, Black Pepper, Garlic Powder, Kosher Salt, Dried Oregano, Black Pepper, Montreal Steak Seasoning, Garlic, Black Pepper",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "550"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "36.5g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "5.5g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.5g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "10mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "517mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "47g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "3g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "3g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "11.8g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "120.3mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "2.9mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "260mg"
                   }
                 },
                 "allergen_attributes": {
@@ -31716,134 +31465,6 @@
               }
             },
             {
-              "id": "54178",
-              "name": "Garden Vegetable Soup",
-              "nutrition": {
-                "id": "7552",
-                "description": "Fresh carrot, potato, corn, spinach, peppers and zucchini simmered with beans in a garlic herb broth",
-                "serving_size": "6 fl oz",
-                "ingredient_statement": "Vegetable Soup ",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "80"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "0.5g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "0.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "0mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "680mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "16g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "3g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "3g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "3.3g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "48.1mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "1.1mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "320mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  }
-                }
-              }
-            },
-            {
               "id": "54179",
               "name": "Saltine Crackers",
               "nutrition": {
@@ -31962,6 +31583,134 @@
                     "label": "Vegan",
                     "value": "Y",
                     "formatted_value": "Yes"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  }
+                }
+              }
+            },
+            {
+              "id": "99813",
+              "name": "Vegetarian Minestrone Soup",
+              "nutrition": {
+                "id": "7549",
+                "description": "Hearty vegetable broth filled with kidney beans, carrot, green cabbage, sweet corn and penne rigate",
+                "serving_size": "6 fl oz",
+                "ingredient_statement": "Minestrone Soup (WATER,  DICED TOMATOES IN JUICE (TOMATOES, TOMATO JUICE, CITRIC ACID, CALCIUM  CHLORIDE), TOMATO PASTE, CARROTS, COOKED KIDNEY BEANS, ONIONS, CONTAINS LESS  THAN 2% OF CELERY, ZUCCHINI, ENRICHED MACARONI PRODUCT (DURUM SEMOLINA  [WHEAT], EGG WHITES, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN,  FOLIC ACID), CORN, CABBAGE, VEGETABLE SOUP BASE (COOKED VEGETABLES [CARROT,  ONION, CELERY], TOMATO PASTE, CANOLA OIL, POTATO FLOUR, YEAST EXTRACT, SALT,  ONION POWDER, GARLIC POWDER, SPICE, NATURAL FLAVOR), CHOPPED GARLIC (GARLIC,  WATER), SALT, MODIFIED CORN STARCH, SPICES)",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "60"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "0.5g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "0.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "0mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "642mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "12g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "2g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "3g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "2.7g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "46.9mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "1.3mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "290mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
@@ -32106,17 +31855,17 @@
               }
             },
             {
-              "id": "64428",
-              "name": "Garden Vegetable Soup",
+              "id": "99814",
+              "name": "Vegetarian Minestrone Soup",
               "nutrition": {
-                "id": "7552",
-                "description": "Fresh carrot, potato, corn, spinach, peppers and zucchini simmered with beans in a garlic herb broth",
+                "id": "7549",
+                "description": "Hearty vegetable broth filled with kidney beans, carrot, green cabbage, sweet corn and penne rigate",
                 "serving_size": "6 fl oz",
-                "ingredient_statement": "Vegetable Soup ",
+                "ingredient_statement": "Minestrone Soup (WATER,  DICED TOMATOES IN JUICE (TOMATOES, TOMATO JUICE, CITRIC ACID, CALCIUM  CHLORIDE), TOMATO PASTE, CARROTS, COOKED KIDNEY BEANS, ONIONS, CONTAINS LESS  THAN 2% OF CELERY, ZUCCHINI, ENRICHED MACARONI PRODUCT (DURUM SEMOLINA  [WHEAT], EGG WHITES, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN,  FOLIC ACID), CORN, CABBAGE, VEGETABLE SOUP BASE (COOKED VEGETABLES [CARROT,  ONION, CELERY], TOMATO PASTE, CANOLA OIL, POTATO FLOUR, YEAST EXTRACT, SALT,  ONION POWDER, GARLIC POWDER, SPICE, NATURAL FLAVOR), CHOPPED GARLIC (GARLIC,  WATER), SALT, MODIFIED CORN STARCH, SPICES)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "80"
+                    "value": "60"
                   },
                   "total_fat": {
                     "label": "Total Fat",
@@ -32136,15 +31885,15 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "680mg"
+                    "value": "642mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "16g"
+                    "value": "12g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "3g"
+                    "value": "2g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
@@ -32152,83 +31901,83 @@
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "3.3g"
+                    "value": "2.7g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "48.1mg"
+                    "value": "46.9mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.1mg"
+                    "value": "1.3mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "320mg"
+                    "value": "290mg"
                   }
                 },
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   }
                 },
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   }
                 }
               }
@@ -34702,25 +34451,25 @@
               }
             },
             {
-              "id": "54121",
-              "name": "Gardein® Chick'n Strips",
+              "id": "99811",
+              "name": "Just(R) Chicken",
               "nutrition": {
-                "id": "7354",
-                "description": "Gardein® Chick'n Strips",
-                "serving_size": "1 ozw",
-                "ingredient_statement": "Vegan Chicken Strips (Water, wheat flour, soy protein isolate, wheat gluten, vegetable oil (corn, canola and/or sunflower). Contains 2% or less of potato starch, yellow corn flour, maltodextrin, salt, yeast extract, spices, garlic powder, onion powder, tapioca starch, cornstarch, tricalcium phosphate, natural flavors, color added, leavening (sodium acid pyrophosphate, sodium bicarbonate), paprika extract color, xanthan gum.)",
+                "id": "16232",
+                "description": "Tender plant-based chicken made from plants, wheat and soy protein and lightly seasoned",
+                "serving_size": "4 ozw",
+                "ingredient_statement": "Vegan Chicken",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "60"
+                    "value": "200"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "2.0g"
+                    "value": "5.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "0.5g"
+                    "value": "1.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -34732,99 +34481,99 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "224mg"
+                    "value": "617mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "6g"
+                    "value": "5g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "1g"
+                    "value": "3g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "0g"
+                    "value": "1g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "5.4g"
+                    "value": "32.8g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "28.1mg"
+                    "value": "58.3mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.6mg"
+                    "value": "3.3mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "25mg"
+                    "value": "100mg"
                   }
                 },
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 },
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 }
               }
