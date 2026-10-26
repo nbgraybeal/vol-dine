@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-10-26T09:40:47.424227+00:00",
+  "retrieved_at": "2026-10-26T10:38:42.590460+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -25955,6 +25955,134 @@
           "id": "2",
           "name": "Lunch",
           "menuItems": [
+            {
+              "id": "100050",
+              "name": "Cavatappi",
+              "nutrition": {
+                "id": "2268",
+                "description": "Fresh cooked al dente corkscrew-shaped pasta",
+                "serving_size": "1/2 cup",
+                "ingredient_statement": "Water, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.)",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "90"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "0.5g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "0.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "0mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "7mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "18g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "1g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "1g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "3.2g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "12.6mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.7mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "55mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  }
+                }
+              }
+            },
             {
               "id": "57955",
               "name": "Chile-Roasted Corn",
