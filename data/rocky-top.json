@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-10-27T07:45:13.260349+00:00",
+  "retrieved_at": "2026-10-27T08:39:54.194198+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -5948,29 +5948,29 @@
           "name": "Lunch",
           "menuItems": [
             {
-              "id": "99342",
-              "name": "Grilled Cheese with Bacon",
+              "id": "100115",
+              "name": "Grilled Ham & Cheese Sandwich",
               "nutrition": {
-                "id": "2759",
-                "description": "Grilled American cheese and bacon sandwich on Texas Toast",
+                "id": "2756",
+                "description": "Grilled ham and American cheese sandwich on white bread",
                 "serving_size": "each",
-                "ingredient_statement": "Texas Toast (ENRICHED FLOUR (WHEAT FLOUR UNBLEACHED, MALTED BARLEY FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER, SUGAR, SOYBEAN OIL, WHEAT GLUTEN, CONTAINS LESS THAN 2% OF ASCORBIC ACID, CALCIUM PROPIONATE (TO RETAIN FRESHNESS), CALCIUM SULFATE, ENZYMES, YELLOW CORN FLOUR, TURMERIC, PAPRIKA, NATURAL FLAVOR, SALT, YEAST.), American Cheese (American Cheese (Milk, Cheese Culture, Salt, Enzymes), Water, Cream, Potassium Citrate, Sodium Citrate, Sorbic Acid As A Preservative, Color Added, Sunflower Lecithin (Release Agent).), Margarine (PALM OIL, WATER, SOYBEAN OIL, CONTAINS LESS THAN 2% OF SOY LECITHIN, VEGETABLE MONO & DIGLYCERIDES, POTASSIUM SORBATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED, WHEY.), Bacon (Pork Cured with Water, Salt, Sugar, Smoke Flavoring, Sodium Phosphates, Sodium Erythorbate, Sodium Nitrite.)",
+                "ingredient_statement": "Bread, American Cheese, Ham, Margarine",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "410"
+                    "value": "340"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "23.5g"
+                    "value": "19.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "11.0g"
+                    "value": "10.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
-                    "value": "0.0g"
+                    "value": "0.5g"
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
@@ -5978,35 +5978,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "714mg"
+                    "value": "753mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "32g"
+                    "value": "29g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "1g"
+                    "value": "0g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "3g"
+                    "value": "4g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "14.1g"
+                    "value": "14.6g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "227.5mg"
+                    "value": "221.0mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.9mg"
+                    "value": "1.6mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "310mg"
+                    "value": "490mg"
                   }
                 },
                 "allergen_attributes": {
@@ -6017,13 +6017,13 @@
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
@@ -6032,33 +6032,33 @@
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 },
                 "dietary_attributes": {
