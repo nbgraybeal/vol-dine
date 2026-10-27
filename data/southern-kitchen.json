@@ -1,7 +1,7 @@
 {
   "location": "Southern Kitchen",
   "source_url": "https://dining.utk.edu/vendor/southern-kitchen/",
-  "retrieved_at": "2026-10-27T14:21:33.007849+00:00",
+  "retrieved_at": "2026-10-27T15:19:52.534838+00:00",
   "stations": {
     "dessert-station": {
       "id": "13226",
@@ -2472,6 +2472,11 @@
                   }
                 }
               }
+            },
+            {
+              "id": "100201",
+              "name": "Plant-Based Beef Nachos",
+              "nutrition": []
             },
             {
               "id": "59722",
