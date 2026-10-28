@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-10-28T06:47:15.494072+00:00",
+  "retrieved_at": "2026-10-28T07:55:59.361494+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -14535,13 +14535,13 @@
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
@@ -14572,8 +14572,8 @@
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
@@ -15175,13 +15175,13 @@
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
@@ -15212,13 +15212,13 @@
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   }
                 }
               }
@@ -15309,13 +15309,13 @@
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
@@ -15346,8 +15346,8 @@
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
@@ -15821,13 +15821,13 @@
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
@@ -15858,8 +15858,8 @@
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
