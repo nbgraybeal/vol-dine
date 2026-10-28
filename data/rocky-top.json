@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-10-28T20:39:27.145927+00:00",
+  "retrieved_at": "2026-10-28T21:36:57.721956+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -7490,25 +7490,25 @@
               }
             },
             {
-              "id": "100207",
-              "name": "Chicken Crispy Breast",
+              "id": "100411",
+              "name": "Chicken Tenders",
               "nutrition": {
-                "id": "12646",
-                "description": "Golden, breaded chicken breast fried to perfection served on a toasted bun",
+                "id": "349",
+                "description": "Crispy golden brown chicken tenders",
                 "serving_size": "each",
-                "ingredient_statement": "Breaded Chicken Breast Fillet (Boneless, skinless chicken breast with rib meat, water, salt, sodium phosphates, seasoning [flavors, maltodextrin, sugar, salt, vegetable stock (carrot, onion, celery), garlic powder], modified food starch.BREADED WITH: Wheat flour, water, salt, contains 2% or less of:  wheat gluten, baking soda, celery seed, dextrose, extractives of paprika, annatto and turmeric, garlic powder, leavening (sodium bicarbonate), lemon juice solids, maltodextrin, onion powder, soybean oil, sugar, yeast, yeast extract, yellow corn flour. Breading set in vegetable oil.), Roll (unbleached enriched flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, high fructose corn syrup, yeast, contains 2% or less of each of the following: wheat gluten, salt, soybean oil, dough conditioners, contains one of more of the following: sodium stearoyl lactylate, calcium stearoyl lactylate, monoglycerides, mono- and diglycerides, distilled monoglycerides, calcium peroxide, calcium iodate, datem, ethoxylated mono- and diglycerides, enzymes, ascorbic acid), monocalcium phosphate, sesame flour, soy lecithin, calcium propionate (to retard spoilage). if seeded, sesame seeds added.)",
+                "ingredient_statement": "Breaded Chicken Tenders",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "380"
+                    "value": "170"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "15.5g"
+                    "value": "10.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "2.5g"
+                    "value": "1.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -7516,15 +7516,15 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "50mg"
+                    "value": "25mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "774mg"
+                    "value": "326mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "41g"
+                    "value": "9g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -7532,87 +7532,87 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "4g"
+                    "value": "0g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "20.7g"
+                    "value": "9.9g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "73.4mg"
+                    "value": "3.1mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "2.1mg"
+                    "value": "0.4mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "320mg"
+                    "value": "250mg"
                   }
                 },
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 },
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 }
               }
@@ -9044,134 +9044,6 @@
               }
             },
             {
-              "id": "60351",
-              "name": "Dill Pickle Slices",
-              "nutrition": {
-                "id": "1188",
-                "description": "Dill pickle slices",
-                "serving_size": "2 slice",
-                "ingredient_statement": "Pickle Slices (FRESH  CUCUMBERS, WATER, SALT, DISTILLED VINEGAR, CONTAINS LESS THAN 2% OF DRIED  GARLIC, CALCIUM CHLORIDE, SPICE, SODIUM BENZOATE (TO PRESERVE FLAVOR),  MUSTARD SEED, DRIED RED PEPPERS, NATURAL FLAVOR, POLYSORBATE 80, OLEORESIN  TURMERIC)",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "0"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "0.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "0.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "0mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "160mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "0g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "0g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "0g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "0.1g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "8.5mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.1mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "15mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
               "id": "60365",
               "name": "Jalapeno Peppers",
               "nutrition": {
@@ -9231,134 +9103,6 @@
                   "potassium": {
                     "label": "Potassium",
                     "value": "20mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
-              "id": "60507",
-              "name": "Lettuce",
-              "nutrition": {
-                "id": "1938",
-                "description": "Fresh lettuce leaves",
-                "serving_size": "1 cup",
-                "ingredient_statement": "Lettuce",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "5"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "0.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "0.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "0mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "10mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "1g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "0g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "0g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "0.5g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "13.0mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.3mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "70mg"
                   }
                 },
                 "allergen_attributes": {
@@ -32386,25 +32130,25 @@
               }
             },
             {
-              "id": "60481",
-              "name": "Southwest Sweet Potato Pancake",
+              "id": "100412",
+              "name": "Seasoned Rice",
               "nutrition": {
-                "id": "2163",
-                "description": "Sweet potatoes mixed with onion, kale and jalapenos baked until golden brown & crispy",
-                "serving_size": "each",
-                "ingredient_statement": "Chickpea Flour, Sweet Potato, Corn Kernels, Roasted Red Peppers, Kale, Onion, Kosher Salt, Jalapeno Pepper, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Cajun Seasoning (GARLIC, SPICES (INCLUDING PAPRIKA, OREGANO, RED PEPPER), SALT AND ONION.), Garlic, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Chili Powder (CHILI PEPPER, SPICES, SALT, SILICON DIOXIDE (TO MAKE FREE FLOWING) AND GARLIC), Cumin, Kosher Salt, Black Pepper",
+                "id": "2480",
+                "description": "Long grain white rice seasoned with salt and pepper",
+                "serving_size": "1/2 cup",
+                "ingredient_statement": "Water, White Rice, Canola Oil, Kosher Salt, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "410"
+                    "value": "130"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "6.5g"
+                    "value": "1.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "0.5g"
+                    "value": "0.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -32416,35 +32160,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "411mg"
+                    "value": "71mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "65g"
+                    "value": "27g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "12g"
+                    "value": "1g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "12g"
+                    "value": "0g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "21.5g"
+                    "value": "2.8g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "65.2mg"
+                    "value": "23.6mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "4.9mg"
+                    "value": "1.0mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "970mg"
+                    "value": "55mg"
                   }
                 },
                 "allergen_attributes": {
