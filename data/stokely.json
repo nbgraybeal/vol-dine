@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-10-29T20:41:02.543809+00:00",
+  "retrieved_at": "2026-10-29T21:39:06.526047+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -780,25 +780,25 @@
               }
             },
             {
-              "id": "61501",
-              "name": "Strawberry Shortcake",
+              "id": "100568",
+              "name": "Strawberry Shortcake ",
               "nutrition": {
-                "id": "6760",
-                "description": "Sweet sliced strawberries served in a home-made biscuit with whipped topping",
+                "id": "18402",
+                "description": "Fluffy biscuit layered with strawberry mousse, whipped topping and fresh strawberries",
                 "serving_size": "each",
-                "ingredient_statement": "Strawberries, Wheat Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Reduced Fat Milk, Whipped Topping (WATER, HIGH FRUCTOSE CORN SYRUP, HYDROGENATED VEGETABLE OIL (PALM, PALMKERNEL, COCONUT AND/OR COTTONSEED), CONTAINS LESS THAN 2% OF THEFOLLOWING: *SODIUM CASEINATE (A MILK DERIVATIVE), DEXTROSE, ARTIFICIAL FLAVOR,POLYSORBATE 60, SORBITAN MONOSTEARATE, GUAR GUM, XANTHAN GUM, COLOREDWITH TURMERIC AND ANNATTO EXTRACTS), Unsalted Butter (Pasteurized Cream, Natural Flavoring.), Liquid Egg Whites (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Cider Vinegar, Granulated Sugar, Baking Soda, Baking Powder, Kosher Salt",
+                "ingredient_statement": "Biscuit, Vanilla Pudding, Strawberries, Vanilla Icing, Whipped Topping, Whipped Topping, Strawberry Gelatin, Powdered Sugar",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "150"
+                    "value": "290"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "6.0g"
+                    "value": "11.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "4.5g"
+                    "value": "7.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -806,15 +806,15 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "15mg"
+                    "value": "0mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "178mg"
+                    "value": "506mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "21g"
+                    "value": "43g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -822,55 +822,55 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "5g"
+                    "value": "17g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "2.6g"
+                    "value": "4.2g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "42.4mg"
+                    "value": "126.7mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.3mg"
+                    "value": "5.8mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "70mg"
+                    "value": "200mg"
                   }
                 },
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
@@ -884,8 +884,8 @@
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
@@ -896,13 +896,13 @@
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 }
               }
