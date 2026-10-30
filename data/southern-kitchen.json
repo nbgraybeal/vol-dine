@@ -1,7 +1,7 @@
 {
   "location": "Southern Kitchen",
   "source_url": "https://dining.utk.edu/vendor/southern-kitchen/",
-  "retrieved_at": "2026-10-30T14:28:57.079678+00:00",
+  "retrieved_at": "2026-10-30T15:22:57.061526+00:00",
   "stations": {
     "dessert-station": {
       "id": "13226",
@@ -146,13 +146,13 @@
           "name": "Lunch",
           "menuItems": [
             {
-              "id": "60676",
-              "name": "Apple Peach Crisp",
+              "id": "100729",
+              "name": "Chocolate Chip Cookie",
               "nutrition": {
-                "id": "135",
-                "description": "Warm apples and peaches topped with crispy cinnamon graham cracker crumbs baked to golden perfection",
-                "serving_size": "1/2 cup",
-                "ingredient_statement": "Apples, Peaches in Pear Juice , Wheat Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Graham Cracker Crumbs (WHOLE WHEAT FLOUR, ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, VITAMIN B1 [THIAMIN MONONITRATE], VITAMIN B2 [RIBOFLAVIN], FOLIC ACID), SUGAR, VEGETABLE OIL (SOYBEAN AND/OR CANOLA), MOLASSES, HONEY, CORN SYRUP, CONTAINS 2% OR LESS OF LEAVENING (BAKING SODA, SODIUM ACID PYROPHOSPHATE, MONOCALCIUM PHOSPHATE), NATURAL FLAVORS, SALT, SOY LECITHIN), Granulated Sugar, Margarine (PALM OIL, WATER, SOYBEAN OIL, CONTAINS LESS THAN 2% OF SOY LECITHIN, VEGETABLE MONO & DIGLYCERIDES, POTASSIUM SORBATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED, WHEY.), Cinnamon",
+                "id": "168",
+                "description": "Chocolate chip cookies, perfectly melted, creating gooey rich chocolate in every bite",
+                "serving_size": "1 cookie",
+                "ingredient_statement": "Chocolate Chip Cookie (Enriched bleached flour (bleached wheat flour, malted barley flour, niacin, iron, thiamine mononitrate, riboflavin, folic acid), Sugar, Palm oil, Margarine (palm oil, water, soybean oil, contains 2% or less of: salt, mono- and diglycerides, natural flavor [contains milk], citric acid, vitamin A palmitate added, beta carotene [color]), Semi-sweet chocolate chips (sugar, unsweetened chocolate, cocoa butter, dextrose, soy lecithin, natural flavor, milk), Chocolate flavored chips (sugar, fractionated interesterified  vegetable fat [palm kernel and/or palm oils], cocoa powder [processed with alkali], dextrose, soy lecithin, polysorbate 60, sorbitan monostearate, natural flavor, salt, vanilla extract, milk), Water, Eggs, Dextrose, Contains 2% or less of: Molasses, Pregelatinized wheat starch, Baking soda, Salt, Natural and artificial flavors.)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -160,11 +160,11 @@
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "3.0g"
+                    "value": "5.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "1.0g"
+                    "value": "3.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -172,39 +172,39 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "0mg"
+                    "value": "5mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "22mg"
+                    "value": "97mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "24g"
+                    "value": "16g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "2g"
+                    "value": "0g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "15g"
+                    "value": "9g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "1.2g"
+                    "value": "1.1g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "9.7mg"
+                    "value": "3.5mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.6mg"
+                    "value": "0.9mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "140mg"
+                    "value": "25mg"
                   }
                 },
                 "allergen_attributes": {
@@ -215,8 +215,8 @@
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
@@ -240,13 +240,13 @@
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
@@ -255,8 +255,8 @@
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   }
                 },
                 "dietary_attributes": {
@@ -267,8 +267,8 @@
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   }
                 }
               }
@@ -2559,6 +2559,134 @@
                     "label": "Contains Gluten",
                     "value": "N",
                     "formatted_value": "No"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  }
+                }
+              }
+            },
+            {
+              "id": "100728",
+              "name": "Spicy Plant-Based Chicken Tenders",
+              "nutrition": {
+                "id": "283",
+                "description": "Baked plant-based chicken tenders glazed with a spicy sauce",
+                "serving_size": "3 each",
+                "ingredient_statement": "Vegan Tenders  (Water, wheat flour, soy protein isolate, wheat gluten, vegetable oil (corn, canola and/or sunflower). Contains 2% or less of potato starch, yellow corn flour, maltodextrin, salt, yeast extract, spices, garlic powder, onion powder, tapioca starch, cornstarch, tricalcium phosphate, natural flavors, color added, leavening (sodium acid pyrophosphate, sodium bicarbonate), paprika extract color, xanthan gum.), Buffalo Wing Sauce (AGED CAYENNE RED PEPPERS, DISTILLED VINEGAR, WATER, SALT & GARLIC POWDER)",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "390"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "13.5g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "2.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "0mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "1741mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "39g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "7g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "2g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "32.6g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "169.6mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "3.8mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "170mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
