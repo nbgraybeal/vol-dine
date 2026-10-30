@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-10-30T21:12:26.812788+00:00",
+  "retrieved_at": "2026-10-30T22:09:56.842863+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -6711,6 +6711,134 @@
                     "label": "Vegetarian",
                     "value": "U",
                     "formatted_value": "Unknown"
+                  }
+                }
+              }
+            },
+            {
+              "id": "100733",
+              "name": "Smokey Mountain Wafflewich",
+              "nutrition": {
+                "id": "18668",
+                "description": "Belgian waffle sandwich loaded with PorkBelly, crispy fried egg, tangy slaw, chipotle hollandaise, and bacon jam.",
+                "serving_size": "1 serving",
+                "ingredient_statement": "Pork Belly, Waffle (Enriched Wheat Flour (Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid, May Contain Malted Barley Flour), Water, Eggs, Sugar, Soybean And/Or Canola Oil, Egg Whites, Less Than 2% Of:Leavening (Sodium Bicarbonate, Sodium Aluminum Phosphate, Monocalcium Phosphate, Sodium Acid Pyrophosphate), Salt, Soy Lecithin, Emulsifier Blend (Propylene Glycol Monoesters, Mono-Diglycerides, Sodium Stearoyl Lactylate), Natural Flavors (Including Milk)), Scrambled Egg Patty Blend (WHOLE EGGS, WATER, SOYBEAN OIL, MODIFIED FOOD STARCH, WHEY, SALT, NONFAT DRIED MILK, CITRIC ACID.), Breading (Enriched Corn Flour (Corn Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Salt Spices (Including Red Pepper), Natural Flavor, Monosodium Glutamate (Flavor Enhancer), Garlic, Onion, and Lemon Juice Concentrate.), Water, Low-Fat Buttermilk, Cheddar Cheese (CHEDDAR CHEESE (CULTURED PASTEURIZED MILK, SALT, ENZYMES, ANNATTO [VEGETABLE COLOR]), ANTI-CAKING BLEND (POTATO STARCH,  POWDERED CELLULOSE)), Pancake Syrup  (CORN SYRUP, HIGH FRUCTOSE CORN SYRUP, WATER, CELLULOSE GUM, CARAMEL COLOR, SALT, NATURAL AND ARTIFICIAL FLAVOR, SODIUM BENZOATE AND SORBIC ACID (PRESERVATIVES), SODIUM HEXAMETAPHOSPHATE.), Onion, Hollandaise Sauce (BUTTER BASE [WATER, SKIM MILK, BUTTER, SALT, MONOGLYCERIDES, PGME], CREAM, CANOLA OIL, MODIFIED FOOD STARCH, LEMON JUICE, PALM OIL, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL FLAVOR, BETA CAROTENE (COLOR), CHICKEN FAT, SUGAR, DRIED ONION, SPICE, XANTHAN GUM, DISODIUM INOSINATE, DISODIUM GUANYLATE.), Green Cabbage, Brown Sugar, Chipotle Soup Base  (RED BELL PEPPER PUREE (RED PEPPERS, WATER, SALT, CITRIC ACID), MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), ONIONS, CHIOPTLE POWDER, SALT, SUGAR, OLIVE OIL, JALAPENO PEPPERS, SPICES, CARROT, CELERY, ONION POWDER, VINEGAR, MODIFIED CORNSTARCH, 2% OR LESS OF PALM OIL, GARLIC, YEAST EXTRACT, NATURAL SMOKE FLAVOR, CITRIC ACID, NATURAL FLAVORS.), Cider Vinegar, Bacon (Pork Bellies, Cured with water, salt, sugar, sodium phosphates, sodium erythorbate, sodium nitrite.), Wheat Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Dijon Mustard (Distilled White Vinegar, Mustard Seed, Water, Salt, White Wine, Citric Acid, Tartaric Acid, Fruit Pectin, Sugar, Spices), Cider Vinegar, Carrots, Honey, Worcestershire Sauce (DISTILLED VINEGAR, MOLASSES, WATER, CORN SYRUP, SALT, CARAMEL COLOR, SUGAR, SPICES, ANCHOVY (FISH), NATURAL FLAVOR (SOY), TAMARIND EXTRACT & SOY LECITHIN.), Garlic, Brown Sugar, Canola Oil, Chicken Base (CHICKEN MEAT AND NATURAL CHICKEN JUICES, MALTODEXTRIN, AUTOLYZED YEAST EXTRACT, NATURAL FLAVORS, SALT, CORN STARCH, 2% OR LESS OF VEGETABLE OIL (CORN AND/OR CANOLA OIL), DISODIUM INOSINATE, DRIED CHICKEN BROTH, TURMERIC AND ANNATTO (COLOR), POTATO STARCH, DISODIUM GUANYLATE, CHICKEN FAT, PAPRIKA (COLOR), DRIED CHICKEN, SUGAR, SPICES, PAPAIN, CITRIC ACID.), Granulated Sugar, Lemon Juice, Kosher Salt, Black Pepper, Garlic Powder, Thyme, Black Pepper, Tabasco Hot Sauce (DISTILLED VINEGAR, RED PEPPER, SALT.), Kosher Salt, Black Pepper, Tabasco Hot Sauce (DISTILLED VINEGAR, RED PEPPER, SALT.), Celery Seed, Black Pepper",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "320"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "18.5g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "6.5g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "75mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "811mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "31g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "1g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "12g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "7.3g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "81.8mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "2.2mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "160mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "N",
+                    "formatted_value": "No"
                   }
                 }
               }
@@ -31746,21 +31874,21 @@
               }
             },
             {
-              "id": "63472",
-              "name": "Snow Pea Veggie Mix",
+              "id": "100734",
+              "name": "Lemony Sugar Snap Peas",
               "nutrition": {
-                "id": "381",
-                "description": "Snow peas mixed with red pepper, scallions, carrots & mushrooms",
+                "id": "2445",
+                "description": "Sauteed fresh sugar snap peas tossed with lemon juice, salt and pepper",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Snow Peas, Red Bell Pepper, Carrots, Green Onion, Mushrooms",
+                "ingredient_statement": "Sugar Snap Peas, Lemon Juice, Canola Oil, Kosher Salt, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "25"
+                    "value": "40"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "0.0g"
+                    "value": "1.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
@@ -31776,7 +31904,7 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "11mg"
+                    "value": "49mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
@@ -31792,19 +31920,19 @@
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "1.4g"
+                    "value": "1.9g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "21.8mg"
+                    "value": "29.5mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.8mg"
+                    "value": "1.4mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "170mg"
+                    "value": "140mg"
                   }
                 },
                 "allergen_attributes": {
