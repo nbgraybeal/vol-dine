@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-10-31T15:07:54.665653+00:00",
+  "retrieved_at": "2026-10-31T16:05:35.439009+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -5686,134 +5686,6 @@
               }
             },
             {
-              "id": "63097",
-              "name": "Cheddar & Onion Hashbrown Casserole",
-              "nutrition": {
-                "id": "16317",
-                "description": "Golden brown hash brown potatoes, onion and cheddar",
-                "serving_size": "each",
-                "ingredient_statement": "Onion, Hash Brown Potato (POTATOES, DEXTROSE, DISODIUM PYROPHOSPHATE (ADDED TO MAINTAIN COLOR), POTASSIUM SORBATE (ADDED TO MAINTAIN FRESHNESS)), Cheddar Cheese (CHEDDAR CHEESE (CULTURED PASTEURIZED MILK, SALT, ENZYMES, ANNATTO [VEGETABLE COLOR]), ANTI-CAKING BLEND (POTATO STARCH,  POWDERED CELLULOSE)), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Kosher Salt, Black Pepper",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "200"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "18.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "4.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.5g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "15mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "144mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "6g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "1g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "1g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "3.6g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "102.0mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.1mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "105mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
               "id": "62995",
               "name": "Country Gravy",
               "nutrition": {
@@ -5942,25 +5814,25 @@
               }
             },
             {
-              "id": "62954",
-              "name": "French Toast",
+              "id": "100852",
+              "name": "French Toast Sticks",
               "nutrition": {
-                "id": "2765",
-                "description": "Golden brown and fluffy cinnamon-spiced thick-cut French toast",
-                "serving_size": "1 slice",
-                "ingredient_statement": "Texas Toast (ENRICHED FLOUR (WHEAT FLOUR UNBLEACHED, MALTED BARLEY FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER, SUGAR, SOYBEAN OIL, WHEAT GLUTEN, CONTAINS LESS THAN 2% OF ASCORBIC ACID, CALCIUM PROPIONATE (TO RETAIN FRESHNESS), CALCIUM SULFATE, ENZYMES, YELLOW CORN FLOUR, TURMERIC, PAPRIKA, NATURAL FLAVOR, SALT, YEAST.), Egg Blend (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Reduced Fat Milk, Granulated Sugar, Pure Vanilla Extract, Cinnamon, Nutmeg",
+                "id": "2353",
+                "description": "Baked bread in a sweet batter coating",
+                "serving_size": "1 serving",
+                "ingredient_statement": "French Toast Stick (BREAD (ENRICHED WHEAT FLOUR [WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN,REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID], WATER, SUGAR,YEAST, YELLOW CORN FLOUR, SALT, SOYBEAN OIL, WHEAT GLUTEN, CULTURED WHEATFLOUR, GRAIN VINEGAR, GLYCERYL MONOOLEATE, SOY LECITHIN, TURMERIC [COLOR],PAPRIKA EXTRACT [COLOR], POLYSORBATE 60, POLYSORBATE 80, ASCORBIC ACID,ENZYMES), WATER, SOYBEAN OIL, ENRICHED BLEACHED WHEAT FLOUR (WHEAT FLOUR,NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), ENRICHEDWHEAT FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE,RIBOFLAVIN, FOLIC ACID), SUGAR, YELLOW CORN FLOUR, CONTAINS LESS THAN 2% OFTHE FOLLOWING: SOY FLOUR, SALT, GUM ARABIC, SOY LECITHIN, DEXTROSE, YEAST,LEAVENING (BAKING SODA, MONOCALCIUM PHOSPHATE), NATURAL AND ARTIFICIALFLAVOR, CARRAGEENAN, POLYSORBATE 80.)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "120"
+                    "value": "300"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "3.0g"
+                    "value": "14.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "0.5g"
+                    "value": "2.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -5968,15 +5840,15 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "60mg"
+                    "value": "0mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "174mg"
+                    "value": "391mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "18g"
+                    "value": "39g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -5984,35 +5856,35 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "4g"
+                    "value": "8g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "5.0g"
+                    "value": "5.4g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "50.5mg"
+                    "value": "84.6mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.2mg"
+                    "value": "2.4mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "65mg"
+                    "value": "95mg"
                   }
                 },
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
@@ -6021,8 +5893,8 @@
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
@@ -6058,13 +5930,13 @@
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   }
                 }
               }
@@ -6193,6 +6065,134 @@
                     "label": "Vegetarian",
                     "value": "U",
                     "formatted_value": "Unknown"
+                  }
+                }
+              }
+            },
+            {
+              "id": "100853",
+              "name": "Hash Brown Potato Patty",
+              "nutrition": {
+                "id": "1307",
+                "description": "Crispy baked shredded potato patty",
+                "serving_size": "1 patty",
+                "ingredient_statement": "Hash Brown Potato (Potatoes, Vegetable Oil (Contains One Or More Of The Following Oils: Canola, Soybean, Cottonseed, Sunflower, Corn). Contains 2% or less of Dehydrated Onion, Dextrose, Natural Flavor, Salt, Sodium Acid Pyrophosphate Added To MaintainColor.)",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "90"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "5.5g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "0.5g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "0mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "236mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "10g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "1g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "0g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "0.8g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "6.1mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.2mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "160mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   }
                 }
               }
