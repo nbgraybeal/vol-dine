@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-10-31T07:49:52.166727+00:00",
+  "retrieved_at": "2026-10-31T08:41:59.395257+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -3754,7 +3754,7 @@
                 "id": "18569",
                 "description": "Tender elbow macaroni baked in a creamy Cheddar sauce with crunchy Asiago crumb topping",
                 "serving_size": "8 fl oz",
-                "ingredient_statement": "Water, Whole Milk, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Cheddar Cheese (CHEDDAR CHEESE (CULTURED PASTEURIZED MILK, SALT, ENZYMES, ANNATTO [VEGETABLE COLOR]), ANTI-CAKING BLEND (POTATO STARCH,  POWDERED CELLULOSE)), Heavy Cream, Wheat Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Margarine (PALM OIL, WATER, SOYBEAN OIL, CONTAINS LESS THAN 2% OF SOY LECITHIN, VEGETABLE MONO & DIGLYCERIDES, POTASSIUM SORBATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED, WHEY.), Asiago Cheese (Asiago Cheese (Cultured Pasteurized Milk, Salt, Enzymes), Anti-Caking Blend (Potato Starch, Powdered Cellulose).), Panko Bread Crumbs (WHEAT FLOUR, SUGAR, YEAST, SALT.), Ground Mustard, Tabasco Hot Sauce (DISTILLED VINEGAR, RED PEPPER, SALT.), Kosher Salt, Paprika, Black Pepper",
+                "ingredient_statement": "Water, Whole Milk, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Cheddar Cheese (CHEDDAR CHEESE (CULTURED PASTEURIZED MILK, SALT, ENZYMES, ANNATTO [VEGETABLE COLOR]), ANTI-CAKING BLEND (POTATO STARCH,  POWDERED CELLULOSE)), Heavy Cream, Wheat Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Margarine (PALM OIL, WATER, SOYBEAN OIL, CONTAINS LESS THAN 2% OF SOY LECITHIN, VEGETABLE MONO & DIGLYCERIDES, POTASSIUM SORBATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED, WHEY.), Panko Bread Crumbs (WHEAT FLOUR, SUGAR, YEAST, SALT.), Asiago Cheese (Asiago Cheese (Cultured Pasteurized Milk, Salt, Enzymes), Anti-Caking Blend (Potato Starch, Powdered Cellulose).), Ground Mustard, Tabasco Hot Sauce (DISTILLED VINEGAR, RED PEPPER, SALT.), Kosher Salt, Paprika, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -4004,41 +4004,41 @@
               }
             },
             {
-              "id": "63129",
-              "name": "Chipotle Honey Butter",
+              "id": "100825",
+              "name": "Cinnamon Honey Butter",
               "nutrition": {
-                "id": "824",
-                "description": "Chipotle, Honey, butter and salt",
+                "id": "757",
+                "description": "Honey, confectioners' sugar, cinnamon, butter and salt",
                 "serving_size": "1 ozw",
-                "ingredient_statement": "Unsalted Butter (Pasteurized Cream, Natural Flavoring.), Honey, Chipotle Soup Base  (RED BELL PEPPER PUREE (RED PEPPERS, WATER, SALT, CITRIC ACID), MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), ONIONS, CHIOPTLE POWDER, SALT, SUGAR, OLIVE OIL, JALAPENO PEPPERS, SPICES, CARROT, CELERY, ONION POWDER, VINEGAR, MODIFIED CORNSTARCH, 2% OR LESS OF PALM OIL, GARLIC, YEAST EXTRACT, NATURAL SMOKE FLAVOR, CITRIC ACID, NATURAL FLAVORS.), Kosher Salt",
+                "ingredient_statement": "Unsalted Butter (Pasteurized Cream, Natural Flavoring.), Honey, Powdered Sugar, Cinnamon, Kosher Salt",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "250"
+                    "value": "170"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "23.5g"
+                    "value": "14.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "14.5g"
+                    "value": "9.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
-                    "value": "1.0g"
+                    "value": "0.5g"
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "60mg"
+                    "value": "40mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "188mg"
+                    "value": "88mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "10g"
+                    "value": "13g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -4046,15 +4046,15 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "9g"
+                    "value": "12g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "0.1g"
+                    "value": "0.0g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "9.4mg"
+                    "value": "7.7mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -4062,7 +4062,7 @@
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "20mg"
+                    "value": "10mg"
                   }
                 },
                 "allergen_attributes": {
@@ -17704,134 +17704,6 @@
               }
             },
             {
-              "id": "63137",
-              "name": "Caesar Salad",
-              "nutrition": {
-                "id": "1592",
-                "description": "Crisp Romaine lettuce tossed with seasoned croutons, Parmesan and creamy Caesar dressing",
-                "serving_size": "1 serving",
-                "ingredient_statement": "Lettuce, Creamy Caesar Dressing (SOYBEAN OIL, DISTILLED VINEGAR, WATER, APPLE CIDER VINEGAR, ROMANO CHEESE (PASTEURIZED PART-SKIM MILK, CHEESE CULTURES, SALT, ENZYMES), SALT, CONTAINS LESS THAN 2% OF GARLIC,* SUGAR, TABASCO ® BRAND PEPPER SAUCE (DISTILLED VINEGAR, RED PEPPER, SALT), SPICE, MUSTARD FLOUR, ANCHOVIES, MALTODEXTRIN, CARRAGEENAN, XANTHAN GUM, BETA CAROTENE (COLOR). *DRIED.), Croutons (ENRICHED FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), CANOLA AND/OR SUNFLOWER OIL (WITH ROSEMARY EXTRACT AND ASCORBIC ACID [TO PRESERVE FRESHNESS]), WHEY, SALT, SUGAR, YEAST, 2% OR LESS OF SPICES, DEHYDRATED PARSLEY, ONION POWDER, PAPRIKA (COLOR), TURMERIC (COLOR), EXTRACTIVE OF PAPRIKA (COLOR), SPICE EXTRACTIVE, ENZYMES.), Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes). Anti-Caking Blend (Potato Starch, Powdered Cellulose).)",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "90"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "7.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "1.5g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "5mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "198mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "4g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "1g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "1g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "2.2g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "57.5mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.4mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "70mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                }
-              }
-            },
-            {
               "id": "63140",
               "name": "Cheese Sauce",
               "nutrition": {
@@ -18019,134 +17891,6 @@
                   "potassium": {
                     "label": "Potassium",
                     "value": "100mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
-              "id": "63068",
-              "name": "Fresh Parsley",
-              "nutrition": {
-                "id": "1381",
-                "description": "Chopped fresh parsley",
-                "serving_size": "1 tablespoon",
-                "ingredient_statement": "Parsley",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "0"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "0.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "0.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "0mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "0mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "0g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "0g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "0g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "0.1g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "4.9mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.2mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "20mg"
                   }
                 },
                 "allergen_attributes": {
@@ -20928,7 +20672,7 @@
                 "id": "1236",
                 "description": "Cavatappi pasta, fresh plum tomatoes, cucumbers, red onion and feta in creamy ranch dressing",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Water, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Plain Non-Fat Greek Yogurt (Cultured Milk. 6 Live and Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, and L. Rhamnosus.), Cucumber, Tomato , Water, Feta Cheese (Feta Cheese (Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes). Anti-Caking Blend (Powdered Cellulose, Natamycin [A Natural Mold Inhibitor]).), Onion, Lemon Juice, Ranch Dressing Mix (SALT, MONOSODIUM GLUTAMATE, GARLIC, MODIFIED CORN STARCH, SPICES, ONION, MALTODEXTRIN, LESS THAN 2% OF: NATURAL FLAVOR, GUAR GUM, CALCIUM STEARATE)",
+                "ingredient_statement": "Water, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Plain Non-Fat Greek Yogurt (Cultured Milk. 6 Live and Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, and L. Rhamnosus.), Tomato , Cucumber, Water, Feta Cheese (Feta Cheese (Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes). Anti-Caking Blend (Powdered Cellulose, Natamycin [A Natural Mold Inhibitor]).), Onion, Lemon Juice, Ranch Dressing Mix (SALT, MONOSODIUM GLUTAMATE, GARLIC, MODIFIED CORN STARCH, SPICES, ONION, MALTODEXTRIN, LESS THAN 2% OF: NATURAL FLAVOR, GUAR GUM, CALCIUM STEARATE)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -21312,7 +21056,7 @@
                 "id": "685",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "2 ozw",
-                "ingredient_statement": "Honeydew, Pineapple, Cantaloupe, Red Grapes, Blueberries, Strawberries",
+                "ingredient_statement": "Cantaloupe, Honeydew, Red Grapes, Pineapple, Blueberries, Strawberries",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -23878,7 +23622,7 @@
                 "id": "1236",
                 "description": "Cavatappi pasta, fresh plum tomatoes, cucumbers, red onion and feta in creamy ranch dressing",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Water, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Plain Non-Fat Greek Yogurt (Cultured Milk. 6 Live and Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, and L. Rhamnosus.), Cucumber, Tomato , Water, Feta Cheese (Feta Cheese (Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes). Anti-Caking Blend (Powdered Cellulose, Natamycin [A Natural Mold Inhibitor]).), Onion, Lemon Juice, Ranch Dressing Mix (SALT, MONOSODIUM GLUTAMATE, GARLIC, MODIFIED CORN STARCH, SPICES, ONION, MALTODEXTRIN, LESS THAN 2% OF: NATURAL FLAVOR, GUAR GUM, CALCIUM STEARATE)",
+                "ingredient_statement": "Water, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Plain Non-Fat Greek Yogurt (Cultured Milk. 6 Live and Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, and L. Rhamnosus.), Tomato , Cucumber, Water, Feta Cheese (Feta Cheese (Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes). Anti-Caking Blend (Powdered Cellulose, Natamycin [A Natural Mold Inhibitor]).), Onion, Lemon Juice, Ranch Dressing Mix (SALT, MONOSODIUM GLUTAMATE, GARLIC, MODIFIED CORN STARCH, SPICES, ONION, MALTODEXTRIN, LESS THAN 2% OF: NATURAL FLAVOR, GUAR GUM, CALCIUM STEARATE)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -24262,7 +24006,7 @@
                 "id": "685",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "2 ozw",
-                "ingredient_statement": "Honeydew, Pineapple, Cantaloupe, Red Grapes, Blueberries, Strawberries",
+                "ingredient_statement": "Cantaloupe, Honeydew, Red Grapes, Pineapple, Blueberries, Strawberries",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -29802,7 +29546,7 @@
                 "id": "429",
                 "description": "Slow-braised beef with chilies, lime and spices.",
                 "serving_size": "4 fl oz",
-                "ingredient_statement": "Beef Chuck, Water, Onion, Guajillo Paste (WATER, DEHYDRATED GUAJILLO, CHILE PEPPERS, SALT,   CONTAINS 2% OR LESS OF MODIFIED FOOD STARCH, SPICES, CORN OIL, DISTILLED   VINEGAR, DEHYDRATED GARLIC, DEHYDRATED ONION, CITRIC ACID (TO ACIDIFY).), Chili Paste (WATER, DEHYDRATED ANCHO PEPPERS, DEHYDRATED PASILLA PEPPERS, SPICES, CONTAINS 2% OR LESS OF SALT, MODIFIED FOOD STARCH, CORN OIL, DISTILLED VINEGAR, DEHYDRATED GARLIC, DEHYDRATED ONION, CITRIC ACID (TO ACIDIFY)), Lime Juice, Cider Vinegar, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Garlic, Cumin, Coriander, Beef Base (ROASTED BEEF AND CONCENTRATED BEEF STOCK, MALTODEXTRIN, AUTOLYZED YEAST EXTRACT, HYDROLYZED CORN PROTEIN, CORN STARCH, CARROT PURÉE, NATURAL FLAVORS, DISODIUM INOSINATE AND DISODIUM GUANYLATE, 2% OR LESS OF SALT, CARAMEL COLOR, VEGETABLE OIL (CORN AND/OR CANOLA OIL), PAPRIKA (COLOR), POTATO STARCH, DEXTROSE, LACTIC ACID.), Dried Oregano, Kosher Salt, Black Pepper",
+                "ingredient_statement": "Beef Chuck, Water, Onion, Chili Paste (WATER, DEHYDRATED ANCHO PEPPERS, DEHYDRATED PASILLA PEPPERS, SPICES, CONTAINS 2% OR LESS OF SALT, MODIFIED FOOD STARCH, CORN OIL, DISTILLED VINEGAR, DEHYDRATED GARLIC, DEHYDRATED ONION, CITRIC ACID (TO ACIDIFY)), Guajillo Paste (WATER, DEHYDRATED GUAJILLO, CHILE PEPPERS, SALT,   CONTAINS 2% OR LESS OF MODIFIED FOOD STARCH, SPICES, CORN OIL, DISTILLED   VINEGAR, DEHYDRATED GARLIC, DEHYDRATED ONION, CITRIC ACID (TO ACIDIFY).), Lime Juice, Cider Vinegar, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Garlic, Coriander, Cumin, Beef Base (ROASTED BEEF AND CONCENTRATED BEEF STOCK, MALTODEXTRIN, AUTOLYZED YEAST EXTRACT, HYDROLYZED CORN PROTEIN, CORN STARCH, CARROT PURÉE, NATURAL FLAVORS, DISODIUM INOSINATE AND DISODIUM GUANYLATE, 2% OR LESS OF SALT, CARAMEL COLOR, VEGETABLE OIL (CORN AND/OR CANOLA OIL), PAPRIKA (COLOR), POTATO STARCH, DEXTROSE, LACTIC ACID.), Dried Oregano, Kosher Salt, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -30070,7 +29814,7 @@
                 "id": "2251",
                 "description": "Bananas, kale, pineapples & apples mixed together",
                 "serving_size": "8 fl oz",
-                "ingredient_statement": "Water, Pineapple, Apple, Banana, Kale",
+                "ingredient_statement": "Water, Apple, Pineapple, Banana, Kale",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -30198,7 +29942,7 @@
                 "id": "1716",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Honeydew, Red Grapes, Pineapple, Cantaloupe",
+                "ingredient_statement": "Pineapple, Honeydew, Red Grapes, Cantaloupe",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -31100,7 +30844,7 @@
                 "id": "1716",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Honeydew, Red Grapes, Pineapple, Cantaloupe",
+                "ingredient_statement": "Pineapple, Honeydew, Red Grapes, Cantaloupe",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -31874,7 +31618,7 @@
                 "id": "1716",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Honeydew, Red Grapes, Pineapple, Cantaloupe",
+                "ingredient_statement": "Pineapple, Honeydew, Red Grapes, Cantaloupe",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -32934,7 +32678,7 @@
                 "id": "2522",
                 "description": "Flavorful plant-based jambalaya with vegetables and cayenne pepper over red beans and rice",
                 "serving_size": "1 serving",
-                "ingredient_statement": "Water, Tomatoes, Tomatoes, Okra, White Rice, Dark Red Kidney Beans, Green Bell Pepper, Red Bell Pepper, Celery, Onion, Onion, Green Bell Pepper, Green Onion, Garlic, Canola Oil, Garlic, Vegetable Base (SAUTEED VEGETABLE PUREE MIX (CARROTS, ONIONS, CELERY), CORN STARCH, MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), HYDROLYZED CORN PROTEIN, YEAST EXTRACT, TOMATO POWDER, WATER, ONION POWDER, 2% OR LESS OF DISODIUM INOSINATE AND DISODIUM GUANYLATE, SALT, GARLIC POWDER, PAPRIKA (COLOR), NATURAL FLAVORS, LACTIC ACID, NATURAL FLAVOR, MODIFIED CORNSTARCH, CITRIC ACID.), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Kosher Salt, Kosher Salt, Black Pepper, Black Pepper, Dried Oregano, Cayenne Pepper, Dried Bay Leaf",
+                "ingredient_statement": "Water, Tomatoes, Tomatoes, Okra, White Rice, Dark Red Kidney Beans, Red Bell Pepper, Green Bell Pepper, Celery, Onion, Onion, Green Bell Pepper, Green Onion, Garlic, Canola Oil, Garlic, Vegetable Base (SAUTEED VEGETABLE PUREE MIX (CARROTS, ONIONS, CELERY), CORN STARCH, MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), HYDROLYZED CORN PROTEIN, YEAST EXTRACT, TOMATO POWDER, WATER, ONION POWDER, 2% OR LESS OF DISODIUM INOSINATE AND DISODIUM GUANYLATE, SALT, GARLIC POWDER, PAPRIKA (COLOR), NATURAL FLAVORS, LACTIC ACID, NATURAL FLAVOR, MODIFIED CORNSTARCH, CITRIC ACID.), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Kosher Salt, Kosher Salt, Black Pepper, Black Pepper, Dried Oregano, Cayenne Pepper, Dried Bay Leaf",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
