@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-10-31T06:46:09.066932+00:00",
+  "retrieved_at": "2026-10-31T07:49:51.965514+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -274,7 +274,7 @@
                 "id": "12675",
                 "description": "Perfect balance of sweet & tart. Rich, buttery blondie with bursts of tangy lemon and blueberries",
                 "serving_size": "1 cut",
-                "ingredient_statement": "Yellow Cake (SUGAR, ENRICHED FLOUR BLEACHED (WHEAT FLOUR, NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), PALM OIL, DEXTROSE. CONTAINS 2% OR LESS OF: LEAVENING (SODIUM ALUMINUM PHOSPHATE, BAKING SODA), PROPYLENE GLYCOL MONO AND DIESTERS OF FATTY ACIDS, MODIFIED CORN STARCH, EGGS WITH SODIUM SILICOALUMINATE, EGG WHITE, SALT, NONFAT MILK, MONO AND DIGLYCERIDES, SOY LECITHIN, XANTHAN GUM, WHEY, NATURAL FLAVOR, ANNATTO AND TURMERIC EXTRACT COLOR.), Blueberries, Egg Blend (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Lemon Juice, Brown Sugar, Unsalted Butter (Pasteurized Cream, Natural Flavoring.), Powdered Sugar",
+                "ingredient_statement": "Yellow Cake (SUGAR, ENRICHED FLOUR BLEACHED (WHEAT FLOUR, NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), PALM OIL, DEXTROSE. CONTAINS 2% OR LESS OF: LEAVENING (SODIUM ALUMINUM PHOSPHATE, BAKING SODA), PROPYLENE GLYCOL MONO AND DIESTERS OF FATTY ACIDS, MODIFIED CORN STARCH, EGGS WITH SODIUM SILICOALUMINATE, EGG WHITE, SALT, NONFAT MILK, MONO AND DIGLYCERIDES, SOY LECITHIN, XANTHAN GUM, WHEY, NATURAL FLAVOR, ANNATTO AND TURMERIC EXTRACT COLOR.), Blueberries, Egg Blend (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Lemon Juice, Unsalted Butter (Pasteurized Cream, Natural Flavoring.), Brown Sugar, Powdered Sugar",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -1176,7 +1176,7 @@
                 "id": "12675",
                 "description": "Perfect balance of sweet & tart. Rich, buttery blondie with bursts of tangy lemon and blueberries",
                 "serving_size": "1 cut",
-                "ingredient_statement": "Yellow Cake (SUGAR, ENRICHED FLOUR BLEACHED (WHEAT FLOUR, NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), PALM OIL, DEXTROSE. CONTAINS 2% OR LESS OF: LEAVENING (SODIUM ALUMINUM PHOSPHATE, BAKING SODA), PROPYLENE GLYCOL MONO AND DIESTERS OF FATTY ACIDS, MODIFIED CORN STARCH, EGGS WITH SODIUM SILICOALUMINATE, EGG WHITE, SALT, NONFAT MILK, MONO AND DIGLYCERIDES, SOY LECITHIN, XANTHAN GUM, WHEY, NATURAL FLAVOR, ANNATTO AND TURMERIC EXTRACT COLOR.), Blueberries, Egg Blend (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Lemon Juice, Brown Sugar, Unsalted Butter (Pasteurized Cream, Natural Flavoring.), Powdered Sugar",
+                "ingredient_statement": "Yellow Cake (SUGAR, ENRICHED FLOUR BLEACHED (WHEAT FLOUR, NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), PALM OIL, DEXTROSE. CONTAINS 2% OR LESS OF: LEAVENING (SODIUM ALUMINUM PHOSPHATE, BAKING SODA), PROPYLENE GLYCOL MONO AND DIESTERS OF FATTY ACIDS, MODIFIED CORN STARCH, EGGS WITH SODIUM SILICOALUMINATE, EGG WHITE, SALT, NONFAT MILK, MONO AND DIGLYCERIDES, SOY LECITHIN, XANTHAN GUM, WHEY, NATURAL FLAVOR, ANNATTO AND TURMERIC EXTRACT COLOR.), Blueberries, Egg Blend (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Lemon Juice, Unsalted Butter (Pasteurized Cream, Natural Flavoring.), Brown Sugar, Powdered Sugar",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -22062,7 +22062,7 @@
                 "id": "6285",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "3 ozw",
-                "ingredient_statement": "Pineapple, Honeydew, Red Grapes, Cantaloupe, Blueberries, Strawberries",
+                "ingredient_statement": "Honeydew, Cantaloupe, Pineapple, Red Grapes, Blueberries, Strawberries",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -22702,7 +22702,7 @@
                 "id": "7787",
                 "description": "Cauliflower, carrots, celery, radishes and onion, tossed  with shredded cabbage and mixed greens",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Green Cabbage, Lettuce, Lettuce, Carrots, Cauliflower, Celery, Radish, Spinach, Onion",
+                "ingredient_statement": "Green Cabbage, Lettuce, Lettuce, Cauliflower, Carrots, Celery, Spinach, Onion, Radish",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -25140,7 +25140,7 @@
                 "id": "6285",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "3 ozw",
-                "ingredient_statement": "Pineapple, Honeydew, Red Grapes, Cantaloupe, Blueberries, Strawberries",
+                "ingredient_statement": "Honeydew, Cantaloupe, Pineapple, Red Grapes, Blueberries, Strawberries",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -25780,7 +25780,7 @@
                 "id": "7787",
                 "description": "Cauliflower, carrots, celery, radishes and onion, tossed  with shredded cabbage and mixed greens",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Green Cabbage, Lettuce, Lettuce, Carrots, Cauliflower, Celery, Radish, Spinach, Onion",
+                "ingredient_statement": "Green Cabbage, Lettuce, Lettuce, Cauliflower, Carrots, Celery, Spinach, Onion, Radish",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
