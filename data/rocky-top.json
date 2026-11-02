@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-11-02T07:17:46.743065+00:00",
+  "retrieved_at": "2026-11-02T08:41:25.647583+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -5430,134 +5430,6 @@
               }
             },
             {
-              "id": "67291",
-              "name": "Cheddar & Onion Hashbrown Casserole",
-              "nutrition": {
-                "id": "16317",
-                "description": "Golden brown hash brown potatoes, onion and cheddar",
-                "serving_size": "each",
-                "ingredient_statement": "Onion, Hash Brown Potato (POTATOES, DEXTROSE, DISODIUM PYROPHOSPHATE (ADDED TO MAINTAIN COLOR), POTASSIUM SORBATE (ADDED TO MAINTAIN FRESHNESS)), Cheddar Cheese (CHEDDAR CHEESE (CULTURED PASTEURIZED MILK, SALT, ENZYMES, ANNATTO [VEGETABLE COLOR]), ANTI-CAKING BLEND (POTATO STARCH,  POWDERED CELLULOSE)), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Kosher Salt, Black Pepper",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "200"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "18.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "4.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.5g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "15mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "144mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "6g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "1g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "1g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "3.6g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "102.0mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.1mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "105mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
               "id": "67162",
               "name": "Grits",
               "nutrition": {
@@ -5649,6 +5521,134 @@
                     "label": "Contains Gluten",
                     "value": "Y",
                     "formatted_value": "Yes"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  }
+                }
+              }
+            },
+            {
+              "id": "100876",
+              "name": "Hash Brown Potato Patty",
+              "nutrition": {
+                "id": "900",
+                "description": "Crispy fried shredded potato patty",
+                "serving_size": "each",
+                "ingredient_statement": "Hash Brown Potato (Potatoes, Vegetable Oil (Contains One Or More Of The Following Oils: Canola, Soybean, Cottonseed, Sunflower, Corn). Contains 2% or less of Dehydrated Onion, Dextrose, Natural Flavor, Salt, Sodium Acid Pyrophosphate Added To MaintainColor.)",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "100"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "6.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "1.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "0mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "264mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "12g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "1g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "0g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "0.9g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "6.8mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.2mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "180mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
