@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-02T15:26:10.759096+00:00",
+  "retrieved_at": "2026-11-02T16:32:55.021629+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -20880,17 +20880,17 @@
               }
             },
             {
-              "id": "62332",
-              "name": "Catering-Zucchini bread",
+              "id": "100878",
+              "name": "UT PUMPKIN BREAD",
               "nutrition": {
-                "id": "6311",
-                "description": "Catering-Zucchini bread",
-                "serving_size": "1 loaf",
-                "ingredient_statement": "Squash Zucchini, Brown Sugar, Wheat Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Canola Oil, Granulated Sugar, Liquid Whole Eggs (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Pure Vanilla Extract, Baking Soda, Baking Powder, Kosher Salt, Cinnamon",
+                "id": "13150",
+                "description": "N/A",
+                "serving_size": "1 slice",
+                "ingredient_statement": "Granulated Sugar, Canned Pumpkin, All Purpose Flour (Bleached  Wheat Flour, Malted Barley Flour, Niacin, Iron, Potassium Bromate, Thiamin  Mononitrate, Riboflavin, Folic Acid.), Canola Oil, Egg Blend (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Water, Pure Vanilla Extract, Baking Soda, Baking Powder, Salt, Nutmeg, Cinnamon, Cloves, Allspice",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "100"
+                    "value": "110"
                   },
                   "total_fat": {
                     "label": "Total Fat",
@@ -20906,39 +20906,39 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "10mg"
+                    "value": "15mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "66mg"
+                    "value": "103mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "13g"
+                    "value": "17g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "0g"
+                    "value": "1g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "9g"
+                    "value": "11g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "1.0g"
+                    "value": "1.6g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "13.5mg"
+                    "value": "13.8mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.4mg"
+                    "value": "0.5mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "40mg"
+                    "value": "30mg"
                   }
                 },
                 "allergen_attributes": {
@@ -20959,8 +20959,8 @@
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
@@ -20974,13 +20974,13 @@
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
@@ -20989,8 +20989,8 @@
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   }
                 },
                 "dietary_attributes": {
@@ -21001,8 +21001,8 @@
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   }
                 }
               }

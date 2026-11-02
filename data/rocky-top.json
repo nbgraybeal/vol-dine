@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-11-02T15:26:11.003894+00:00",
+  "retrieved_at": "2026-11-02T16:32:55.244957+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -26084,6 +26084,134 @@
           "name": "Lunch",
           "menuItems": [
             {
+              "id": "100879",
+              "name": "Al Pastor Pulled Pork",
+              "nutrition": {
+                "id": "18659",
+                "description": "Pulled pork marinated in a blend of pineapple & orange juice, chipotle and spices",
+                "serving_size": "1/2 cup",
+                "ingredient_statement": "Seasoned Pork (Pork), Pineapple Juice, Chipotle Peppers in Sauce (WATER, TOMATO PASTE, DRIED CHIPOTLE PEPPERS, DISTILLED VINEGAR, CORN OIL, CONTAINS 2% OR LESS OF IODIZED SALT (CONTAINS POTASSIUM IODATE), CORN STARCH, ONION POWDER, GARLIC POWDER, SPICES.), Orange Juice, Garlic, Kosher Salt, Cumin, Dried Oregano, Black Pepper",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "200"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "8.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "3.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "90mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "222mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "3g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "0g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "1g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "27.2g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "20.6mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "1.9mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "500mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                }
+              }
+            },
+            {
               "id": "67339",
               "name": "Chile-Roasted Corn",
               "nutrition": {
@@ -26719,134 +26847,6 @@
                     "label": "Vegetarian",
                     "value": "Y",
                     "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
-              "id": "67336",
-              "name": "Mozole Pork ",
-              "nutrition": {
-                "id": "820",
-                "description": "Roasted pork shoulder marinated in citrus, garlic, onions, hominy & fresh herbs",
-                "serving_size": "1/2 cup",
-                "ingredient_statement": "Pork Shoulder, Water, Hominy, Orange Juice, Onion, Pork Base (COOKED BONELESS PORK SIRLOIN, SALT, SUGAR,  MALTODEXTRIN, CORN OIL, HYDROLYZED SOY AND CORN PROTEINS, NATURAL FLAVORS,  WATER, 2% OR LESS OF MODIFIED CORNSTARCH, YEAST EXTRACT, DISODIUM INOSINATE,  DISODIUM GUANYLATE, CARAMEL COLOR, LACTIC ACID.), Lime Juice, Poblano Concentrate (FIRED ROASTED POBLANO PEPPERS, VEGETABLE OIL (CORN AND/OR CANOLA OIL), WATER, ONIONS, GARLIC PUREE, CORN MASA FLOUR, 2% OR LESS OF CILANTRO, LIME JUICE CONCENTRATE, SPICES, ONION POWDER, JALAPENOS, CITRIC ACID, XANTHAN GUM, CHIPOTLE POWDER, NATURAL FLAVORS, LIME), Guajillo Paste (WATER, DEHYDRATED GUAJILLO, CHILE PEPPERS, SALT,   CONTAINS 2% OR LESS OF MODIFIED FOOD STARCH, SPICES, CORN OIL, DISTILLED   VINEGAR, DEHYDRATED GARLIC, DEHYDRATED ONION, CITRIC ACID (TO ACIDIFY).), Cilantro, Garlic, Extra Virgin Olive Oil, Worcestershire Sauce (DISTILLED VINEGAR, MOLASSES, WATER, CORN SYRUP, SALT, CARAMEL COLOR, SUGAR, SPICES, ANCHOVY (FISH), NATURAL FLAVOR (SOY), TAMARIND EXTRACT & SOY LECITHIN.), Cumin, Dried Oregano, Kosher Salt, Black Pepper",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "220"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "13.5g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "4.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "55mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "853mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "8g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "1g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "2g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "17.1g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "42.5mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "2.0mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "370mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
                   }
                 }
               }
