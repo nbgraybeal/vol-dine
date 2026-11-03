@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-11-03T14:55:24.907178+00:00",
+  "retrieved_at": "2026-11-03T15:48:10.951953+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -10601,22 +10601,22 @@
               "id": "68205",
               "name": "Bacon Pieces",
               "nutrition": {
-                "id": "1211",
+                "id": "1212",
                 "description": "Real bacon pieces",
-                "serving_size": "2 ozw",
+                "serving_size": "1/2 ozw",
                 "ingredient_statement": "Bacon  Bits (Pork Cured With: Water, Salt, Sugar, Smoke Flavoring, Sodium Phosphates, Sodium Erythorbate, Sodium Nitrite.)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "290"
+                    "value": "70"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "23.0g"
+                    "value": "5.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "8.5g"
+                    "value": "2.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -10624,15 +10624,15 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "60mg"
+                    "value": "15mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "1058mg"
+                    "value": "264mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "3g"
+                    "value": "1g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -10640,23 +10640,23 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "2g"
+                    "value": "1g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "18.5g"
+                    "value": "4.6g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "24.8mg"
+                    "value": "6.2mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.0mg"
+                    "value": "0.3mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "310mg"
+                    "value": "80mg"
                   }
                 },
                 "allergen_attributes": {
@@ -11625,22 +11625,22 @@
               "id": "68257",
               "name": "Just® Scrambled Eggs",
               "nutrition": {
-                "id": "2381",
+                "id": "18909",
                 "description": "Plant-based scrambled eggs",
-                "serving_size": "1/2 cup",
+                "serving_size": "1/4 cup",
                 "ingredient_statement": "Plant Based Egg (Water, Mung Bean Protein, Expeller-Pressed Canola Oil, Contains less than 2% of Dehydrated Onion, Gellan Gum, Carrot Extractives (color), Turmeric Extractives (color), Potassium Citrate, Salt, Sugar, Tapioca Syrup Solids, Tetrasodium Pyrophosphate, Transglutaminase, Nisin (preservative).)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "140"
+                    "value": "70"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "9.5g"
+                    "value": "5.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "1.0g"
+                    "value": "0.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -11652,11 +11652,11 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "380mg"
+                    "value": "190mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "2g"
+                    "value": "1g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -11668,19 +11668,19 @@
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "11.5g"
+                    "value": "5.8g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "5.4mg"
+                    "value": "2.7mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "5.4mg"
+                    "value": "2.7mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "140mg"
+                    "value": "70mg"
                   }
                 },
                 "allergen_attributes": {
@@ -13947,26 +13947,26 @@
               "id": "68183",
               "name": "Garlic Butter",
               "nutrition": {
-                "id": "18750",
+                "id": "767",
                 "description": "Melted Garlic Butter",
-                "serving_size": "1 ozw",
+                "serving_size": "2 ozw",
                 "ingredient_statement": "Fryer Oil, Garlic Powder",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "250"
+                    "value": "490"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "27.0g"
+                    "value": "54.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "5.5g"
+                    "value": "11.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
-                    "value": "0.5g"
+                    "value": "1.0g"
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
@@ -13974,11 +13974,11 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "215mg"
+                    "value": "429mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "1g"
+                    "value": "2g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -13990,11 +13990,11 @@
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "0.2g"
+                    "value": "0.3g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "4.3mg"
+                    "value": "8.6mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -14002,7 +14002,7 @@
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "15mg"
+                    "value": "25mg"
                   }
                 },
                 "allergen_attributes": {
@@ -24917,22 +24917,22 @@
               "id": "68181",
               "name": "Bacon Pieces",
               "nutrition": {
-                "id": "1211",
+                "id": "1212",
                 "description": "Real bacon pieces",
-                "serving_size": "2 ozw",
+                "serving_size": "1/2 ozw",
                 "ingredient_statement": "Bacon  Bits (Pork Cured With: Water, Salt, Sugar, Smoke Flavoring, Sodium Phosphates, Sodium Erythorbate, Sodium Nitrite.)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "290"
+                    "value": "70"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "23.0g"
+                    "value": "5.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "8.5g"
+                    "value": "2.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -24940,15 +24940,15 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "60mg"
+                    "value": "15mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "1058mg"
+                    "value": "264mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "3g"
+                    "value": "1g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -24956,23 +24956,23 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "2g"
+                    "value": "1g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "18.5g"
+                    "value": "4.6g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "24.8mg"
+                    "value": "6.2mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.0mg"
+                    "value": "0.3mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "310mg"
+                    "value": "80mg"
                   }
                 },
                 "allergen_attributes": {
