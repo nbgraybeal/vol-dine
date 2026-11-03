@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-11-03T08:11:45.104141+00:00",
+  "retrieved_at": "2026-11-03T09:23:43.916886+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -1941,62 +1941,62 @@
               "id": "68217",
               "name": "Sugar Cookie",
               "nutrition": {
-                "id": "1522",
+                "id": "18906",
                 "description": "Sugar cookies with a buttery flavor that’s perfectly balanced by just the right amount of sweetness",
-                "serving_size": "1 cookie",
+                "serving_size": "162 cookie",
                 "ingredient_statement": "Sugar Cookie (ENRICHED BLEACHED FLOUR (BLEACHED WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), SUGAR, MARGARINE (PALM OIL, WATER, SOYBEAN OIL, CONTAINS 2% OR LESS OF: SALT, MONO- AND DIGLYCERIDES, NATURAL FLAVORS [CONTAINS MILK], CITRIC ACID, VITAMIN A PALMITATE ADDED, BETA CAROTENE [COLOR]), EGGS, CONTAINS 2% OR LESS OF: INVERT SUGAR, SALT, BAKING SODA, DEFATTED SOY FLOUR.)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "120"
+                    "value": "19010"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "5.0g"
+                    "value": "819.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "2.0g"
+                    "value": "343.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
-                    "value": "0.0g"
+                    "value": "7.0g"
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "5mg"
+                    "value": "1025mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "71mg"
+                    "value": "11447mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "17g"
+                    "value": "2690g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "0g"
+                    "value": "30g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "9g"
+                    "value": "1457g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "1.2g"
+                    "value": "200.3g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "2.6mg"
+                    "value": "414.1mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.8mg"
+                    "value": "122.6mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "15mg"
+                    "value": "2060mg"
                   }
                 },
                 "allergen_attributes": {
@@ -8931,22 +8931,22 @@
               "id": "68175",
               "name": "Bacon Pieces",
               "nutrition": {
-                "id": "1211",
+                "id": "1212",
                 "description": "Real bacon pieces",
-                "serving_size": "2 ozw",
+                "serving_size": "1/2 ozw",
                 "ingredient_statement": "Bacon  Bits (Pork Cured With: Water, Salt, Sugar, Smoke Flavoring, Sodium Phosphates, Sodium Erythorbate, Sodium Nitrite.)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "290"
+                    "value": "70"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "23.0g"
+                    "value": "5.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "8.5g"
+                    "value": "2.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -8954,15 +8954,15 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "60mg"
+                    "value": "15mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "1058mg"
+                    "value": "264mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "3g"
+                    "value": "1g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -8970,23 +8970,23 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "2g"
+                    "value": "1g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "18.5g"
+                    "value": "4.6g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "24.8mg"
+                    "value": "6.2mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.0mg"
+                    "value": "0.3mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "310mg"
+                    "value": "80mg"
                   }
                 },
                 "allergen_attributes": {
@@ -16159,18 +16159,18 @@
               "id": "68113",
               "name": "Salsa Verde",
               "nutrition": {
-                "id": "2068",
+                "id": "2067",
                 "description": "Zesty blend of tomatillos, onion, cilantro, jalapenos and lime juice",
-                "serving_size": "2 fl oz",
+                "serving_size": "1 fl oz",
                 "ingredient_statement": "Tomatillos, Onion, Cilantro, Lime Juice, Jalapeno Pepper, Kosher Salt",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "15"
+                    "value": "5"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "0.5g"
+                    "value": "0.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
@@ -16186,35 +16186,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "140mg"
+                    "value": "70mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "3g"
+                    "value": "1g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "1g"
+                    "value": "0g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "2g"
+                    "value": "1g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "0.4g"
+                    "value": "0.2g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "6.8mg"
+                    "value": "3.4mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.2mg"
+                    "value": "0.1mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "105mg"
+                    "value": "55mg"
                   }
                 },
                 "allergen_attributes": {
@@ -17978,17 +17978,17 @@
               }
             },
             {
-              "id": "68063",
-              "name": "Diced Watermelon",
+              "id": "100897",
+              "name": "Diced Pineapple",
               "nutrition": {
-                "id": "18342",
-                "description": "Diced fresh watermelon",
+                "id": "1116",
+                "description": "Fresh diced pineapple",
                 "serving_size": "1/4 cup",
-                "ingredient_statement": "Watermelon",
+                "ingredient_statement": "Pineapple",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "10"
+                    "value": "25"
                   },
                   "total_fat": {
                     "label": "Total Fat",
@@ -18012,23 +18012,23 @@
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "3g"
+                    "value": "6g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "0g"
+                    "value": "1g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "2g"
+                    "value": "5g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "0.2g"
+                    "value": "0.3g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "2.7mg"
+                    "value": "6.4mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -18036,7 +18036,7 @@
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "45mg"
+                    "value": "55mg"
                   }
                 },
                 "allergen_attributes": {
@@ -18877,14 +18877,14 @@
               "id": "68034",
               "name": "Vol Dining Blueberry Smoothie",
               "nutrition": {
-                "id": "16251",
+                "id": "650",
                 "description": "Blueberries blended with apple juice",
-                "serving_size": "8 fl oz",
+                "serving_size": "4 fl oz",
                 "ingredient_statement": "Blueberries, Ice Cubes, Apple Juice (100% Apple Juice from Concentrate (Filtered Water  and Concentrated Apple Juice), Natural Flavors, Malic Acid and Ascorbic Acid  (Vitamin C))",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "70"
+                    "value": "35"
                   },
                   "total_fat": {
                     "label": "Total Fat",
@@ -18904,35 +18904,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "6mg"
+                    "value": "0mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "16g"
+                    "value": "8g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "3g"
+                    "value": "1g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "12g"
+                    "value": "6g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "0.5g"
+                    "value": "0.2g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "13.9mg"
+                    "value": "6.9mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.2mg"
+                    "value": "0.1mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "85mg"
+                    "value": "45mg"
                   }
                 },
                 "allergen_attributes": {
@@ -29817,22 +29817,22 @@
               "id": "68210",
               "name": "Just® Scrambled Eggs",
               "nutrition": {
-                "id": "2381",
+                "id": "18909",
                 "description": "Plant-based scrambled eggs",
-                "serving_size": "1/2 cup",
+                "serving_size": "1/4 cup",
                 "ingredient_statement": "Plant Based Egg (Water, Mung Bean Protein, Expeller-Pressed Canola Oil, Contains less than 2% of Dehydrated Onion, Gellan Gum, Carrot Extractives (color), Turmeric Extractives (color), Potassium Citrate, Salt, Sugar, Tapioca Syrup Solids, Tetrasodium Pyrophosphate, Transglutaminase, Nisin (preservative).)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "140"
+                    "value": "70"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "9.5g"
+                    "value": "5.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "1.0g"
+                    "value": "0.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -29844,11 +29844,11 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "380mg"
+                    "value": "190mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "2g"
+                    "value": "1g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -29860,19 +29860,19 @@
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "11.5g"
+                    "value": "5.8g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "5.4mg"
+                    "value": "2.7mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "5.4mg"
+                    "value": "2.7mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "140mg"
+                    "value": "70mg"
                   }
                 },
                 "allergen_attributes": {
