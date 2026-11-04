@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-04T20:21:45.377962+00:00",
+  "retrieved_at": "2026-11-04T21:22:13.270719+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -33148,25 +33148,25 @@
               }
             },
             {
-              "id": "62786",
-              "name": "Kale Chimichurri",
+              "id": "101363",
+              "name": "Fresh Whole Green Beans",
               "nutrition": {
-                "id": "6996",
-                "description": "Blend of kale, parsley, garlic, oregano, crushed red pepper, red wine vinegar and oil",
-                "serving_size": "2 fl oz",
-                "ingredient_statement": "Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Kale, Parsley, Red Wine Vinegar, Garlic, Kosher Salt, Black Pepper, Crushed Red Pepper, Dried Oregano",
+                "id": "6362",
+                "description": "Steamed fresh whole green beans",
+                "serving_size": "3 ozw",
+                "ingredient_statement": "Green Beans",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "190"
+                    "value": "30"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "20.5g"
+                    "value": "0.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "2.5g"
+                    "value": "0.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -33178,35 +33178,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "146mg"
+                    "value": "5mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "2g"
+                    "value": "6g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "1g"
+                    "value": "2g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "0g"
+                    "value": "3g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "0.6g"
+                    "value": "1.6g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "34.4mg"
+                    "value": "33.0mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.7mg"
+                    "value": "0.9mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "80mg"
+                    "value": "190mg"
                   }
                 },
                 "allergen_attributes": {
@@ -33276,25 +33276,25 @@
               }
             },
             {
-              "id": "62784",
-              "name": "Lemon Broccoli",
+              "id": "62786",
+              "name": "Kale Chimichurri",
               "nutrition": {
-                "id": "7922",
-                "description": "Steamed fresh broccoli florets tossed with salt, pepper and a touch of freshly grated lemon zest",
-                "serving_size": "1/2 cup",
-                "ingredient_statement": "Broccoli, Lemon Zest, Kosher Salt, Black Pepper",
+                "id": "6996",
+                "description": "Blend of kale, parsley, garlic, oregano, crushed red pepper, red wine vinegar and oil",
+                "serving_size": "2 fl oz",
+                "ingredient_statement": "Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Kale, Parsley, Red Wine Vinegar, Garlic, Kosher Salt, Black Pepper, Crushed Red Pepper, Dried Oregano",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "20"
+                    "value": "190"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "0.0g"
+                    "value": "20.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "0.0g"
+                    "value": "2.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -33306,11 +33306,11 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "52mg"
+                    "value": "146mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "4g"
+                    "value": "2g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -33318,23 +33318,23 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "1g"
+                    "value": "0g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "1.5g"
+                    "value": "0.6g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "26.1mg"
+                    "value": "34.4mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.4mg"
+                    "value": "0.7mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "170mg"
+                    "value": "80mg"
                   }
                 },
                 "allergen_attributes": {
