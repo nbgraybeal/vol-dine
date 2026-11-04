@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-11-04T07:06:35.482790+00:00",
+  "retrieved_at": "2026-11-04T08:21:46.902251+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -3882,7 +3882,7 @@
                 "id": "863",
                 "description": "Roasted fresh mushrooms, onion, zucchini, yellow squash, green and red peppers and chopped garlic",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Squash Zucchini, Onion, Squash, Green Bell Pepper, Red Bell Pepper, Mushrooms, Garlic, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Italian Seasoning (MARJORAM, THYME, ROSEMARY, SAVORY, SAGE, OREGANO, AND BASIL.)",
+                "ingredient_statement": "Squash Zucchini, Onion, Squash, Green Bell Pepper, Red Bell Pepper, Mushrooms, Garlic, Vegetable Oil Blend, Italian Seasoning",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -3940,65 +3940,65 @@
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 },
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 }
               }
@@ -15102,7 +15102,7 @@
                 "id": "2742",
                 "description": "Freshly baked garlic herb breadstick",
                 "serving_size": "each",
-                "ingredient_statement": "Breadstick (ENRICHED WHEAT FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR,NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER,LIQUID MARGARINE (SOYBEAN OIL, WATER, SALT, HYDROGENATED SOYBEAN OIL, MONO ANDDIGLYCERIDES, SOYBEAN LECITHIN (SOY), SODIUM BENZOATE (PRESERVATIVES),ARTIFICIAL BUTTER FLAVOR, COLORED WITH BETA CAROTINE, VITAMIN A PALMITATEADDED), WATER, LIQUID SUGAR, GARLIC, SOYBEAN OIL, SALT (SALT, YELLOW PRUSSIATEOF SODA), MONOGLYCERIDES (WATER, MONOGLYCERIDES AND 2% OR LESS OF EACH OF THEFOLLOWING: PRESERVATIVES (PROPIONIC ACID, PHOSPHORIC ACID), DRIED OREGANO,CALCIUM PROPIONATE, DOUGH CONDITIONER (WHEAT FLOUR, ASCORBIC ACID, ENZYMES),SALT, DRY YEAST (INACTIVE), VEGETABLE OIL BLEND (SOYBEAN OIL, SOY LECITHIN)), Extra Virgin Olive Oil, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Asiago Cheese (Asiago Cheese (Cultured Pasteurized Milk, Salt, Enzymes), Anti-Caking Blend (Potato Starch, Powdered Cellulose).), Italian Seasoning (MARJORAM, THYME, ROSEMARY, SAVORY, SAGE, OREGANO, AND BASIL.), Garlic Powder, Black Pepper",
+                "ingredient_statement": "Breadstick, Extra Virgin Olive Oil, Vegetable Oil Blend, Asiago Cheese, Italian Seasoning, Garlic Powder, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -15160,65 +15160,65 @@
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 },
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 }
               }
@@ -15876,7 +15876,7 @@
                 "id": "2742",
                 "description": "Freshly baked garlic herb breadstick",
                 "serving_size": "each",
-                "ingredient_statement": "Breadstick (ENRICHED WHEAT FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR,NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER,LIQUID MARGARINE (SOYBEAN OIL, WATER, SALT, HYDROGENATED SOYBEAN OIL, MONO ANDDIGLYCERIDES, SOYBEAN LECITHIN (SOY), SODIUM BENZOATE (PRESERVATIVES),ARTIFICIAL BUTTER FLAVOR, COLORED WITH BETA CAROTINE, VITAMIN A PALMITATEADDED), WATER, LIQUID SUGAR, GARLIC, SOYBEAN OIL, SALT (SALT, YELLOW PRUSSIATEOF SODA), MONOGLYCERIDES (WATER, MONOGLYCERIDES AND 2% OR LESS OF EACH OF THEFOLLOWING: PRESERVATIVES (PROPIONIC ACID, PHOSPHORIC ACID), DRIED OREGANO,CALCIUM PROPIONATE, DOUGH CONDITIONER (WHEAT FLOUR, ASCORBIC ACID, ENZYMES),SALT, DRY YEAST (INACTIVE), VEGETABLE OIL BLEND (SOYBEAN OIL, SOY LECITHIN)), Extra Virgin Olive Oil, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Asiago Cheese (Asiago Cheese (Cultured Pasteurized Milk, Salt, Enzymes), Anti-Caking Blend (Potato Starch, Powdered Cellulose).), Italian Seasoning (MARJORAM, THYME, ROSEMARY, SAVORY, SAGE, OREGANO, AND BASIL.), Garlic Powder, Black Pepper",
+                "ingredient_statement": "Breadstick, Extra Virgin Olive Oil, Vegetable Oil Blend, Asiago Cheese, Italian Seasoning, Garlic Powder, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -15934,65 +15934,65 @@
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 },
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 }
               }
@@ -33324,7 +33324,7 @@
                 "id": "2202",
                 "description": "Achiote rice with onions, peppers, garlic and cilantro",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Water, White Rice, Onion, Green Bell Pepper, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Vegetable Base (SAUTEED VEGETABLE PUREE MIX (CARROTS, ONIONS, CELERY), CORN STARCH, MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), HYDROLYZED CORN PROTEIN, YEAST EXTRACT, TOMATO POWDER, WATER, ONION POWDER, 2% OR LESS OF DISODIUM INOSINATE AND DISODIUM GUANYLATE, SALT, GARLIC POWDER, PAPRIKA (COLOR), NATURAL FLAVORS, LACTIC ACID, NATURAL FLAVOR, MODIFIED CORNSTARCH, CITRIC ACID.), Achiote Paste (VINEGAR, ANNATTO SEED, SPICES, SALT, GARLIC.), Cilantro, Garlic, Kosher Salt",
+                "ingredient_statement": "Water, White Rice, Green Bell Pepper, Onion, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Vegetable Base (SAUTEED VEGETABLE PUREE MIX (CARROTS, ONIONS, CELERY), CORN STARCH, MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), HYDROLYZED CORN PROTEIN, YEAST EXTRACT, TOMATO POWDER, WATER, ONION POWDER, 2% OR LESS OF DISODIUM INOSINATE AND DISODIUM GUANYLATE, SALT, GARLIC POWDER, PAPRIKA (COLOR), NATURAL FLAVORS, LACTIC ACID, NATURAL FLAVOR, MODIFIED CORNSTARCH, CITRIC ACID.), Achiote Paste (VINEGAR, ANNATTO SEED, SPICES, SALT, GARLIC.), Cilantro, Garlic, Kosher Salt",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
