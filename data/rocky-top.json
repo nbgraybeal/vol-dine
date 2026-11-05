@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-11-05T14:55:12.084519+00:00",
+  "retrieved_at": "2026-11-05T15:56:40.300420+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -6279,6 +6279,134 @@
                     "label": "Contains Milk",
                     "value": "N",
                     "formatted_value": "No"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  }
+                }
+              }
+            },
+            {
+              "id": "101615",
+              "name": "Whipped Butter",
+              "nutrition": {
+                "id": "2191",
+                "description": "Unsalted whipped butter",
+                "serving_size": "1 tablespoon",
+                "ingredient_statement": "Unsalted Butter (Pasteurized Cream, Natural Flavoring.)",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "80"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "8.5g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "5.5g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.5g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "25mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "0mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "0g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "0g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "0g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "0.0g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "2.6mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.0mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "0mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
@@ -29686,25 +29814,25 @@
           "name": "Breakfast",
           "menuItems": [
             {
-              "id": "63981",
-              "name": "Banana Muffin",
+              "id": "101616",
+              "name": "Apple Cinnamon Muffin",
               "nutrition": {
-                "id": "2424",
-                "description": "Banana Muffin",
+                "id": "2332",
+                "description": "Freshly baked apple cinnamon muffin",
                 "serving_size": "1 muffin",
-                "ingredient_statement": "Rice Flour (Sweet White Rice Flour, Whole Grain Brown Rice Flour, Potato Starch, Whole Grain Sweet White Sorghum Flour, Tapioca Flour, Xanthan Gum.), Granulated Sugar, Banana, Oat Milk (Oat base (water, oats), low erucic acid rapeseed oil. Contains 2% or less of: dipotassium phosphate, calcium carbonate, tricalcium phosphate, sea salt, dicalcium phosphate, riboflavin, vitamin A acetate, vitamin D2, vitamin B12), Plant Based Butter Spread (PALM KERNEL AND PALM OIL, WATER, SUNFLOWER OIL, PEA PROTEIN, SUNFLOWER LECITHIN, LACTIC ACID, NATURAL FLAVOR, ANNATTO (COLOR), VITAMIN A PALMITATE.), Sunflower Seeds, Egg Substitute (Potato Starch, Tapioca Flour, Baking Soda, Psyllium Husk Powder), Baking Powder, Xanthan Gum, Kosher Salt, Pure Vanilla Extract",
+                "ingredient_statement": "Rice Flour (Sweet White Rice Flour, Whole Grain Brown Rice Flour, Potato Starch, Whole Grain Sweet White Sorghum Flour, Tapioca Flour, Xanthan Gum.), Granulated Sugar, Apple Pie Filling (APPLE SLICES, WATER, HIGH FRUCTOSE CORN SYRUP,  FOOD STARCH MODIFIED (CORN), APPLE JUICE CONCENTRATE, NATURAL FRUIT FLAVOR,  POTASSIUM SORBATE (PRESERVATIVE), CITRIC ACID, SPICES AND ASCORBIC ACID TO  MAINTIN COLOR. ), Oat Milk (Oat base (water, oats), low erucic acid rapeseed oil. Contains 2% or less of: dipotassium phosphate, calcium carbonate, tricalcium phosphate, sea salt, dicalcium phosphate, riboflavin, vitamin A acetate, vitamin D2, vitamin B12), Plant Based Butter Spread (PALM KERNEL AND PALM OIL, WATER, SUNFLOWER OIL, PEA PROTEIN, SUNFLOWER LECITHIN, LACTIC ACID, NATURAL FLAVOR, ANNATTO (COLOR), VITAMIN A PALMITATE.), Rice Flour (Sweet White Rice Flour, Whole Grain Brown Rice Flour, Potato Starch, Whole Grain Sweet White Sorghum Flour, Tapioca Flour, Xanthan Gum.), Plant Based Butter Spread (PALM KERNEL AND PALM OIL, WATER, SUNFLOWER OIL, PEA PROTEIN, SUNFLOWER LECITHIN, LACTIC ACID, NATURAL FLAVOR, ANNATTO (COLOR), VITAMIN A PALMITATE.), Egg Substitute (Potato Starch, Tapioca Flour, Baking Soda, Psyllium Husk Powder), Baking Powder, Brown Sugar, Granulated Sugar, Xanthan Gum, Kosher Salt, Pure Vanilla Extract, Cinnamon",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "380"
+                    "value": "410"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "12.5g"
+                    "value": "13.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "6.5g"
+                    "value": "8.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -29716,35 +29844,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "408mg"
+                    "value": "412mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "41g"
+                    "value": "44g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "2g"
+                    "value": "1g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "32g"
+                    "value": "36g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "3.0g"
+                    "value": "2.3g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "163.6mg"
+                    "value": "163.9mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.9mg"
+                    "value": "0.8mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "200mg"
+                    "value": "120mg"
                   }
                 },
                 "allergen_attributes": {
