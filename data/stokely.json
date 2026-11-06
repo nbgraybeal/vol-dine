@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-06T20:44:31.435378+00:00",
+  "retrieved_at": "2026-11-06T21:38:21.262665+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -22038,25 +22038,25 @@
           "name": "Lunch",
           "menuItems": [
             {
-              "id": "58664",
-              "name": "Cherry Chocolate Streusel Pizza",
+              "id": "101812",
+              "name": "Blueberry Streusel Pizza",
               "nutrition": {
-                "id": "6321",
-                "description": "Crispy pizza crust topped with cherry compote, chocolate & cinnamon oat streusel",
+                "id": "6127",
+                "description": "Crispy pizza crust topped with blueberry compote & cinnamon oat streusel",
                 "serving_size": "each",
-                "ingredient_statement": "Dough, Cherry Pie Filling, Granola, Chocolate Chips, Wheat Flour, Oatmeal , Margarine, Powdered Sugar, Brown Sugar, Granulated Sugar, Lemon Juice, Water, Cinnamon",
+                "ingredient_statement": "Dough, Blueberries, Granola, Wheat Flour, Oatmeal , Margarine, Granulated Sugar, Brown Sugar, Brown Sugar, Granulated Sugar, Lemon Juice, Water, Margarine, Cornstarch, Cinnamon",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "180"
+                    "value": "80"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "3.5g"
+                    "value": "1.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "1.5g"
+                    "value": "0.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -22068,35 +22068,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "180mg"
+                    "value": "79mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "33g"
+                    "value": "15g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "2g"
+                    "value": "1g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "11g"
+                    "value": "4g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "4.2g"
+                    "value": "1.9g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "13.7mg"
+                    "value": "7.1mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.8mg"
+                    "value": "0.7mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "85mg"
+                    "value": "35mg"
                   }
                 },
                 "allergen_attributes": {
@@ -22225,134 +22225,6 @@
                   "potassium": {
                     "label": "Potassium",
                     "value": "210mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  }
-                }
-              }
-            },
-            {
-              "id": "58663",
-              "name": "Garlic Butter",
-              "nutrition": {
-                "id": "9852",
-                "description": "Melted Garlic Butter",
-                "serving_size": "2 ozw",
-                "ingredient_statement": "Fryer Oil, Garlic Powder",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "490"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "54.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "11.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "1.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "0mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "429mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "2g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "0g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "0g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "0.3g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "8.6mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.1mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "25mg"
                   }
                 },
                 "allergen_attributes": {
@@ -22812,25 +22684,25 @@
           "name": "Dinner",
           "menuItems": [
             {
-              "id": "58717",
-              "name": "Cherry Chocolate Streusel Pizza",
+              "id": "101813",
+              "name": "Blueberry Streusel Pizza",
               "nutrition": {
-                "id": "6321",
-                "description": "Crispy pizza crust topped with cherry compote, chocolate & cinnamon oat streusel",
+                "id": "6127",
+                "description": "Crispy pizza crust topped with blueberry compote & cinnamon oat streusel",
                 "serving_size": "each",
-                "ingredient_statement": "Dough, Cherry Pie Filling, Granola, Chocolate Chips, Wheat Flour, Oatmeal , Margarine, Powdered Sugar, Brown Sugar, Granulated Sugar, Lemon Juice, Water, Cinnamon",
+                "ingredient_statement": "Dough, Blueberries, Granola, Wheat Flour, Oatmeal , Margarine, Granulated Sugar, Brown Sugar, Brown Sugar, Granulated Sugar, Lemon Juice, Water, Margarine, Cornstarch, Cinnamon",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "180"
+                    "value": "80"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "3.5g"
+                    "value": "1.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "1.5g"
+                    "value": "0.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -22842,35 +22714,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "180mg"
+                    "value": "79mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "33g"
+                    "value": "15g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "2g"
+                    "value": "1g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "11g"
+                    "value": "4g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "4.2g"
+                    "value": "1.9g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "13.7mg"
+                    "value": "7.1mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.8mg"
+                    "value": "0.7mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "85mg"
+                    "value": "35mg"
                   }
                 },
                 "allergen_attributes": {
