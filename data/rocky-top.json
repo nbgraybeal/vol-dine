@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-11-08T06:54:01.871529+00:00",
+  "retrieved_at": "2026-11-08T07:58:01.447818+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -3626,7 +3626,7 @@
                 "id": "2177",
                 "description": "Grilled Italian seasoned zucchini, squash, red onions, and green and red peppers",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Squash, Squash Zucchini, Onion, Red Bell Pepper, Green Bell Pepper, Vegetable Oil Blend, Italian Seasoning",
+                "ingredient_statement": "Squash, Squash Zucchini, Onion, Red Bell Pepper, Green Bell Pepper, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Italian Seasoning (MARJORAM, THYME, ROSEMARY, SAVORY, SAGE, OREGANO, AND BASIL.)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -3684,65 +3684,65 @@
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   }
                 },
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   }
                 }
               }
@@ -14584,7 +14584,7 @@
                 "id": "2742",
                 "description": "Freshly baked garlic herb breadstick",
                 "serving_size": "each",
-                "ingredient_statement": "Breadstick, Extra Virgin Olive Oil, Vegetable Oil Blend, Asiago Cheese, Italian Seasoning, Garlic Powder, Black Pepper",
+                "ingredient_statement": "Breadstick (ENRICHED WHEAT FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR,NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER,LIQUID MARGARINE (SOYBEAN OIL, WATER, SALT, HYDROGENATED SOYBEAN OIL, MONO ANDDIGLYCERIDES, SOYBEAN LECITHIN (SOY), SODIUM BENZOATE (PRESERVATIVES),ARTIFICIAL BUTTER FLAVOR, COLORED WITH BETA CAROTINE, VITAMIN A PALMITATEADDED), WATER, LIQUID SUGAR, GARLIC, SOYBEAN OIL, SALT (SALT, YELLOW PRUSSIATEOF SODA), MONOGLYCERIDES (WATER, MONOGLYCERIDES AND 2% OR LESS OF EACH OF THEFOLLOWING: PRESERVATIVES (PROPIONIC ACID, PHOSPHORIC ACID), DRIED OREGANO,CALCIUM PROPIONATE, DOUGH CONDITIONER (WHEAT FLOUR, ASCORBIC ACID, ENZYMES),SALT, DRY YEAST (INACTIVE), VEGETABLE OIL BLEND (SOYBEAN OIL, SOY LECITHIN)), Extra Virgin Olive Oil, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Asiago Cheese (Asiago Cheese (Cultured Pasteurized Milk, Salt, Enzymes), Anti-Caking Blend (Potato Starch, Powdered Cellulose).), Italian Seasoning (MARJORAM, THYME, ROSEMARY, SAVORY, SAGE, OREGANO, AND BASIL.), Garlic Powder, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -14642,65 +14642,65 @@
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   }
                 },
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   }
                 }
               }
@@ -15358,7 +15358,7 @@
                 "id": "2742",
                 "description": "Freshly baked garlic herb breadstick",
                 "serving_size": "each",
-                "ingredient_statement": "Breadstick, Extra Virgin Olive Oil, Vegetable Oil Blend, Asiago Cheese, Italian Seasoning, Garlic Powder, Black Pepper",
+                "ingredient_statement": "Breadstick (ENRICHED WHEAT FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR,NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER,LIQUID MARGARINE (SOYBEAN OIL, WATER, SALT, HYDROGENATED SOYBEAN OIL, MONO ANDDIGLYCERIDES, SOYBEAN LECITHIN (SOY), SODIUM BENZOATE (PRESERVATIVES),ARTIFICIAL BUTTER FLAVOR, COLORED WITH BETA CAROTINE, VITAMIN A PALMITATEADDED), WATER, LIQUID SUGAR, GARLIC, SOYBEAN OIL, SALT (SALT, YELLOW PRUSSIATEOF SODA), MONOGLYCERIDES (WATER, MONOGLYCERIDES AND 2% OR LESS OF EACH OF THEFOLLOWING: PRESERVATIVES (PROPIONIC ACID, PHOSPHORIC ACID), DRIED OREGANO,CALCIUM PROPIONATE, DOUGH CONDITIONER (WHEAT FLOUR, ASCORBIC ACID, ENZYMES),SALT, DRY YEAST (INACTIVE), VEGETABLE OIL BLEND (SOYBEAN OIL, SOY LECITHIN)), Extra Virgin Olive Oil, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Asiago Cheese (Asiago Cheese (Cultured Pasteurized Milk, Salt, Enzymes), Anti-Caking Blend (Potato Starch, Powdered Cellulose).), Italian Seasoning (MARJORAM, THYME, ROSEMARY, SAVORY, SAGE, OREGANO, AND BASIL.), Garlic Powder, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -15416,65 +15416,65 @@
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   }
                 },
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   }
                 }
               }
@@ -19904,7 +19904,7 @@
                 "id": "608",
                 "description": "Chicken, dried cranberries,celery and green onion in a creamy mayonnaise dressing",
                 "serving_size": "3/4 ozw",
-                "ingredient_statement": "Chicken (Boneless, skinless, diced dark and white chicken, water, rice starch, vinegar, seasoning (maltodextrin, yeast extract, chicken stock, salt and flavors).), Dried Cranberries, Mayonnaise (SOYBEAN OIL, DISTILLED VINEGAR, EGG YOLK, WATER, HIGH FRUCTOSE CORN SYRUP, CONTAINS LESS THAN 2% OF SALT, MUSTARD BRAN, CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)), Celery, Sour Cream (Cultured Cream, Enzyme.), Apple, Green Onion, Lemon Juice, Black Pepper, Dried Tarragon",
+                "ingredient_statement": "Chicken (Boneless, skinless, diced dark and white chicken, water, rice starch, vinegar, seasoning (maltodextrin, yeast extract, chicken stock, salt and flavors).), Mayonnaise (SOYBEAN OIL, DISTILLED VINEGAR, EGG YOLK, WATER, HIGH FRUCTOSE CORN SYRUP, CONTAINS LESS THAN 2% OF SALT, MUSTARD BRAN, CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)), Dried Cranberries, Celery, Sour Cream (Cultured Cream, Enzyme.), Apple, Green Onion, Lemon Juice, Black Pepper, Dried Tarragon",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -20032,7 +20032,7 @@
                 "id": "1236",
                 "description": "Cavatappi pasta, fresh plum tomatoes, cucumbers, red onion and feta in creamy ranch dressing",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Water, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Plain Non-Fat Greek Yogurt (Cultured Milk. 6 Live and Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, and L. Rhamnosus.), Tomato , Cucumber, Water, Feta Cheese (Feta Cheese (Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes). Anti-Caking Blend (Powdered Cellulose, Natamycin [A Natural Mold Inhibitor]).), Onion, Lemon Juice, Ranch Dressing Mix (SALT, MONOSODIUM GLUTAMATE, GARLIC, MODIFIED CORN STARCH, SPICES, ONION, MALTODEXTRIN, LESS THAN 2% OF: NATURAL FLAVOR, GUAR GUM, CALCIUM STEARATE)",
+                "ingredient_statement": "Water, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Plain Non-Fat Greek Yogurt (Cultured Milk. 6 Live and Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, and L. Rhamnosus.), Cucumber, Tomato , Water, Feta Cheese (Feta Cheese (Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes). Anti-Caking Blend (Powdered Cellulose, Natamycin [A Natural Mold Inhibitor]).), Onion, Lemon Juice, Ranch Dressing Mix (SALT, MONOSODIUM GLUTAMATE, GARLIC, MODIFIED CORN STARCH, SPICES, ONION, MALTODEXTRIN, LESS THAN 2% OF: NATURAL FLAVOR, GUAR GUM, CALCIUM STEARATE)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -20416,7 +20416,7 @@
                 "id": "685",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "2 ozw",
-                "ingredient_statement": "Cantaloupe, Honeydew, Red Grapes, Pineapple, Blueberries, Strawberries",
+                "ingredient_statement": "Pineapple, Red Grapes, Cantaloupe, Honeydew, Blueberries, Strawberries",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -22854,7 +22854,7 @@
                 "id": "608",
                 "description": "Chicken, dried cranberries,celery and green onion in a creamy mayonnaise dressing",
                 "serving_size": "3/4 ozw",
-                "ingredient_statement": "Chicken (Boneless, skinless, diced dark and white chicken, water, rice starch, vinegar, seasoning (maltodextrin, yeast extract, chicken stock, salt and flavors).), Dried Cranberries, Mayonnaise (SOYBEAN OIL, DISTILLED VINEGAR, EGG YOLK, WATER, HIGH FRUCTOSE CORN SYRUP, CONTAINS LESS THAN 2% OF SALT, MUSTARD BRAN, CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)), Celery, Sour Cream (Cultured Cream, Enzyme.), Apple, Green Onion, Lemon Juice, Black Pepper, Dried Tarragon",
+                "ingredient_statement": "Chicken (Boneless, skinless, diced dark and white chicken, water, rice starch, vinegar, seasoning (maltodextrin, yeast extract, chicken stock, salt and flavors).), Mayonnaise (SOYBEAN OIL, DISTILLED VINEGAR, EGG YOLK, WATER, HIGH FRUCTOSE CORN SYRUP, CONTAINS LESS THAN 2% OF SALT, MUSTARD BRAN, CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)), Dried Cranberries, Celery, Sour Cream (Cultured Cream, Enzyme.), Apple, Green Onion, Lemon Juice, Black Pepper, Dried Tarragon",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -22982,7 +22982,7 @@
                 "id": "1236",
                 "description": "Cavatappi pasta, fresh plum tomatoes, cucumbers, red onion and feta in creamy ranch dressing",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Water, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Plain Non-Fat Greek Yogurt (Cultured Milk. 6 Live and Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, and L. Rhamnosus.), Tomato , Cucumber, Water, Feta Cheese (Feta Cheese (Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes). Anti-Caking Blend (Powdered Cellulose, Natamycin [A Natural Mold Inhibitor]).), Onion, Lemon Juice, Ranch Dressing Mix (SALT, MONOSODIUM GLUTAMATE, GARLIC, MODIFIED CORN STARCH, SPICES, ONION, MALTODEXTRIN, LESS THAN 2% OF: NATURAL FLAVOR, GUAR GUM, CALCIUM STEARATE)",
+                "ingredient_statement": "Water, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Plain Non-Fat Greek Yogurt (Cultured Milk. 6 Live and Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, and L. Rhamnosus.), Cucumber, Tomato , Water, Feta Cheese (Feta Cheese (Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes). Anti-Caking Blend (Powdered Cellulose, Natamycin [A Natural Mold Inhibitor]).), Onion, Lemon Juice, Ranch Dressing Mix (SALT, MONOSODIUM GLUTAMATE, GARLIC, MODIFIED CORN STARCH, SPICES, ONION, MALTODEXTRIN, LESS THAN 2% OF: NATURAL FLAVOR, GUAR GUM, CALCIUM STEARATE)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -23366,7 +23366,7 @@
                 "id": "685",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "2 ozw",
-                "ingredient_statement": "Cantaloupe, Honeydew, Red Grapes, Pineapple, Blueberries, Strawberries",
+                "ingredient_statement": "Pineapple, Red Grapes, Cantaloupe, Honeydew, Blueberries, Strawberries",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -26852,7 +26852,7 @@
                 "id": "12660",
                 "description": "Sautéed zucchini, corn, red and green peppers, onion and garlic",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Squash Zucchini, Corn Kernels, Red Bell Pepper, Green Bell Pepper, Onion, Canola Oil, Garlic, Kosher Salt, Dried Oregano, Black Pepper",
+                "ingredient_statement": "Squash Zucchini, Corn Kernels, Green Bell Pepper, Red Bell Pepper, Onion, Canola Oil, Garlic, Kosher Salt, Dried Oregano, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -28138,7 +28138,7 @@
                 "id": "504",
                 "description": "Grilled chicken marinated in a chimichurri sauce made with fresh herbs and spices",
                 "serving_size": "16 ozw",
-                "ingredient_statement": "Chicken Thigh, Chimichurri  (Canola/olive oil blend, onions, parsley, cilantro, garlic, salt, jalapenos, lime juice (water and lime juiceconcentrate), thyme, red wine vinegar, spices and citric acid.), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), White Vinegar, Parsley, Garlic, Dried Oregano, Crushed Red Pepper",
+                "ingredient_statement": "Chicken Thigh, Chimichurri  (Canola/olive oil blend, onions, parsley, cilantro, garlic, salt, jalapenos, lime juice (water and lime juiceconcentrate), thyme, red wine vinegar, spices and citric acid.), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), White Vinegar, Garlic, Parsley, Dried Oregano, Crushed Red Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -29686,7 +29686,7 @@
                 "id": "1716",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Pineapple, Honeydew, Red Grapes, Cantaloupe",
+                "ingredient_statement": "Cantaloupe, Pineapple, Red Grapes, Honeydew",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -30460,7 +30460,7 @@
                 "id": "1716",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Pineapple, Honeydew, Red Grapes, Cantaloupe",
+                "ingredient_statement": "Cantaloupe, Pineapple, Red Grapes, Honeydew",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -31490,7 +31490,7 @@
                 "id": "1716",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Pineapple, Honeydew, Red Grapes, Cantaloupe",
+                "ingredient_statement": "Cantaloupe, Pineapple, Red Grapes, Honeydew",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -31874,7 +31874,7 @@
                 "id": "1436",
                 "description": "Shredded cucumber, carrot, and onion with lime, lemon, and cilantro",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Cucumber, Carrots, Onion, Orange Juice, Sweet Chili Sauce (WATER, SUGAR, RED WINE VINEGAR, RED  BELL PEPPERS (RED BELL PEPPERS, VINEGAR, SALT, POTASSIUM SORBATE AND SODIUM  BENZOATE [PRESERVATIVES], CALCIUM CHLORIDE), JALAPENO PEPPERS (RED JALAPENO PEPPERS, VINEGAR, WATER, SALT,  CALCIUM CHLORIDE, POTASSIUM SORBATE [PRESERVATIVE], CAPSICUM), MODIFIED FOOD  STARCH, 2% OR LESS OF SPICE, DRIED GARLIC, XANTHAN GUM, SALT.), Cider Vinegar, Lime Juice, Lemon Juice, Cilantro, Kosher Salt, Black Pepper",
+                "ingredient_statement": "Carrots, Cucumber, Onion, Orange Juice, Sweet Chili Sauce (WATER, SUGAR, RED WINE VINEGAR, RED  BELL PEPPERS (RED BELL PEPPERS, VINEGAR, SALT, POTASSIUM SORBATE AND SODIUM  BENZOATE [PRESERVATIVES], CALCIUM CHLORIDE), JALAPENO PEPPERS (RED JALAPENO PEPPERS, VINEGAR, WATER, SALT,  CALCIUM CHLORIDE, POTASSIUM SORBATE [PRESERVATIVE], CAPSICUM), MODIFIED FOOD  STARCH, 2% OR LESS OF SPICE, DRIED GARLIC, XANTHAN GUM, SALT.), Cider Vinegar, Lime Juice, Lemon Juice, Cilantro, Kosher Salt, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -32416,7 +32416,7 @@
                 "id": "2563",
                 "description": "Eggplant, squash, potatoes, peppers, mushrooms & plant-based mozzarella with rotini pasta & alfredo tomato sauce",
                 "serving_size": "8 fl oz",
-                "ingredient_statement": "Water, Marinara Sauce (Tomato Concentrate (water, tomato paste), Onion, Sugar, Garlic, Salt, Carrot Puree, Spices, Citric Acid, Natural Flavorings.), Red Lentil Pasta (RED LENTIL FLOUR.), Oat Milk (Oat base (water, oats), low erucic acid rapeseed oil. Contains 2% or less of: dipotassium phosphate, calcium carbonate, tricalcium phosphate, sea salt, dicalcium phosphate, riboflavin, vitamin A acetate, vitamin D2, vitamin B12), Vegan Mozzarella Cheese (Daiya Oat CreamTM blend (water, gluten-free oat flour, pea protein), Tapioca starch, Coconut oil, Expeller pressed safflower oil, Calcium phosphate, Less than 2 percent of: Corn starch, Yeast extract, Salt, Dextrose, Lactic acid, Natural flavors.), Eggplant, Squash Zucchini, Onion, Squash, Oat Milk (Oat base (water, oats), low erucic acid rapeseed oil. Contains 2% or less of: dipotassium phosphate, calcium carbonate, tricalcium phosphate, sea salt, dicalcium phosphate, riboflavin, vitamin A acetate, vitamin D2, vitamin B12), Red Potato, Balsamic Vinaigrette Dressing (WATER, HIGH FRUCTOSE CORN SYRUP, BALSAMIC VINEGAR, RED WINE VINEGAR, VEGETABLE OIL (SOYBEAN AND/OR CANOLA), OLIVE OIL, CONTAINS LESS THAN 2% OF SALT, DRIED GARLIC, XANTHAN GUM, SPICE, SODIUM ALGINATE, PROPYLENE GLYCOL ALGINATE, CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR), SULFITING AGENTS.), Carrots, Red Bell Pepper, Tomato , Vegan Mozzarella Cheese (Daiya Oat CreamTM blend (water, gluten-free oat flour, pea protein), Tapioca starch, Coconut oil, Expeller pressed safflower oil, Calcium phosphate, Less than 2 percent of: Corn starch, Yeast extract, Salt, Dextrose, Lactic acid, Natural flavors.), Mushrooms, Rice Flour (Sweet White Rice Flour, Whole Grain Brown Rice Flour, Potato Starch, Whole Grain Sweet White Sorghum Flour, Tapioca Flour, Xanthan Gum.), Plant Based Butter Spread (PALM KERNEL AND PALM OIL, WATER, SUNFLOWER OIL, PEA PROTEIN, SUNFLOWER LECITHIN, LACTIC ACID, NATURAL FLAVOR, ANNATTO (COLOR), VITAMIN A PALMITATE.), Basil, Parsley, Black Pepper, Nutritional Yeast, Nutmeg, Kosher Salt, Black Pepper",
+                "ingredient_statement": "Water, Marinara Sauce (Tomato Concentrate (water, tomato paste), Onion, Sugar, Garlic, Salt, Carrot Puree, Spices, Citric Acid, Natural Flavorings.), Red Lentil Pasta (RED LENTIL FLOUR.), Oat Milk (Oat base (water, oats), low erucic acid rapeseed oil. Contains 2% or less of: dipotassium phosphate, calcium carbonate, tricalcium phosphate, sea salt, dicalcium phosphate, riboflavin, vitamin A acetate, vitamin D2, vitamin B12), Vegan Mozzarella Cheese (Daiya Oat CreamTM blend (water, gluten-free oat flour, pea protein), Tapioca starch, Coconut oil, Expeller pressed safflower oil, Calcium phosphate, Less than 2 percent of: Corn starch, Yeast extract, Salt, Dextrose, Lactic acid, Natural flavors.), Eggplant, Squash Zucchini, Onion, Squash, Oat Milk (Oat base (water, oats), low erucic acid rapeseed oil. Contains 2% or less of: dipotassium phosphate, calcium carbonate, tricalcium phosphate, sea salt, dicalcium phosphate, riboflavin, vitamin A acetate, vitamin D2, vitamin B12), Red Potato, Balsamic Vinaigrette Dressing (WATER, HIGH FRUCTOSE CORN SYRUP, BALSAMIC VINEGAR, RED WINE VINEGAR, VEGETABLE OIL (SOYBEAN AND/OR CANOLA), OLIVE OIL, CONTAINS LESS THAN 2% OF SALT, DRIED GARLIC, XANTHAN GUM, SPICE, SODIUM ALGINATE, PROPYLENE GLYCOL ALGINATE, CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR), SULFITING AGENTS.), Red Bell Pepper, Carrots, Tomato , Vegan Mozzarella Cheese (Daiya Oat CreamTM blend (water, gluten-free oat flour, pea protein), Tapioca starch, Coconut oil, Expeller pressed safflower oil, Calcium phosphate, Less than 2 percent of: Corn starch, Yeast extract, Salt, Dextrose, Lactic acid, Natural flavors.), Mushrooms, Plant Based Butter Spread (PALM KERNEL AND PALM OIL, WATER, SUNFLOWER OIL, PEA PROTEIN, SUNFLOWER LECITHIN, LACTIC ACID, NATURAL FLAVOR, ANNATTO (COLOR), VITAMIN A PALMITATE.), Rice Flour (Sweet White Rice Flour, Whole Grain Brown Rice Flour, Potato Starch, Whole Grain Sweet White Sorghum Flour, Tapioca Flour, Xanthan Gum.), Basil, Parsley, Black Pepper, Nutritional Yeast, Nutmeg, Kosher Salt, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",

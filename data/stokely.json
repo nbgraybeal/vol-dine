@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-08T06:54:01.541037+00:00",
+  "retrieved_at": "2026-11-08T07:58:01.245421+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -146,7 +146,7 @@
                 "id": "7351",
                 "description": "Perfectly baked for a golden, toasty exterior & soft, chewy center, packed with the crunch of M&Ms®",
                 "serving_size": "each",
-                "ingredient_statement": "Yellow Cake (SUGAR, ENRICHED FLOUR BLEACHED (WHEAT FLOUR, NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), PALM OIL, DEXTROSE. CONTAINS 2% OR LESS OF: LEAVENING (SODIUM ALUMINUM PHOSPHATE, BAKING SODA), PROPYLENE GLYCOL MONO AND DIESTERS OF FATTY ACIDS, MODIFIED CORN STARCH, EGGS WITH SODIUM SILICOALUMINATE, EGG WHITE, SALT, NONFAT MILK, MONO AND DIGLYCERIDES, SOY LECITHIN, XANTHAN GUM, WHEY, NATURAL FLAVOR, ANNATTO AND TURMERIC EXTRACT COLOR.), Milk Chocolate (Milk Chocolate (Sugar, Chocolate, Skim milk, cocoa butter, lactose, milkfat, soy lecithin, salt artificial and natural flavors), sugar, cornstarch, less than 1%:  Corn Syrup, dextrin, coloriag (includes Blue 1 lake, yellow 6, red 40, yellow 5, blue 1, yellow 6 lake, red 40 lake, yellow 5 lake, blue 2 lake, blue 2), carnauba wax, gum acacia.), Egg Blend (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Brown Sugar, Unsalted Butter (Pasteurized Cream, Natural Flavoring.)",
+                "ingredient_statement": "Yellow Cake (SUGAR, ENRICHED FLOUR BLEACHED (WHEAT FLOUR, NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), PALM OIL, DEXTROSE. CONTAINS 2% OR LESS OF: LEAVENING (SODIUM ALUMINUM PHOSPHATE, BAKING SODA), PROPYLENE GLYCOL MONO AND DIESTERS OF FATTY ACIDS, MODIFIED CORN STARCH, EGGS WITH SODIUM SILICOALUMINATE, EGG WHITE, SALT, NONFAT MILK, MONO AND DIGLYCERIDES, SOY LECITHIN, XANTHAN GUM, WHEY, NATURAL FLAVOR, ANNATTO AND TURMERIC EXTRACT COLOR.), Milk Chocolate (Milk Chocolate (Sugar, Chocolate, Skim milk, cocoa butter, lactose, milkfat, soy lecithin, salt artificial and natural flavors), sugar, cornstarch, less than 1%:  Corn Syrup, dextrin, coloriag (includes Blue 1 lake, yellow 6, red 40, yellow 5, blue 1, yellow 6 lake, red 40 lake, yellow 5 lake, blue 2 lake, blue 2), carnauba wax, gum acacia.), Unsalted Butter (Pasteurized Cream, Natural Flavoring.), Egg Blend (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Brown Sugar",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -920,7 +920,7 @@
                 "id": "7351",
                 "description": "Perfectly baked for a golden, toasty exterior & soft, chewy center, packed with the crunch of M&Ms®",
                 "serving_size": "each",
-                "ingredient_statement": "Yellow Cake (SUGAR, ENRICHED FLOUR BLEACHED (WHEAT FLOUR, NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), PALM OIL, DEXTROSE. CONTAINS 2% OR LESS OF: LEAVENING (SODIUM ALUMINUM PHOSPHATE, BAKING SODA), PROPYLENE GLYCOL MONO AND DIESTERS OF FATTY ACIDS, MODIFIED CORN STARCH, EGGS WITH SODIUM SILICOALUMINATE, EGG WHITE, SALT, NONFAT MILK, MONO AND DIGLYCERIDES, SOY LECITHIN, XANTHAN GUM, WHEY, NATURAL FLAVOR, ANNATTO AND TURMERIC EXTRACT COLOR.), Milk Chocolate (Milk Chocolate (Sugar, Chocolate, Skim milk, cocoa butter, lactose, milkfat, soy lecithin, salt artificial and natural flavors), sugar, cornstarch, less than 1%:  Corn Syrup, dextrin, coloriag (includes Blue 1 lake, yellow 6, red 40, yellow 5, blue 1, yellow 6 lake, red 40 lake, yellow 5 lake, blue 2 lake, blue 2), carnauba wax, gum acacia.), Egg Blend (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Brown Sugar, Unsalted Butter (Pasteurized Cream, Natural Flavoring.)",
+                "ingredient_statement": "Yellow Cake (SUGAR, ENRICHED FLOUR BLEACHED (WHEAT FLOUR, NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), PALM OIL, DEXTROSE. CONTAINS 2% OR LESS OF: LEAVENING (SODIUM ALUMINUM PHOSPHATE, BAKING SODA), PROPYLENE GLYCOL MONO AND DIESTERS OF FATTY ACIDS, MODIFIED CORN STARCH, EGGS WITH SODIUM SILICOALUMINATE, EGG WHITE, SALT, NONFAT MILK, MONO AND DIGLYCERIDES, SOY LECITHIN, XANTHAN GUM, WHEY, NATURAL FLAVOR, ANNATTO AND TURMERIC EXTRACT COLOR.), Milk Chocolate (Milk Chocolate (Sugar, Chocolate, Skim milk, cocoa butter, lactose, milkfat, soy lecithin, salt artificial and natural flavors), sugar, cornstarch, less than 1%:  Corn Syrup, dextrin, coloriag (includes Blue 1 lake, yellow 6, red 40, yellow 5, blue 1, yellow 6 lake, red 40 lake, yellow 5 lake, blue 2 lake, blue 2), carnauba wax, gum acacia.), Unsalted Butter (Pasteurized Cream, Natural Flavoring.), Egg Blend (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Brown Sugar",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -21014,7 +21014,7 @@
                 "id": "7504",
                 "description": "Pumpkin Bread",
                 "serving_size": "1 slice",
-                "ingredient_statement": "Granulated Sugar, Canned Pumpkin, Wheat Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Liquid Whole Eggs (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Whole Milk, Baking Soda, Baking Powder, Pure Vanilla Extract, Cinnamon, Nutmeg, Allspice, Kosher Salt, Cloves",
+                "ingredient_statement": "Granulated Sugar, Canned Pumpkin, Wheat Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Liquid Whole Eggs (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Whole Milk, Baking Powder, Baking Soda, Pure Vanilla Extract, Cinnamon, Nutmeg, Allspice, Kosher Salt, Cloves",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -21532,7 +21532,7 @@
                 "id": "18671",
                 "description": "Oven baked flatbread drizzled with garlic infused olive oil",
                 "serving_size": "each",
-                "ingredient_statement": "Dough, Vegetable Oil Blend, Garlic Powder",
+                "ingredient_statement": "Dough (ENRICHED UNBLEACHED WHEAT FLOUR (WHEAT FLOUR, NIACIN, IRON AS FERROUS SULFATE, THIAMINE MONONITRATE, ENZYME, RIBOFLAVIN, FOLIC ACID), WATER, YEAST, HIGH FRUCTOSE CORN SYRUP, CONTAINS LESS THAN 2% OF THE FOLLOWING: SOYBEAN OIL, SALT, WHEAT GLUTEN, ASCORBIC ACID, ENZYME.), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Garlic Powder",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -21590,65 +21590,65 @@
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   }
                 },
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   }
                 }
               }
@@ -22050,7 +22050,7 @@
                 "id": "7608",
                 "description": "A hearty combination of onions, mushrooms, pepperoni, sausage, tomato sauce and melted mozzarella",
                 "serving_size": "1/8 cut",
-                "ingredient_statement": "All Purpose Flour, Mozzarella Cheese, Mozzarella Cheese, Water, Tomatoes, Pork Sausage Topping, Deli Pepperoni, Water, Onion, Vegetable Oil Blend, Mushrooms, Extra Virgin Olive Oil, Vegetable Oil Blend, Kosher Salt, Granulated Sugar, Yeast, Vegetable Oil Blend, Granulated Sugar, Kosher Salt, Black Pepper, Garlic Powder, Dried Oregano, Kosher Salt, Kosher Salt, Black Pepper, Black Pepper",
+                "ingredient_statement": "All Purpose Flour, Mozzarella Cheese, Water, Tomatoes, Pork Sausage Topping, Deli Pepperoni, Water, Onion, Vegetable Oil Blend, Mushrooms, Extra Virgin Olive Oil, Vegetable Oil Blend, Kosher Salt, Granulated Sugar, Yeast, Vegetable Oil Blend, Granulated Sugar, Kosher Salt, Black Pepper, Garlic Powder, Dried Oregano, Kosher Salt, Kosher Salt, Black Pepper, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -24268,7 +24268,7 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "127mg"
+                    "value": "124mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
@@ -24284,19 +24284,19 @@
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "1.5g"
+                    "value": "1.6g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "0.0mg"
+                    "value": "3.5mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.8mg"
+                    "value": "1.0mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "0mg"
+                    "value": "30mg"
                   }
                 },
                 "allergen_attributes": {
@@ -24359,8 +24359,8 @@
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 }
               }
@@ -25012,7 +25012,7 @@
                 "id": "6285",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "3 ozw",
-                "ingredient_statement": "Honeydew, Cantaloupe, Pineapple, Red Grapes, Blueberries, Strawberries",
+                "ingredient_statement": "Cantaloupe, Honeydew, Pineapple, Red Grapes, Blueberries, Strawberries",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -26292,7 +26292,7 @@
                 "id": "6682",
                 "description": "Sliced green and red bell peppers",
                 "serving_size": "1/4 cup",
-                "ingredient_statement": "Green Bell Pepper, Red Bell Pepper",
+                "ingredient_statement": "Red Bell Pepper, Green Bell Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -27346,7 +27346,7 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "127mg"
+                    "value": "124mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
@@ -27362,19 +27362,19 @@
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "1.5g"
+                    "value": "1.6g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "0.0mg"
+                    "value": "3.5mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.8mg"
+                    "value": "1.0mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "0mg"
+                    "value": "30mg"
                   }
                 },
                 "allergen_attributes": {
@@ -27437,8 +27437,8 @@
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 }
               }
@@ -28090,7 +28090,7 @@
                 "id": "6285",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "3 ozw",
-                "ingredient_statement": "Honeydew, Cantaloupe, Pineapple, Red Grapes, Blueberries, Strawberries",
+                "ingredient_statement": "Cantaloupe, Honeydew, Pineapple, Red Grapes, Blueberries, Strawberries",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -29370,7 +29370,7 @@
                 "id": "6682",
                 "description": "Sliced green and red bell peppers",
                 "serving_size": "1/4 cup",
-                "ingredient_statement": "Green Bell Pepper, Red Bell Pepper",
+                "ingredient_statement": "Red Bell Pepper, Green Bell Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
