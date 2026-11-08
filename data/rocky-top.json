@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-11-08T15:11:46.224692+00:00",
+  "retrieved_at": "2026-11-08T16:08:51.664861+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -19252,134 +19252,6 @@
               }
             },
             {
-              "id": "70075",
-              "name": "Overnight Chia Oats",
-              "nutrition": {
-                "id": "1950",
-                "description": "Old-fashioned oats and chia seeds soaked in nonfat Greek yogurt, milk and honey",
-                "serving_size": "4 fl oz",
-                "ingredient_statement": "Reduced Fat Milk, Plain Non-Fat Greek Yogurt (Cultured Milk. 6 Live and Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, and L. Rhamnosus.), Oatmeal, Honey, Chia Seeds, Kosher Salt",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "180"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "6.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "2.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "10mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "84mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "25g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "4g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "11g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "8.0g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "142.3mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "1.2mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "210mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
               "id": "70068",
               "name": "Pear Slices",
               "nutrition": {
@@ -19626,6 +19498,134 @@
                     "label": "Vegan",
                     "value": "Y",
                     "formatted_value": "Yes"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  }
+                }
+              }
+            },
+            {
+              "id": "101999",
+              "name": "Pineapple Overnight Oats",
+              "nutrition": {
+                "id": "469",
+                "description": "Chia overnight oats with diced pineapple & coconut flakes",
+                "serving_size": "1/2 cup",
+                "ingredient_statement": "Pineapple, Reduced Fat Milk, Plain Non-Fat Greek Yogurt (Cultured Milk. 6 Live and Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, and L. Rhamnosus.), Oatmeal, Coconut Flakes (Coconut, Sugar, Warer, Propylene Glycol, Salt, Sodium Metabisulfite), Honey, Chia Seeds, Kosher Salt",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "190"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "6.5g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "4.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "5mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "70mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "28g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "5g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "15g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "5.6g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "101.5mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.9mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "240mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
