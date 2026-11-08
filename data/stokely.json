@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-08T07:58:01.245421+00:00",
+  "retrieved_at": "2026-11-08T08:48:48.586154+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -34441,6 +34441,140 @@
       "id": "138022",
       "name": "Vegan",
       "mealPeriods": {
+        "2": {
+          "id": "2",
+          "name": "Lunch",
+          "menuItems": [
+            {
+              "id": "101896",
+              "name": "Chickpea Scramble Breakfast Taco",
+              "nutrition": {
+                "id": "7668",
+                "description": "Soft corn tortilla stuffed with a chickpea scramble, spinach & plant-based cheddar cheese",
+                "serving_size": "each",
+                "ingredient_statement": "Garbanzo Beans, Tortilla (Whole Grain Corn, Water, Contains 2% Or Less Of The Following: Preservatives(propionic Acid, Sodium Hydroxide, Benzoic Acid), And Traces Of Food Grade Lime), Spinach, Vegan Cheddar Cheese (Daiya Oat Cream TM blend (water, gluten-free oat flour, pea protein), Tapioca starch, Coconut oil, Expeller pressed safflower oil, Calcium phosphate, Less than 2 percent of: Fruit and vegetable juice (for color), Corn starch, Yeast extract, Salt, Dextrose, Annatto (for colour), Lactic acid, Natural flavors.), Earth Balance Butter Spread (PALM KERNEL AND PALM OIL, WATER, SUNFLOWER OIL, PEA PROTEIN, SUNFLOWER LECITHIN, LACTIC ACID, NATURAL FLAVOR, ANNATTO (COLOR), VITAMIN A PALMITATE.), Mushrooms, Onion, Canola Oil, Nutritional Yeast, Garlic, Turmeric, Kosher Salt, Black Pepper",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "200"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "12.5g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "5.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "0mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "142mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "17g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "3g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "1g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "4.0g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "139.9mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "1.0mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "190mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  }
+                }
+              }
+            }
+          ]
+        },
         "3": {
           "id": "3",
           "name": "Dinner",
