@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-11-09T14:21:27.841911+00:00",
+  "retrieved_at": "2026-11-09T15:27:59.545167+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -1298,6 +1298,134 @@
               }
             },
             {
+              "id": "102100",
+              "name": "Cheese Danish",
+              "nutrition": {
+                "id": "976",
+                "description": "Freshly baked sugar-topped cheese pastry",
+                "serving_size": "each",
+                "ingredient_statement": "Danish Cheese Pastry",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "250"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "22.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "8.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.5g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "15mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "183mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "31g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "1g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "6g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "5.1g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "28.6mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.4mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "75mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                }
+              }
+            },
+            {
               "id": "70555",
               "name": "Chocolate Chip Cookie",
               "nutrition": {
@@ -1810,6 +1938,134 @@
               }
             },
             {
+              "id": "102098",
+              "name": "Maple Spice Mini Muffin",
+              "nutrition": {
+                "id": "1835",
+                "description": "Freshly baked maple-flavored muffin with cinnamon and allspice",
+                "serving_size": "1 muffin",
+                "ingredient_statement": "Variety Muffin Mix (ENRICHED FLOUR BLEACHED (WHEAT FLOUR, NIACIN,  IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), SUGAR, PALM OIL, MODIFIED CORN STARCH, MODIFIED WHEY. CONTAINS  2% OR LESS OF: LEAVENING (SODIUM ACID PYROPHOSPHATE, BAKING SODA, MONOCALCIUM PHOSPHATE), DEXTROSE, MONO AND  DIGLYCERIDES, SALT, EGGS WITH SODIUM SILICOALUMINATE, XANTHAN GUM, NONFAT MILK, NATURAL FLAVOR, SOY FLOUR.), Water, Pancake Syrup  (CORN SYRUP, HIGH FRUCTOSE CORN SYRUP, WATER, CELLULOSE GUM, CARAMEL COLOR, SALT, NATURAL AND ARTIFICIAL FLAVOR, SODIUM BENZOATE AND SORBIC ACID (PRESERVATIVES), SODIUM HEXAMETAPHOSPHATE.), Cinnamon, Allspice",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "80"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "2.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "1.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "0mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "115mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "14g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "0g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "8g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "0.7g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "6.0mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.3mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "20mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  }
+                }
+              }
+            },
+            {
               "id": "70473",
               "name": "Strawberry Cream Cheese",
               "nutrition": {
@@ -2125,6 +2381,134 @@
                   "potassium": {
                     "label": "Potassium",
                     "value": "2060mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  }
+                }
+              }
+            },
+            {
+              "id": "102099",
+              "name": "Vanilla Iced Donut with Sprinkles",
+              "nutrition": {
+                "id": "2696",
+                "description": "Freshly baked donut topped with vanilla icing and rainbow sprinkles",
+                "serving_size": "each",
+                "ingredient_statement": "Donut  (ENRICHED UNBLEACHED WHEAT FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, IRON AS FERROUS SULFATE, THIAMINE MONONITRATE, ENZYME, RI BOFLAVIN, FOLIC ACID), WATER, PALM OIL, YEAST, SKIM MILK, DEXTROSE, SUGAR, CONTAINS LESS THAN 2% OF THE FOLLOWING:  SOYBEAN OIL, WHEY (A MILK DERIVATIVE), SALT, DEFATTED SOY FLOUR, LEAVENING (SODIUM ACID PYROPHOSPHATE, BAKING SODA), CELLULOSE GUM, SODIUM STEAROYL LACTYLATE, MONO AND DIGLYCERIDES, TO PRESERVE FRESHNESS (CALCIUM PROPIONATE), GUAR GUM, XANTHAN GUM, COLORED WITH (BETA CAROTENE), EGG WHITES.), Vanilla Icing (SUGAR, PALM OIL, WATER, CORN SYRUP, CORN STARCH. CONTAINS 2% OR LESS OF: SALT,MONOGLYCERIDES, YELLOWS 5 ; 6 AND OTHER COLOR ADDED, POLYSORBATE 60, POTASSIUM SORBATE (PRESERVATIVE), NATURALAND ARTIFICIAL FLAVOR, SODIUM STEAROYL LACTYLATE, SODIUM ACID PYROPHOSPHATE, CITRIC ACID, NONFAT MILK.), Rainbow Sprinkles (Sugar, Corn Starch, Palm & Palm Kernel Oil,  Soy Lecithin, Dextrin, Confectioners Glaze, Carnauba Wax, FD&C Colors,  Yellow #5 Lake, Yellow #6 Lake, Red #40 Lake, Blue #1 Lake, FD&C Red #3.)",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "450"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "20.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "11.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "0mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "330mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "66g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "1g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "37g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "4.2g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "30.9mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "1.4mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "80mg"
                   }
                 },
                 "allergen_attributes": {
@@ -19643,6 +20027,134 @@
                     "label": "Vegetarian",
                     "value": "N",
                     "formatted_value": "No"
+                  }
+                }
+              }
+            },
+            {
+              "id": "102097",
+              "name": "Creamy Ranch Pasta Salad",
+              "nutrition": {
+                "id": "1236",
+                "description": "Cavatappi pasta, fresh plum tomatoes, cucumbers, red onion and feta in creamy ranch dressing",
+                "serving_size": "1/2 cup",
+                "ingredient_statement": "Water, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Plain Non-Fat Greek Yogurt (Cultured Milk. 6 Live and Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, and L. Rhamnosus.), Cucumber, Tomato , Water, Feta Cheese (Feta Cheese (Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes). Anti-Caking Blend (Powdered Cellulose, Natamycin [A Natural Mold Inhibitor]).), Onion, Lemon Juice, Ranch Dressing Mix (SALT, MONOSODIUM GLUTAMATE, GARLIC, MODIFIED CORN STARCH, SPICES, ONION, MALTODEXTRIN, LESS THAN 2% OF: NATURAL FLAVOR, GUAR GUM, CALCIUM STEARATE)",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "120"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "2.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "1.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "5mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "183mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "20g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "2g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "2g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "5.3g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "51.3mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.8mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "115mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   }
                 }
               }
