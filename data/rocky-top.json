@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-11-10T20:43:03.229583+00:00",
+  "retrieved_at": "2026-11-10T21:39:00.680272+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -1753,134 +1753,6 @@
                     "label": "Contains Eggs",
                     "value": "Y",
                     "formatted_value": "Yes"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
-              "id": "102516",
-              "name": "Iced Cinnamon Roll",
-              "nutrition": {
-                "id": "1295",
-                "description": "Freshly baked cinnamon roll with cream cheese icing",
-                "serving_size": "1 roll",
-                "ingredient_statement": "Cinnamon Roll (ENRICHED FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR,   NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER, SUGAR,   PALM OIL, MARGARINE (PALM OIL, WATER, SOYBEAN OIL, SALT, MONO AND   DIGLYCERIDES, SOY LECITHIN, NATURAL FLAVOR, BETA CAROTENE COLOR, VITAMIN A   PALMITATE), SOYBEAN OIL, HIGH FRUCTOSE CORN SYRUP, YEAST, CINNAMON,   MONOGLYCERIDES, WHEAT PROTEIN ISOLATE, SODIUM CASEINATE, MODIFIED CORN   STARCH, DATEM, GLUCONO DELTA-LACTONE, BAKING SODA, SALT, SODIUM ACID   PYROPHOSPHATE, MOLASSES, NATURAL FLAVOR, ASCORBIC ACID. CONTAINS WHEAT, MILK AND SOY INGREDIENTS. ), Cream Cheese Icing (Sugar, Cream Cheese (Pasteurized Milk and Cream, Salt, Carob Bean Gum, Cheese Culture), Vegetable Shortening (Palm Oil, Canola Oil, Mono- and Diglycerides, Polysorbate 60), Dextrose. Contains 2% or less of each of the following: Cream Cheese Powder (Cream Cheese Solids [Cream, Nonfat Milk, Salt, Sodium Alginate, Lactic Acid], Corn Syrup Solids, Sodium Caseinate [Milk], Natural Flavor), Corn Starch, Soybean Oil, Salt, Natural Flavor, Benzoic Acid (Preservative), Polysorbate 60, Propyl Gallate (Antioxidant), Beta Carotene (Color).)",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "210"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "9.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "4.5g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "5mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "229mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "30g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "1g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "16g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "3.2g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "2.8mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "1.3mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "0mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
@@ -15486,6 +15358,11 @@
           "name": "Dinner",
           "menuItems": [
             {
+              "id": "102518",
+              "name": "Bacon Breakfast Pizza",
+              "nutrition": []
+            },
+            {
               "id": "70614",
               "name": "Classic Cheese Pizza",
               "nutrition": {
@@ -16109,134 +15986,6 @@
                     "label": "Contains Tree Nuts",
                     "value": "U",
                     "formatted_value": "Unknown"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                }
-              }
-            },
-            {
-              "id": "70613",
-              "name": "Voodoo Pizza",
-              "nutrition": {
-                "id": "667",
-                "description": "Andouille sausage, sauteed peppers and onions, three cheese blend with a garlic alfredo base and cajun butter basted crust. ",
-                "serving_size": "1/8 cut",
-                "ingredient_statement": "Dough (ENRICHED UNBLEACHED WHEAT FLOUR (WHEAT FLOUR, NIACIN, IRON AS FERROUS SULFATE, THIAMINE MONONITRATE, ENZYME, RIBOFLAVIN, FOLIC ACID), WATER, YEAST, HIGH FRUCTOSE CORN SYRUP, CONTAINS LESS THAN 2% OF THE FOLLOWING: SOYBEAN OIL, SALT, WHEAT GLUTEN, ASCORBIC ACID, ENZYME.), Unsalted Butter (Pasteurized Cream, Natural Flavoring.), Monterey Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto [Color] If Colored). Potato Starch And Powdered Cellulose Added To Prevent Caking.), Mozzarella Cheese (LOW-MOISTURE PART-SKIM MOZZARELLA CHEESE  (CULTURED PASTEURIZED PART-SKIM MILK, SALT, ENZYMES). ANTI-CAKING BLEND  (POTATO STARCH, POWDERED CELLULOSE).), Water, Onion, Andouille Sausage (Pork, Water, Soy Protein Concentrate, CONTAINS 2% OF LESS: VINEGAR, SALT, DEHYDRATED ONION, SPICES, CORN SYRUP SOLIDS, SUGAR, PAPRIKA, DEHYDRATED GARLIC, SODIUM NITRATE), Green Bell Pepper, Red Bell Pepper, Alfredo Sauce (MODIFIED CORNSTARCH, MALTODEXTRIN, SOYBEAN OIL, WHEY, PALM OIL, CANOLA OIL,PARMESAN, CHEDDAR, AND ROMANO CHEESE SOLIDS (PASTEURIZED MILK, CULTURES, SALT,ENZYMES), NONFAT DRIED MILK, YEAST EXTRACT, SODIUM CASEINATE (A MILK DERIVATIVE),WHEY PROTEIN CONCENTRATE, SALT, 2% OR LESS OF CELLULOSE GEL, ENZYME MODIFIEDCHEDDAR CHEESE, ENZYME MODIFIED CREAM, SODIUM PHOSPHATE, SODIUM CITRATE,CALCIUM LACTATE, ENZYME MODIFIED MILK FAT, LACTIC ACID, XANTHAN GUM, DEXTROSE,SODIUM ALGINATE, ENZYME MODIFIED NONFAT MILK, BUTTER (CREAM, SALT), NATURALFLAVORS, ANNATTO & TURMERIC (COLOR), HYDROLYZED CASEIN, DISODIUM INOSINATE,SPICES, CALCIUM ALGINATE, DISODIUM GUANYLATE.), Cajun Seasoning (GARLIC, SPICES (INCLUDING PAPRIKA, OREGANO, RED PEPPER), SALT AND ONION.), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Kosher Salt",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "510"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "35.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "20.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "1.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "95mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "789mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "36g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "2g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "3g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "15.6g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "235.2mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "2.5mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "160mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
                   }
                 },
                 "dietary_attributes": {
@@ -21243,6 +20992,134 @@
                   "potassium": {
                     "label": "Potassium",
                     "value": "65mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  }
+                }
+              }
+            },
+            {
+              "id": "102517",
+              "name": "House Salad",
+              "nutrition": {
+                "id": "591",
+                "description": "Crisp romaine lettuce tossed with fresh cucumber, Tomato and Balsamic dressing",
+                "serving_size": "1 serving",
+                "ingredient_statement": "Lettuce, Cucumber, Balsamic Vinaigrette Dressing (WATER, HIGH FRUCTOSE CORN SYRUP, BALSAMIC VINEGAR, RED WINE VINEGAR, VEGETABLE OIL (SOYBEAN AND/OR CANOLA), OLIVE OIL, CONTAINS LESS THAN 2% OF SALT, DRIED GARLIC, XANTHAN GUM, SPICE, SODIUM ALGINATE, PROPYLENE GLYCOL ALGINATE, CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR), SULFITING AGENTS.), Carrots, Onion, Tomato ",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "25"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "1.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "0.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "0mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "54mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "4g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "1g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "2g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "0.5g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "13.8mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.3mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "110mg"
                   }
                 },
                 "allergen_attributes": {
