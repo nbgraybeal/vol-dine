@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-11T07:07:07.840271+00:00",
+  "retrieved_at": "2026-11-11T08:20:42.254669+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -4766,25 +4766,25 @@
               }
             },
             {
-              "id": "69685",
+              "id": "69472",
               "name": "White Bread",
               "nutrition": {
-                "id": "7373",
-                "description": "White bread served individually wrapped",
-                "serving_size": "each",
-                "ingredient_statement": "White Bread",
+                "id": "6645",
+                "description": "White sandwich bread",
+                "serving_size": "1 slice",
+                "ingredient_statement": "Bread",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "220"
+                    "value": "60"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "4.0g"
+                    "value": "0.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "0.5g"
+                    "value": "0.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -4796,35 +4796,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "545mg"
+                    "value": "118mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "46g"
+                    "value": "12g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "1g"
+                    "value": "0g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "3g"
+                    "value": "1g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "2.4g"
+                    "value": "2.1g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "26.6mg"
+                    "value": "23.4mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.5mg"
+                    "value": "0.7mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "70mg"
+                    "value": "15mg"
                   }
                 },
                 "allergen_attributes": {
@@ -4894,25 +4894,25 @@
               }
             },
             {
-              "id": "69472",
+              "id": "69685",
               "name": "White Bread",
               "nutrition": {
-                "id": "6645",
-                "description": "White sandwich bread",
-                "serving_size": "1 slice",
-                "ingredient_statement": "Bread",
+                "id": "7373",
+                "description": "White bread served individually wrapped",
+                "serving_size": "each",
+                "ingredient_statement": "White Bread",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "60"
+                    "value": "220"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "0.5g"
+                    "value": "4.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "0.0g"
+                    "value": "0.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -4924,35 +4924,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "118mg"
+                    "value": "545mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "12g"
+                    "value": "46g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "0g"
+                    "value": "1g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "1g"
+                    "value": "3g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "2.1g"
+                    "value": "2.4g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "23.4mg"
+                    "value": "26.6mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.7mg"
+                    "value": "0.5mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "15mg"
+                    "value": "70mg"
                   }
                 },
                 "allergen_attributes": {
@@ -35970,25 +35970,25 @@
               }
             },
             {
-              "id": "69704",
-              "name": "Mashed Sweet Potatoes",
+              "id": "102521",
+              "name": "Sofrito Black Beans & Rice",
               "nutrition": {
-                "id": "7894",
-                "description": "Buttery mashed sweet potatoes",
+                "id": "18972",
+                "description": "Black beans and rice with sauteed bell pepper, onion, garlic and a flavorful vegetable sofrito",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Sweet Potato, Whole Milk, Unsalted Butter (Pasteurized Cream, Natural Flavoring.), Kosher Salt, Black Pepper",
+                "ingredient_statement": "Water, White Rice, Black Beans, Red Bell Pepper, Onion, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Garlic, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Cilantro, Vegetable Base (SAUTEED VEGETABLE PUREE MIX (CARROTS, ONIONS, CELERY), CORN STARCH, MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), HYDROLYZED CORN PROTEIN, YEAST EXTRACT, TOMATO POWDER, WATER, ONION POWDER, 2% OR LESS OF DISODIUM INOSINATE AND DISODIUM GUANYLATE, SALT, GARLIC POWDER, PAPRIKA (COLOR), NATURAL FLAVORS, LACTIC ACID, NATURAL FLAVOR, MODIFIED CORNSTARCH, CITRIC ACID.), Onion, Green Bell Pepper, Red Bell Pepper, Lime Juice, Kosher Salt, Garlic, Water, Tabasco Hot Sauce (DISTILLED VINEGAR, RED PEPPER, SALT.), Black Pepper, Kosher Salt, Ginger Root",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "110"
+                    "value": "190"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "3.0g"
+                    "value": "5.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "2.0g"
+                    "value": "0.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -35996,39 +35996,39 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "10mg"
+                    "value": "0mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "126mg"
+                    "value": "113mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "20g"
+                    "value": "30g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "3g"
+                    "value": "2g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "4g"
+                    "value": "1g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "1.7g"
+                    "value": "4.2g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "36.5mg"
+                    "value": "35.7mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.6mg"
+                    "value": "1.3mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "340mg"
+                    "value": "190mg"
                   }
                 },
                 "allergen_attributes": {
@@ -36049,8 +36049,8 @@
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
@@ -36086,8 +36086,8 @@
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
@@ -36109,6 +36109,134 @@
           "id": "2",
           "name": "Lunch",
           "menuItems": [
+            {
+              "id": "102520",
+              "name": "Baked Beans",
+              "nutrition": {
+                "id": "18849",
+                "description": "Tangy, sweet baked beans",
+                "serving_size": "1/2 cup",
+                "ingredient_statement": "Vegetarian Baked Beans",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "220"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "1.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "0.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "0mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "505mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "43g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "8g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "14g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "11.4g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "86.6mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "2.9mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "620mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                }
+              }
+            },
             {
               "id": "69694",
               "name": "Golden  BBQ Tofu",
@@ -36176,134 +36304,6 @@
                     "label": "Contains Soy",
                     "value": "Y",
                     "formatted_value": "Yes"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
-              "id": "69692",
-              "name": "Roasted Sweet Potatoes",
-              "nutrition": {
-                "id": "7643",
-                "description": "Oven-roasted seasoned cubed sweet potatoes",
-                "serving_size": "1/2 cup",
-                "ingredient_statement": "Sweet Potato, Canola Oil, Kosher Salt, Black Pepper",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "110"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "2.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "0.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "0mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "151mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "22g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "3g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "4g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "1.7g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "33.1mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.7mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "360mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
