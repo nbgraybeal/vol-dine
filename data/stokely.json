@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-11T14:52:00.435133+00:00",
+  "retrieved_at": "2026-11-11T15:49:55.922468+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -21648,25 +21648,25 @@
               }
             },
             {
-              "id": "69505",
-              "name": "Rainbow Donut Pop",
+              "id": "102625",
+              "name": "Vanilla Iced Donut with Sprinkles",
               "nutrition": {
-                "id": "6165",
-                "description": "Glazed donut pop with rainbow sprinkles on a stick",
+                "id": "7793",
+                "description": "Freshly baked donut topped with vanilla icing and rainbow sprinkles",
                 "serving_size": "each",
-                "ingredient_statement": "Powdered Sugar, Dough , Rainbow Sprinkles, Water, Pure Vanilla Extract",
+                "ingredient_statement": "Donut , Vanilla Icing, Rainbow Sprinkles",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "130"
+                    "value": "450"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "4.5g"
+                    "value": "20.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "2.5g"
+                    "value": "11.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -21678,47 +21678,47 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "77mg"
+                    "value": "330mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "23g"
+                    "value": "66g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "0g"
+                    "value": "1g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "17g"
+                    "value": "37g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "0.6g"
+                    "value": "4.2g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "2.0mg"
+                    "value": "30.9mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.3mg"
+                    "value": "1.4mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "10mg"
+                    "value": "80mg"
                   }
                 },
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
@@ -21727,13 +21727,13 @@
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
@@ -21764,8 +21764,8 @@
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
