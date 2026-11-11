@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-11-11T08:20:42.455906+00:00",
+  "retrieved_at": "2026-11-11T09:27:11.271357+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -5290,6 +5290,134 @@
               }
             },
             {
+              "id": "102532",
+              "name": "Seasoned Baked Tilapia",
+              "nutrition": {
+                "id": "959",
+                "description": "Baked tilapia filet seasoned with margarine and ground black pepper",
+                "serving_size": "each",
+                "ingredient_statement": "Tilapia, Margarine (PALM OIL, WATER, SOYBEAN OIL, CONTAINS LESS THAN 2% OF SOY LECITHIN, VEGETABLE MONO & DIGLYCERIDES, POTASSIUM SORBATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED, WHEY.), Black Pepper",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "70"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "2.5g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "1.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "30mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "31mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "0g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "0g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "0g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "12.0g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "6.2mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.3mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "180mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                }
+              }
+            },
+            {
               "id": "71144",
               "name": "Seasoned Rice",
               "nutrition": {
@@ -5413,134 +5541,6 @@
                     "label": "Vegetarian",
                     "value": "Y",
                     "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
-              "id": "71054",
-              "name": "Spice-Rubbed Pork Loin",
-              "nutrition": {
-                "id": "12661",
-                "description": "Oven-roasted pork loin rubbed with a sweet-spicy blend of peppers, paprika, chili powder and garlic",
-                "serving_size": "16 ozw",
-                "ingredient_statement": "Pork Loin, Granulated Sugar, Paprika, Chili Powder (CHILI PEPPER, SPICES, SALT, SILICON DIOXIDE (TO MAKE FREE FLOWING) AND GARLIC), Kosher Salt, Garlic Powder, Black Pepper, Cayenne Pepper",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "1050"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "37.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "12.5g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "395mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "877mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "19g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "2g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "16g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "146.6g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "129.4mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "6.7mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "2790mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
                   }
                 }
               }
@@ -30058,25 +30058,25 @@
               }
             },
             {
-              "id": "70885",
-              "name": "Santa Fe Chicken",
+              "id": "102530",
+              "name": "Taco Turkey Filling",
               "nutrition": {
-                "id": "798",
-                "description": "Char-grilled boneless chicken thigh seasoned with chili, lime and garlic. Garnished with cilantro and sweet peppers.",
-                "serving_size": "each",
-                "ingredient_statement": "Chicken Thigh, Cilantro, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Roasted Red Peppers, Chili Lime Rub  (SPICES (INCLUDING CHILI PEPPER), SEA SALT, SUGAR, PAPRIKA, BROWN MUSTARD SEED, CORNMALTODEXTRIN, GARLIC, ONION, LIME JUICE CONCENTRATE, CITRIC ACID, EXTRACTIVES OF PAPRIKA & LIMEOIL.)",
+                "id": "1478",
+                "description": "Spicy taco-seasoned ground turkey",
+                "serving_size": "1/4 cup",
+                "ingredient_statement": "Turkey, Water, Taco Seasoning (DEXTROSE, SALT, CORN FLOUR, CHILI PEPPER, CUMIN, ONION POWDER, GARLIC POWDER, OREGANO, CITRIC ACID, SILICON DIOXIDE (AS ANTICAKING AGENT) & EXTRACTIVES OF PAPRIKA.)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "160"
+                    "value": "170"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "7.0g"
+                    "value": "9.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "1.5g"
+                    "value": "2.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -30084,15 +30084,15 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "105mg"
+                    "value": "115mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "147mg"
+                    "value": "696mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "1g"
+                    "value": "9g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -30100,23 +30100,23 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "0g"
+                    "value": "2g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "22.4g"
+                    "value": "20.6g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "2.6mg"
+                    "value": "34.6mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.1mg"
+                    "value": "1.7mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "20mg"
+                    "value": "160mg"
                   }
                 },
                 "allergen_attributes": {
@@ -32514,25 +32514,25 @@
               }
             },
             {
-              "id": "71139",
-              "name": "Grilled Ancho-Lime Chicken",
+              "id": "102531",
+              "name": "Maple Glazed Roasted Turkey",
               "nutrition": {
-                "id": "1663",
-                "description": "Chicken thighs marinated in a mix of zesty lime juice, then grilled to perfection",
+                "id": "2236",
+                "description": "Roasted turkey breast brushed with a smoky maple glaze",
                 "serving_size": "3 ozw",
-                "ingredient_statement": "Chicken Thigh, Lime Juice, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Onion, Cilantro, Ancho Pepper Concentrate (ROASTED PEPPER PUREE, CORN OIL, ONION PUREE,  MALTODEXTRIN, SUGAR, WATER, SALT, CHILI, ANCHO AND CHIPOTLE POWDER, PALM OIL,  OLIVE OIL, SPICES, DRIED ONIONS, 2% OR LESS OF MODIFIED CORNSTARCH, GARLIC,  YEAST EXTRACT, CITRIC ACID.), Garlic, Black Pepper",
+                "ingredient_statement": "Turkey (Turkey Breast Roast containing up to 18% of a solution of Water, Sea Salt and Sugar.), Maple Syrup (maple syrup), Hickory Smoke Flavoring (Water, Natural Hickory Smoke Flavor.), Paprika, Garlic Powder, Kosher Salt, Onion Powder, Black Pepper, Dried Thyme Leaf, Cayenne Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "110"
+                    "value": "160"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "4.5g"
+                    "value": "6.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "1.0g"
+                    "value": "1.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -32540,15 +32540,15 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "80mg"
+                    "value": "75mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "85mg"
+                    "value": "111mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "0g"
+                    "value": "1g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -32556,23 +32556,23 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "0g"
+                    "value": "1g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "16.3g"
+                    "value": "25.3g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "7.1mg"
+                    "value": "17.1mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.7mg"
+                    "value": "1.4mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "210mg"
+                    "value": "320mg"
                   }
                 },
                 "allergen_attributes": {
