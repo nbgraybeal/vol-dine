@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-15T06:58:41.064705+00:00",
+  "retrieved_at": "2026-11-15T08:03:47.076230+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -9320,7 +9320,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "22.7mg"
+                    "value": "22.6mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -11482,7 +11482,7 @@
                 "id": "14712",
                 "description": "Korean hot pepper sauce made with gochujang paste, sesame   seeds and garlic",
                 "serving_size": "1 fl oz",
-                "ingredient_statement": "Gochujang Paste, Water, Granulated Sugar, Sesame Oil, Cider Vinegar, Sesame Seeds, Garlic",
+                "ingredient_statement": "Gochujang Paste, Water, Granulated Sugar, Sesame Oil, Cider Vinegar, Garlic, Sesame Seeds",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -12038,7 +12038,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "1.1mg"
+                    "value": "1.0mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -13152,7 +13152,7 @@
                 "id": "14712",
                 "description": "Korean hot pepper sauce made with gochujang paste, sesame   seeds and garlic",
                 "serving_size": "1 fl oz",
-                "ingredient_statement": "Gochujang Paste, Water, Granulated Sugar, Sesame Oil, Cider Vinegar, Sesame Seeds, Garlic",
+                "ingredient_statement": "Gochujang Paste, Water, Granulated Sugar, Sesame Oil, Cider Vinegar, Garlic, Sesame Seeds",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -13408,7 +13408,7 @@
                 "id": "8767",
                 "description": "Sweet soy marinated chicken thighs brushed with Korean BBQ sauce",
                 "serving_size": "3 ozw",
-                "ingredient_statement": "Chicken Thigh, Ketchup, Korean Hot Taco Sauce, Soy Sauce, Orange Juice, Brown Sugar, Honey, Seasoned Rice Vinegar, Ginger Root, Garlic, Green Onion, Ginger Root, Sesame Seeds, Black Pepper",
+                "ingredient_statement": "Chicken Thigh, Ketchup, Korean Hot Taco Sauce, Soy Sauce, Orange Juice, Brown Sugar, Honey, Seasoned Rice Vinegar, Ginger Root, Green Onion, Garlic, Ginger Root, Sesame Seeds, Black Pepper",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -13664,7 +13664,7 @@
                 "id": "16235",
                 "description": "Cucumbers marinated with ginger, garlic, sesame oil, gochujang and jalapenos",
                 "serving_size": "2 ozw",
-                "ingredient_statement": "Cucumber, White Vinegar, Green Onion, Granulated Sugar, Cilantro, Gochujang Paste, Jalapeno Pepper, Garlic, Sesame Oil, Ginger Root, Kosher Salt",
+                "ingredient_statement": "Cucumber, White Vinegar, Green Onion, Granulated Sugar, Gochujang Paste, Jalapeno Pepper, Cilantro, Garlic, Sesame Oil, Ginger Root, Kosher Salt",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -13708,7 +13708,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "13.4mg"
+                    "value": "13.3mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -14092,7 +14092,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "1.1mg"
+                    "value": "1.0mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -14732,7 +14732,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "21.0mg"
+                    "value": "20.9mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -20016,7 +20016,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "115.1mg"
+                    "value": "115.0mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -21698,7 +21698,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "203.4mg"
+                    "value": "203.2mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -22088,7 +22088,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "197.2mg"
+                    "value": "197.0mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -22344,7 +22344,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "1.7mg"
+                    "value": "1.5mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -22600,7 +22600,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "210.8mg"
+                    "value": "210.6mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -22728,7 +22728,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "204.5mg"
+                    "value": "204.3mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -24878,7 +24878,7 @@
                 "id": "6285",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "3 ozw",
-                "ingredient_statement": "Cantaloupe, Honeydew, Pineapple, Red Grapes, Blueberries, Strawberries",
+                "ingredient_statement": "Honeydew, Pineapple, Cantaloupe, Red Grapes, Blueberries, Strawberries",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -25390,7 +25390,7 @@
                 "id": "7787",
                 "description": "Cauliflower, carrots, celery, radishes and onion, tossed  with shredded cabbage and mixed greens",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Green Cabbage, Lettuce, Lettuce, Carrots, Cauliflower, Celery, Radish, Spinach, Onion",
+                "ingredient_statement": "Green Cabbage, Lettuce, Lettuce, Cauliflower, Carrots, Celery, Radish, Onion, Spinach",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -27956,7 +27956,7 @@
                 "id": "6285",
                 "description": "Fresh honey dew, cantaloupe, pineapple and grapes",
                 "serving_size": "3 ozw",
-                "ingredient_statement": "Cantaloupe, Honeydew, Pineapple, Red Grapes, Blueberries, Strawberries",
+                "ingredient_statement": "Honeydew, Pineapple, Cantaloupe, Red Grapes, Blueberries, Strawberries",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -28468,7 +28468,7 @@
                 "id": "7787",
                 "description": "Cauliflower, carrots, celery, radishes and onion, tossed  with shredded cabbage and mixed greens",
                 "serving_size": "1/2 cup",
-                "ingredient_statement": "Green Cabbage, Lettuce, Lettuce, Carrots, Cauliflower, Celery, Radish, Spinach, Onion",
+                "ingredient_statement": "Green Cabbage, Lettuce, Lettuce, Cauliflower, Carrots, Celery, Radish, Onion, Spinach",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -30316,7 +30316,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "19.6mg"
+                    "value": "19.3mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -30406,7 +30406,7 @@
                 "id": "7638",
                 "description": "Oven-roasted seasoned chicken glazed with a tangy Creole-style barbecue sauce",
                 "serving_size": "2 piece",
-                "ingredient_statement": "Chicken, Barbecue Sauce (HIGH FRUCTOSE CORN SYRUP, DISTILLED VINEGAR, TOMATO PASTE, MODIFIED CORN STARCH, CONTAINS LESS THAN 2% OF SALT, PINEAPPLE JUICE CONCENTRATE, NATURAL SMOKE FLAVOR, SPICE, CARAMEL COLOR, MOLASSES, SODIUM BENZOATE (PRESERVATIVE), GARLIC,* MUSTARD FLOUR, CORN SYRUP, SUGAR, TAMARIND, NATURAL FLAVOR, CELERY SEED. *DRIED.), Poultry Seasoning (SALT, ONION, SPICES, PAPRIKA, GARLIC, AND CITRIC ACID.), Tomatoes, Tomatoes, Water, Green Bell Pepper, Celery, Onion, Garlic, Parsley, Canola Oil, Tabasco Hot Sauce (DISTILLED VINEGAR, RED PEPPER, SALT.), Kosher Salt, Cayenne Pepper, Dried Thyme Leaf, Black Pepper, Dried Bay Leaf",
+                "ingredient_statement": "Chicken, Barbecue Sauce (HIGH FRUCTOSE CORN SYRUP, DISTILLED VINEGAR, TOMATO PASTE, MODIFIED CORN STARCH, CONTAINS LESS THAN 2% OF SALT, PINEAPPLE JUICE CONCENTRATE, NATURAL SMOKE FLAVOR, SPICE, CARAMEL COLOR, MOLASSES, SODIUM BENZOATE (PRESERVATIVE), GARLIC,* MUSTARD FLOUR, CORN SYRUP, SUGAR, TAMARIND, NATURAL FLAVOR, CELERY SEED. *DRIED.), Poultry Seasoning (SALT, ONION, SPICES, PAPRIKA, GARLIC, AND CITRIC ACID.), Tomatoes, Tomatoes, Water, Green Bell Pepper, Celery, Onion, Parsley, Garlic, Canola Oil, Tabasco Hot Sauce (DISTILLED VINEGAR, RED PEPPER, SALT.), Kosher Salt, Cayenne Pepper, Dried Thyme Leaf, Black Pepper, Dried Bay Leaf",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -30578,7 +30578,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "31.5mg"
+                    "value": "31.4mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -31114,7 +31114,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "6.0mg"
+                    "value": "5.9mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -32418,7 +32418,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "4.3mg"
+                    "value": "4.2mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -33064,7 +33064,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "6.0mg"
+                    "value": "5.9mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -34222,7 +34222,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "4.6mg"
+                    "value": "4.5mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -34624,7 +34624,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "37.1mg"
+                    "value": "36.2mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -34752,7 +34752,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "30.1mg"
+                    "value": "30.0mg"
                   },
                   "iron": {
                     "label": "Iron",
@@ -34880,7 +34880,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "65.5mg"
+                    "value": "65.4mg"
                   },
                   "iron": {
                     "label": "Iron",
