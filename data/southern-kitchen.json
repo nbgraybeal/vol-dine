@@ -1,7 +1,7 @@
 {
   "location": "Southern Kitchen",
   "source_url": "https://dining.utk.edu/vendor/southern-kitchen/",
-  "retrieved_at": "2026-11-16T15:01:48.200437+00:00",
+  "retrieved_at": "2026-11-16T16:40:08.113740+00:00",
   "stations": {
     "dessert-station": {
       "id": "13226",
@@ -1705,262 +1705,6 @@
           "id": "2",
           "name": "Lunch",
           "menuItems": [
-            {
-              "id": "99907",
-              "name": "Beefy Mac Bake",
-              "nutrition": {
-                "id": "25",
-                "description": "Beef, macaroni, tomatoes, vegetables and Italian herbs baked with a cheesy crumb topping",
-                "serving_size": "1 cup",
-                "ingredient_statement": "Water, Tomatoes, Vegan Beef Crumbles (Water, Textured Soy Protein Concentrate, Less than 2% of: Caramel Color, Sugar, Canola Oil, Yeast Extract, Salt, Onion Powder, Natural Flavors, Garlic Powder, Spices.), Celery, Onion, Carrots, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Green peas, Tomato Paste, Vegan Mozzarella Cheese (Daiya Oat CreamTM blend (water, gluten-free oat flour, pea protein), Tapioca starch, Coconut oil, Expeller pressed safflower oil, Calcium phosphate, Less than 2 percent of: Corn starch, Yeast extract, Salt, Dextrose, Lactic acid, Natural flavors.), Bread Crumbs (WHEAT FLOUR, SUGAR, YEAST, SALT.), Garlic, Kosher Salt, Basil, Black Pepper, Paprika",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "230"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "3.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "1.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "0mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "378mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "35g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "7g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "7g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "16.6g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "207.8mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "2.8mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "700mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
-              "id": "99903",
-              "name": "California Blend Vegetables",
-              "nutrition": {
-                "id": "128",
-                "description": "Steamed carrots, broccoli and cauliflower",
-                "serving_size": "1/2 cup",
-                "ingredient_statement": "Broccoli, Cauliflower, Carrots",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "20"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "0.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "0.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "0mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "28mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "4g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "2g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "2g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "1.2g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "21.5mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.3mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "200mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
             {
               "id": "99912",
               "name": "Chicken & Mushroom Alfredo",
@@ -8264,134 +8008,6 @@
               }
             },
             {
-              "id": "99950",
-              "name": "Ranch Dressing",
-              "nutrition": {
-                "id": "122",
-                "description": "Homestyle creamy ranch salad dressing",
-                "serving_size": "2 tablespoon",
-                "ingredient_statement": "Ranch Dressing (SOYBEAN OIL, WATER, CULTURED BUTTERMILK, EGG YOLK, DISTILLED VINEGAR, CONTAINS LESS THAN 2% OF SALT, MONOSODIUM GLUTAMATE, MODIFIED CORN STARCH, BUTTERMILK SOLIDS, SUGAR, GARLIC,* XANTHAN GUM, SPICE, CITRIC ACID, ONION,* SORBIC ACID (PRESERVATIVE), CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR), MILK, NATURAL FLAVOR, EGG WHITES. *DRIED)",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "100"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "11.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "1.5g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "10mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "247mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "1g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "0g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "0g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "0.4g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "12.2mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.0mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "15mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
               "id": "99946",
               "name": "Ranch Dressing",
               "nutrition": {
@@ -8515,6 +8131,134 @@
                     "label": "Vegetarian",
                     "value": "U",
                     "formatted_value": "Unknown"
+                  }
+                }
+              }
+            },
+            {
+              "id": "99950",
+              "name": "Ranch Dressing",
+              "nutrition": {
+                "id": "122",
+                "description": "Homestyle creamy ranch salad dressing",
+                "serving_size": "2 tablespoon",
+                "ingredient_statement": "Ranch Dressing (SOYBEAN OIL, WATER, CULTURED BUTTERMILK, EGG YOLK, DISTILLED VINEGAR, CONTAINS LESS THAN 2% OF SALT, MONOSODIUM GLUTAMATE, MODIFIED CORN STARCH, BUTTERMILK SOLIDS, SUGAR, GARLIC,* XANTHAN GUM, SPICE, CITRIC ACID, ONION,* SORBIC ACID (PRESERVATIVE), CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR), MILK, NATURAL FLAVOR, EGG WHITES. *DRIED)",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "100"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "11.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "1.5g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "10mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "247mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "1g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "0g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "0g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "0.4g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "12.2mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.0mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "15mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   }
                 }
               }

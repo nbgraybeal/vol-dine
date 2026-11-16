@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-16T15:01:47.779778+00:00",
+  "retrieved_at": "2026-11-16T16:40:07.699537+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -263,134 +263,6 @@
                     "label": "Vegetarian",
                     "value": "Y",
                     "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
-              "id": "65582",
-              "name": "Chocolate Cupcake",
-              "nutrition": {
-                "id": "16065",
-                "description": "Baked to perfection, chocolate cupcake topped with a generous swirl of chocolate whipped icing",
-                "serving_size": "each",
-                "ingredient_statement": "Powdered Sugar, Plant Based Butter Spread, Oat Milk, Granulated Sugar, Rice Flour, Baking Cocoa, Oat Milk, Baking Cocoa, White Vinegar, Canola Oil, Baking Soda, Pure Vanilla Extract, Xanthan Gum, Pure Vanilla Extract, Kosher Salt",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "310"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "13.5g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "8.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "0mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "114mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "45g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "2g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "33g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "2.7g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "12.1mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "2.9mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "40mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "U",
-                    "formatted_value": "Unknown"
                   }
                 }
               }
@@ -12500,25 +12372,25 @@
               }
             },
             {
-              "id": "65374",
-              "name": "Taco-Seasoned Grilled Chicken",
+              "id": "103298",
+              "name": "Taco Seasoned Meat",
               "nutrition": {
-                "id": "7271",
-                "description": "Taco-seasoned grilled chicken thighs",
-                "serving_size": "4 ozw",
-                "ingredient_statement": "Chicken Thigh, Taco Seasoning, Vegetable Oil Blend",
+                "id": "12667",
+                "description": "A protein-packed meat blend crafted with beef, lean chicken, and ancient grain sorghum seasoned with a spicy blend of chili powders, garlic and cumin",
+                "serving_size": "3 ozw",
+                "ingredient_statement": "Protein Trio Meat Blend, Water, Taco Seasoning",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "170"
+                    "value": "270"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "7.0g"
+                    "value": "19.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "1.5g"
+                    "value": "8.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -12526,15 +12398,15 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "105mg"
+                    "value": "60mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "406mg"
+                    "value": "565mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "2g"
+                    "value": "7g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -12546,19 +12418,19 @@
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "22.5g"
+                    "value": "16.4g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "3.9mg"
+                    "value": "27.8mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.2mg"
+                    "value": "1.6mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "15mg"
+                    "value": "270mg"
                   }
                 },
                 "allergen_attributes": {
@@ -13658,6 +13530,134 @@
               }
             },
             {
+              "id": "103299",
+              "name": "Kung Pao Pork",
+              "nutrition": {
+                "id": "6294",
+                "description": "Spicy stir-fry of pork, onion, water chestnuts, and carrots s in a chili garlic sauce",
+                "serving_size": "1/2 cup",
+                "ingredient_statement": "Pork Loin, Korean Hot Taco Sauce, Water Chestnuts, Onion, Carrots, Celery, Green Onion, Vegetable Oil Blend",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "120"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "5.5g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "1.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "25mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "512mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "7g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "1g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "4g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "11.1g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "25.9mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.8mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "290mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                }
+              }
+            },
+            {
               "id": "65509",
               "name": "Pico de Gallo",
               "nutrition": {
@@ -14421,134 +14421,6 @@
                     "label": "Vegetarian",
                     "value": "U",
                     "formatted_value": "Unknown"
-                  }
-                }
-              }
-            },
-            {
-              "id": "65624",
-              "name": "Taco Meat Trio Blend",
-              "nutrition": {
-                "id": "6329",
-                "description": "A blend of spicy taco-seasoned ground beef, chicken, and sorghum",
-                "serving_size": "4 ozw",
-                "ingredient_statement": "Protein Trio Meat Blend, Water, Taco Seasoning",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "290"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "20.5g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "8.5g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "65mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "742mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "8g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "0g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "2g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "17.6g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "31.6mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "1.8mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "290mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
                   }
                 }
               }
