@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-17T14:16:28.172722+00:00",
+  "retrieved_at": "2026-11-17T15:25:00.667405+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -35470,13 +35470,13 @@
               }
             },
             {
-              "id": "72404",
-              "name": "Jasmine Rice",
+              "id": "103450",
+              "name": "Yellow Rice",
               "nutrition": {
-                "id": "18459",
-                "description": "Thai long grain rice with aromatic, nutty flavor",
+                "id": "18448",
+                "description": "Savory long grain rice cooked in vegetable broth with turmeric",
                 "serving_size": "1/4 cup",
-                "ingredient_statement": "Water, Jasmine Rice",
+                "ingredient_statement": "Water, White Rice, Vegetable Base (SAUTEED VEGETABLE PUREE MIX (CARROTS, ONIONS, CELERY), CORN STARCH, MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), HYDROLYZED CORN PROTEIN, YEAST EXTRACT, TOMATO POWDER, WATER, ONION POWDER, 2% OR LESS OF DISODIUM INOSINATE AND DISODIUM GUANYLATE, SALT, GARLIC POWDER, PAPRIKA (COLOR), NATURAL FLAVORS, LACTIC ACID, NATURAL FLAVOR, MODIFIED CORNSTARCH, CITRIC ACID.), Canola Oil, Turmeric, Kosher Salt",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
@@ -35484,7 +35484,7 @@
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "0.0g"
+                    "value": "1.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
@@ -35500,11 +35500,11 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "0mg"
+                    "value": "59mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "15g"
+                    "value": "14g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -35520,15 +35520,15 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "1.2mg"
+                    "value": "12.3mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.0mg"
+                    "value": "0.6mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "10mg"
+                    "value": "35mg"
                   }
                 },
                 "allergen_attributes": {
