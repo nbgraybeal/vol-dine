@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-18T14:20:24.189229+00:00",
+  "retrieved_at": "2026-11-18T15:26:51.039643+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -1293,134 +1293,6 @@
                     "label": "Vegetarian",
                     "value": "U",
                     "formatted_value": "Unknown"
-                  }
-                }
-              }
-            },
-            {
-              "id": "73963",
-              "name": "Lemon Ricotta Cookie",
-              "nutrition": {
-                "id": "6275",
-                "description": "lemon juice, ricotta cheese, lemon zest",
-                "serving_size": "1 cookie",
-                "ingredient_statement": "Ricotta Cheese (Pasteurized milk, pasteurized whey, pasteurized cream, vinegar, and salt), Granulated Sugar, Wheat Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Powdered Sugar, Unsalted Butter (Pasteurized Cream, Natural Flavoring.), Lemon Juice, Liquid Whole Eggs (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Lemon Zest, Salt, Baking Powder",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "150"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "4.5g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "2.5g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "25mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "150mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "27g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "0g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "19g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "2.1g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "34.8mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.6mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "40mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
                   }
                 }
               }
@@ -20496,6 +20368,134 @@
               }
             },
             {
+              "id": "103621",
+              "name": "Banana Bread",
+              "nutrition": {
+                "id": "7494",
+                "description": "Freshly baked homemade loaf made with fresh bananas",
+                "serving_size": "1 slice",
+                "ingredient_statement": "Granulated Sugar, Wheat Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Banana, Margarine (PALM OIL, WATER, SOYBEAN OIL, CONTAINS LESS THAN 2% OF SOY LECITHIN, VEGETABLE MONO & DIGLYCERIDES, POTASSIUM SORBATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED, WHEY.), Whole Milk, Liquid Whole Eggs (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Baking Powder, Pure Vanilla Extract, Baking Soda, Kosher Salt",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "260"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "8.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "3.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "35mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "133mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "43g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "1g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "24g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "3.7g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "39.5mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "1.3mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "95mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                }
+              }
+            },
+            {
               "id": "73768",
               "name": "Bananas Foster Mini Muffin",
               "nutrition": {
@@ -20619,134 +20619,6 @@
                     "label": "Vegetarian",
                     "value": "Y",
                     "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
-              "id": "73766",
-              "name": "Chocolate Chip Banana Bread",
-              "nutrition": {
-                "id": "6265",
-                "description": "Freshly baked banana loaf with chocolate chips topped with cinnamon streusel",
-                "serving_size": "each",
-                "ingredient_statement": "Variety Muffin Mix (ENRICHED FLOUR BLEACHED (WHEAT FLOUR, NIACIN,  IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), SUGAR, PALM OIL, MODIFIED CORN STARCH, MODIFIED WHEY. CONTAINS  2% OR LESS OF: LEAVENING (SODIUM ACID PYROPHOSPHATE, BAKING SODA, MONOCALCIUM PHOSPHATE), DEXTROSE, MONO AND  DIGLYCERIDES, SALT, EGGS WITH SODIUM SILICOALUMINATE, XANTHAN GUM, NONFAT MILK, NATURAL FLAVOR, SOY FLOUR.), Water, Banana, Chocolate Chips (SEMI-SWEET CHOCOLATE [SUGAR; CHOCOLATE; COCOA BUTTER; MILK FAT; LECITHIN (SOY); NATURAL FLAVOR; MILK]), Wheat Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Margarine (PALM OIL, WATER, SOYBEAN OIL, CONTAINS LESS THAN 2% OF SOY LECITHIN, VEGETABLE MONO & DIGLYCERIDES, POTASSIUM SORBATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED, WHEY.), Brown Sugar, Granulated Sugar, Cinnamon",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "320"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "11.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "5.5g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "0mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "324mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "54g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "2g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "31g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "3.0g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "20.8mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "2.0mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "160mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
                   }
                 }
               }
@@ -32892,21 +32764,21 @@
           "name": "Lunch",
           "menuItems": [
             {
-              "id": "103219",
-              "name": "Baked Pit Ham",
+              "id": "103622",
+              "name": "Brown Sugar Glazed Ham",
               "nutrition": {
-                "id": "7773",
-                "description": "Slow-baked and infused with a rich, smoky flavor",
-                "serving_size": "3 ozw",
-                "ingredient_statement": "Ham",
+                "id": "18428",
+                "description": "Baked brown sugar-coated ham served with honey glaze",
+                "serving_size": "1 serving",
+                "ingredient_statement": "Ham, Brown Sugar, Honey, Brown Sugar, Margarine, Ground Mustard",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "120"
+                    "value": "200"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "5.0g"
+                    "value": "6.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
@@ -32918,15 +32790,15 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "50mg"
+                    "value": "45mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "1290mg"
+                    "value": "1243mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "3g"
+                    "value": "23g"
                   },
                   "fiber": {
                     "label": "Fiber",
@@ -32934,19 +32806,19 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "2g"
+                    "value": "21g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "15.5g"
+                    "value": "15.0g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "5.2mg"
+                    "value": "17.5mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.7mg"
+                    "value": "0.8mg"
                   },
                   "potassium": {
                     "label": "Potassium",
@@ -32956,8 +32828,8 @@
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
@@ -32971,8 +32843,8 @@
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
@@ -33008,8 +32880,8 @@
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
@@ -34318,17 +34190,17 @@
           "name": "Lunch",
           "menuItems": [
             {
-              "id": "73949",
-              "name": "Seasoned Rice",
+              "id": "73950",
+              "name": "Spicy Vegetable Gumbo",
               "nutrition": {
-                "id": "7669",
-                "description": "Long grain white rice seasoned with salt and pepper",
-                "serving_size": "1/2 cup",
-                "ingredient_statement": "Water, White Rice, Canola Oil, Kosher Salt, Black Pepper",
+                "id": "18542",
+                "description": "Roasted eggplant with okra, zucchini, mushrooms and bell pepper in a spicy tomato stew",
+                "serving_size": "4 fl oz",
+                "ingredient_statement": "Tomatoes, Water, Onion, Eggplant, Okra, Squash Zucchini, Mushrooms, Green Bell Pepper, Celery, Water, Garlic, Vegetable Base (SAUTEED VEGETABLE PUREE MIX (CARROTS, ONIONS, CELERY), CORN STARCH, MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), HYDROLYZED CORN PROTEIN, YEAST EXTRACT, TOMATO POWDER, WATER, ONION POWDER, 2% OR LESS OF DISODIUM INOSINATE AND DISODIUM GUANYLATE, SALT, GARLIC POWDER, PAPRIKA (COLOR), NATURAL FLAVORS, LACTIC ACID, NATURAL FLAVOR, MODIFIED CORNSTARCH, CITRIC ACID.), Tabasco Hot Sauce (DISTILLED VINEGAR, RED PEPPER, SALT.), Canola Oil, Cornstarch, Cajun Seasoning (Salt, Spices, Paprika, Garlic, Onion.), Kosher Salt, Black Pepper, Dried Thyme Leaf",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "130"
+                    "value": "40"
                   },
                   "total_fat": {
                     "label": "Total Fat",
@@ -34348,35 +34220,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "71mg"
+                    "value": "109mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "27g"
+                    "value": "7g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "1g"
+                    "value": "2g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "0g"
+                    "value": "3g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "2.8g"
+                    "value": "1.4g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "23.6mg"
+                    "value": "26.6mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.0mg"
+                    "value": "0.6mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "55mg"
+                    "value": "270mg"
                   }
                 },
                 "allergen_attributes": {
@@ -34446,21 +34318,21 @@
               }
             },
             {
-              "id": "73950",
-              "name": "Spicy Vegetable Gumbo",
+              "id": "103623",
+              "name": "Yellow Rice",
               "nutrition": {
-                "id": "18542",
-                "description": "Roasted eggplant with okra, zucchini, mushrooms and bell pepper in a spicy tomato stew",
-                "serving_size": "4 fl oz",
-                "ingredient_statement": "Tomatoes, Water, Onion, Eggplant, Okra, Squash Zucchini, Mushrooms, Green Bell Pepper, Celery, Water, Garlic, Vegetable Base (SAUTEED VEGETABLE PUREE MIX (CARROTS, ONIONS, CELERY), CORN STARCH, MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), HYDROLYZED CORN PROTEIN, YEAST EXTRACT, TOMATO POWDER, WATER, ONION POWDER, 2% OR LESS OF DISODIUM INOSINATE AND DISODIUM GUANYLATE, SALT, GARLIC POWDER, PAPRIKA (COLOR), NATURAL FLAVORS, LACTIC ACID, NATURAL FLAVOR, MODIFIED CORNSTARCH, CITRIC ACID.), Tabasco Hot Sauce (DISTILLED VINEGAR, RED PEPPER, SALT.), Canola Oil, Cornstarch, Cajun Seasoning (Salt, Spices, Paprika, Garlic, Onion.), Kosher Salt, Black Pepper, Dried Thyme Leaf",
+                "id": "7652",
+                "description": "Savory long grain rice cooked in vegetable broth with turmeric",
+                "serving_size": "1/2 cup",
+                "ingredient_statement": "Water, White Rice, Vegetable Base (SAUTEED VEGETABLE PUREE MIX (CARROTS, ONIONS, CELERY), CORN STARCH, MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), HYDROLYZED CORN PROTEIN, YEAST EXTRACT, TOMATO POWDER, WATER, ONION POWDER, 2% OR LESS OF DISODIUM INOSINATE AND DISODIUM GUANYLATE, SALT, GARLIC POWDER, PAPRIKA (COLOR), NATURAL FLAVORS, LACTIC ACID, NATURAL FLAVOR, MODIFIED CORNSTARCH, CITRIC ACID.), Canola Oil, Turmeric, Kosher Salt",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "40"
+                    "value": "140"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "1.0g"
+                    "value": "2.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
@@ -34476,35 +34348,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "109mg"
+                    "value": "118mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "7g"
+                    "value": "28g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "2g"
+                    "value": "1g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "3g"
+                    "value": "0g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "1.4g"
+                    "value": "3.0g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "26.6mg"
+                    "value": "24.5mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.6mg"
+                    "value": "1.2mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "270mg"
+                    "value": "70mg"
                   }
                 },
                 "allergen_attributes": {
