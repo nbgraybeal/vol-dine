@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-18T07:51:46.565419+00:00",
+  "retrieved_at": "2026-11-18T08:59:33.164389+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -17135,9 +17135,9 @@
               "id": "103348",
               "name": "Eggs",
               "nutrition": {
-                "id": "12581",
+                "id": "6965",
                 "description": "Ready-to-use blended eggs",
-                "serving_size": "1/4 cup",
+                "serving_size": "2 ozw",
                 "ingredient_statement": "Egg Blend (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.)",
                 "primary_attributes": {
                   "calories": {
@@ -17182,7 +17182,7 @@
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "31.7mg"
+                    "value": "31.6mg"
                   },
                   "iron": {
                     "label": "Iron",
