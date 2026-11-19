@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-19T15:28:59.591659+00:00",
+  "retrieved_at": "2026-11-19T16:33:56.753070+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -32758,25 +32758,25 @@
           "name": "Breakfast",
           "menuItems": [
             {
-              "id": "74054",
-              "name": "Banana Buttermilk Pancake",
+              "id": "103796",
+              "name": "Buttermilk Pancake",
               "nutrition": {
-                "id": "7628",
-                "description": "Piping hot buttermilk pancake with fresh banana",
-                "serving_size": "2 each",
-                "ingredient_statement": "Water, Pancake Mix  (ENRICHED BLEACHED FLOUR (BLEACHED WHEAT FLOUR, NIACINAMIDE, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), SUGAR, LEAVENING (BAKING SODA, SODIUM ALUMINUM PHOSPHATE, MONOCALCIUM PHOSPHATE), DEXTROSE, BUTTERMILK POWDER, PALM OIL, SALT, WHEAT GLUTEN, CORN SYRUP SOLIDS, SODIUM CASEINATE, MONO AND DIGLYCERIDES, DIPOTASSIUM PHOSPHATE, LACTIC ACID, TOCOPHEROLS (TO PRESERVE FRESHNESS).), Banana",
+                "id": "7624",
+                "description": "Fluffy, golden brown buttermilk pancakes",
+                "serving_size": "each",
+                "ingredient_statement": "Water, Pancake Mix  (ENRICHED BLEACHED FLOUR (BLEACHED WHEAT FLOUR, NIACINAMIDE, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), SUGAR, LEAVENING (BAKING SODA, SODIUM ALUMINUM PHOSPHATE, MONOCALCIUM PHOSPHATE), DEXTROSE, BUTTERMILK POWDER, PALM OIL, SALT, WHEAT GLUTEN, CORN SYRUP SOLIDS, SODIUM CASEINATE, MONO AND DIGLYCERIDES, DIPOTASSIUM PHOSPHATE, LACTIC ACID, TOCOPHEROLS (TO PRESERVE FRESHNESS).)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "160"
+                    "value": "80"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "1.0g"
+                    "value": "0.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "0.5g"
+                    "value": "0.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -32788,35 +32788,35 @@
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "416mg"
+                    "value": "250mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "35g"
+                    "value": "17g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "2g"
+                    "value": "0g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "9g"
+                    "value": "3g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "4.3g"
+                    "value": "2.4g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "57.1mg"
+                    "value": "33.3mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.5mg"
+                    "value": "0.8mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "170mg"
+                    "value": "25mg"
                   }
                 },
                 "allergen_attributes": {
