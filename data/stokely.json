@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-19T07:12:18.363684+00:00",
+  "retrieved_at": "2026-11-19T08:41:52.595844+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -1357,134 +1357,6 @@
                   "potassium": {
                     "label": "Potassium",
                     "value": "25mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
-            },
-            {
-              "id": "74257",
-              "name": "Chocolate Crinkle Cookie",
-              "nutrition": {
-                "id": "6243",
-                "description": "Fresh-baked chewy chocolate cookie",
-                "serving_size": "each",
-                "ingredient_statement": "Buttermilk Biscuit Mix (ENRICHED FLOUR BLEACHED (WHEAT FLOUR, NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), PALM OIL, LEAVENING (BAKING SODA, SODIUM ALUMINUM PHOSPHATE, MONOCALCIUM PHOSPHATE), SALT, BUTTERMILK, DEXTROSE, SOY FLOUR, EGG.), Granulated Sugar, Egg Blend (WHOLE EGG, CITRIC ACID, 0.15% WATER ADDED AS CARRIER FOR CITRIC ACID. CITRIC ACID ADDED TO PRESERVE COLOR.), Chocolate Chips (SEMI-SWEET CHOCOLATE [SUGAR; CHOCOLATE; COCOA BUTTER; MILK FAT; LECITHIN (SOY); NATURAL FLAVOR; MILK]), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Powdered Sugar",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "120"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "6.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "2.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "20mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "104mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "16g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "0g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "10g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "1.3g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "17.5mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.7mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "15mg"
                   }
                 },
                 "allergen_attributes": {
@@ -23071,9 +22943,9 @@
               "id": "74029",
               "name": "Meatball Stromboli",
               "nutrition": {
-                "id": "6849",
+                "id": "6848",
                 "description": "Italian meatballs, crushed red pepper, grilled onions and mozzarella wrapped in pizza crust",
-                "serving_size": "1/8 cut",
+                "serving_size": "1 cut",
                 "ingredient_statement": "Dough, Meatballs, Mozzarella Cheese, Onion, Parmesan Cheese, Vegetable Oil Blend, Crushed Red Pepper, Montreal Steak Seasoning",
                 "primary_attributes": {
                   "calories": {
