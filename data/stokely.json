@@ -1,7 +1,7 @@
 {
   "location": "Stokely Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/stokely-dining-hall/",
-  "retrieved_at": "2026-11-20T20:22:58.113223+00:00",
+  "retrieved_at": "2026-11-20T21:21:23.165913+00:00",
   "stations": {
     "bakery": {
       "id": "65003",
@@ -11,6 +11,134 @@
           "id": "2",
           "name": "Lunch",
           "menuItems": [
+            {
+              "id": "103973",
+              "name": "Cherry-Topped Cinnamon Roll",
+              "nutrition": {
+                "id": "7269",
+                "description": "Fresh baked cinnamon roll with cherry topping and icing drizzle",
+                "serving_size": "1 roll",
+                "ingredient_statement": "Cinnamon Roll, Cherry Pie Filling, Vanilla Icing",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "110"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "3.5g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "1.5g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "0mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "122mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "18g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "1g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "10g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "1.5g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "1.1mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.7mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "15mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                }
+              }
+            },
             {
               "id": "74351",
               "name": "Chocolate Chip Cookie",
