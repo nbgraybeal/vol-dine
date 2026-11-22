@@ -1,7 +1,7 @@
 {
   "location": "Rocky Top Dining Hall",
   "source_url": "https://dining.utk.edu/vendor/rocky-top-dining-hall/",
-  "retrieved_at": "2026-11-22T09:38:56.865288+00:00",
+  "retrieved_at": "2026-11-22T17:44:30.896371+00:00",
   "stations": {
     "bakery": {
       "id": "125436",
@@ -7618,134 +7618,6 @@
           "name": "Dinner",
           "menuItems": [
             {
-              "id": "76492",
-              "name": "Chicken Crispy Breast",
-              "nutrition": {
-                "id": "12646",
-                "description": "Golden, breaded chicken breast fried to perfection served on a toasted bun",
-                "serving_size": "each",
-                "ingredient_statement": "Breaded Chicken Breast Fillet (Boneless, skinless chicken breast with rib meat, water, salt, sodium phosphates, seasoning [flavors, maltodextrin, sugar, salt, vegetable stock (carrot, onion, celery), garlic powder], modified food starch.BREADED WITH: Wheat flour, water, salt, contains 2% or less of:  wheat gluten, baking soda, celery seed, dextrose, extractives of paprika, annatto and turmeric, garlic powder, leavening (sodium bicarbonate), lemon juice solids, maltodextrin, onion powder, soybean oil, sugar, yeast, yeast extract, yellow corn flour. Breading set in vegetable oil.), Roll (unbleached enriched flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, high fructose corn syrup, yeast, contains 2% or less of each of the following: wheat gluten, salt, soybean oil, dough conditioners, contains one of more of the following: sodium stearoyl lactylate, calcium stearoyl lactylate, monoglycerides, mono- and diglycerides, distilled monoglycerides, calcium peroxide, calcium iodate, datem, ethoxylated mono- and diglycerides, enzymes, ascorbic acid), monocalcium phosphate, sesame flour, soy lecithin, calcium propionate (to retard spoilage). if seeded, sesame seeds added.)",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "380"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "15.5g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "2.5g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "50mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "774mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "41g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "0g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "4g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "20.7g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "73.4mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "2.1mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "320mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                }
-              }
-            },
-            {
               "id": "76493",
               "name": "Crispy Tater Tots",
               "nutrition": {
@@ -14968,6 +14840,134 @@
               }
             },
             {
+              "id": "104218",
+              "name": "Italian Deli Stromboli",
+              "nutrition": {
+                "id": "1275",
+                "description": "Genoa salami, ham, pepperoni, tomatoes and mozzarella",
+                "serving_size": "each",
+                "ingredient_statement": "Dough, Mozzarella Cheese, Ham, Genoa Salami, Tomato , Deli Pepperoni, Parsley, Vegetable Oil Blend, Italian Seasoning",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "740"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "32.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "12.5g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.5g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "85mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "2142mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "78g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "4g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "6g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "38.7g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "422.1mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "5.6mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "600mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                }
+              }
+            },
+            {
               "id": "76495",
               "name": "Marinara Sauce",
               "nutrition": {
@@ -16284,25 +16284,25 @@
               }
             },
             {
-              "id": "76498",
-              "name": "Smoky Chipotle Mac & Cheese",
+              "id": "104219",
+              "name": "Penne & Sausage",
               "nutrition": {
-                "id": "897",
-                "description": "Elbow macaroni baked in a rich creamy cheese sauce spiced with chipotle chile pepper",
-                "serving_size": "1/2 cup",
-                "ingredient_statement": "Water, Whole Milk, Pasta (SEMOLINA (WHEAT), DURUM WHEAT FLOUR, NIACIN (VITAMIN B3), FERROUS SULPHATE OR FERROUS LACTATE (IRON), THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID.), Cheddar Cheese (CHEDDAR CHEESE (CULTURED PASTEURIZED MILK, SALT, ENZYMES, ANNATTO [VEGETABLE COLOR]), ANTI-CAKING BLEND (POTATO STARCH,  POWDERED CELLULOSE)), Heavy Cream, Panko Bread Crumbs (WHEAT FLOUR, SUGAR, YEAST, SALT.), Chipotle Soup Base  (RED BELL PEPPER PUREE (RED PEPPERS, WATER, SALT, CITRIC ACID), MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), ONIONS, CHIOPTLE POWDER, SALT, SUGAR, OLIVE OIL, JALAPENO PEPPERS, SPICES, CARROT, CELERY, ONION POWDER, VINEGAR, MODIFIED CORNSTARCH, 2% OR LESS OF PALM OIL, GARLIC, YEAST EXTRACT, NATURAL SMOKE FLAVOR, CITRIC ACID, NATURAL FLAVORS.), Wheat Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Margarine (PALM OIL, WATER, SOYBEAN OIL, CONTAINS LESS THAN 2% OF SOY LECITHIN, VEGETABLE MONO & DIGLYCERIDES, POTASSIUM SORBATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED, WHEY.), Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes). Anti-Caking Blend (Potato Starch, Powdered Cellulose).), Ground Mustard, Kosher Salt, Paprika",
+                "id": "1321",
+                "description": "Whole grain pasta, Italian sausage, sauteed bell peppers, onions and garlic in marinara sauce",
+                "serving_size": "1 cup",
+                "ingredient_statement": "Water, Marinara Sauce (Tomato Concentrate (water, tomato paste), Onion, Sugar, Garlic, Salt, Carrot Puree, Spices, Citric Acid, Natural Flavorings.), Pork Sausage Topping (Pork, water, spices, salt, sugar, flavoring.), Pasta (WHOLE GRAIN DURUM WHEAT FLOUR.), Red Bell Pepper, Green Bell Pepper, Onion, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Basil, Garlic",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "240"
+                    "value": "350"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "12.0g"
+                    "value": "22.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "7.0g"
+                    "value": "6.5g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -16310,51 +16310,51 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "30mg"
+                    "value": "35mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "263mg"
+                    "value": "544mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "24g"
+                    "value": "29g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "2g"
+                    "value": "6g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "3g"
+                    "value": "6g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "8.7g"
+                    "value": "12.7g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "179.3mg"
+                    "value": "68.7mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.9mg"
+                    "value": "2.5mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "130mg"
+                    "value": "610mg"
                   }
                 },
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
@@ -16363,8 +16363,8 @@
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
@@ -16378,13 +16378,13 @@
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
@@ -16393,8 +16393,8 @@
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "U",
-                    "formatted_value": "Unknown"
+                    "value": "N",
+                    "formatted_value": "No"
                   }
                 },
                 "dietary_attributes": {
@@ -16936,45 +16936,45 @@
               }
             },
             {
-              "id": "102935",
-              "name": "Italian Spiced Meatballs",
+              "id": "104215",
+              "name": "Grilled Italian Sausage",
               "nutrition": {
-                "id": "2118",
-                "description": "Chicken and beef meatballs blended with breadcrumbs and Italian spices",
-                "serving_size": "3 ozw",
-                "ingredient_statement": " Meatballs (HALAL BEEF, HALAL MECHANICALLY SEPARATED CHICKEN, WATER, EGGS, TEXTURED SOY FLOUR, CONTAINS 2% OR LESS OF THE FOLLOWING: OREGANO, DEHYDRATED ONIONS, SPICES, FLAVORINGS, BREAD CRUMBS (WHEAT FLOUR), CORN SYRUP SOLIDS, SOY FLOUR, SALT, SODIUM PHOSPHATE)",
+                "id": "1420",
+                "description": "Grilled sliced Italian sausage",
+                "serving_size": "1/4 cup",
+                "ingredient_statement": "Italian Sausage (Pork, Water, Corn Syrup Solids, Salt, Dextrose, Spices, Paprika, Monosodium Glutamate, Natural Flavors, BHA, Citric Acid, Propyl Gallate.)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "210"
+                    "value": "170"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "16.0g"
+                    "value": "14.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "6.5g"
+                    "value": "5.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
-                    "value": "0.5g"
+                    "value": "0.0g"
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "60mg"
+                    "value": "40mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "512mg"
+                    "value": "345mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "5g"
+                    "value": "2g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "1g"
+                    "value": "0g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
@@ -16982,31 +16982,31 @@
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "14.2g"
+                    "value": "8.0g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "35.0mg"
+                    "value": "9.6mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.5mg"
+                    "value": "0.6mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "290mg"
+                    "value": "140mg"
                   }
                 },
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
@@ -17020,13 +17020,13 @@
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
@@ -17972,6 +17972,134 @@
               }
             },
             {
+              "id": "104214",
+              "name": "Orange Segments",
+              "nutrition": {
+                "id": "1846",
+                "description": "Orange segments",
+                "serving_size": "1/2 cup",
+                "ingredient_statement": "Oranges",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "50"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "0.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "0.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.0g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "0mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "0mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "13g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "2g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "12g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "0.6g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "27.3mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "0.0mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "125mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "N",
+                    "formatted_value": "No"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "N",
+                    "formatted_value": "No"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "Y",
+                    "formatted_value": "Yes"
+                  }
+                }
+              }
+            },
+            {
               "id": "76294",
               "name": "Overnight Chia Oats",
               "nutrition": {
@@ -18610,134 +18738,6 @@
                   }
                 }
               }
-            },
-            {
-              "id": "76535",
-              "name": "Red Grapes",
-              "nutrition": {
-                "id": "1180",
-                "description": "Fresh red seedless grapes",
-                "serving_size": "1/4 cup",
-                "ingredient_statement": "Red Grapes",
-                "primary_attributes": {
-                  "calories": {
-                    "label": "Calories",
-                    "value": "30"
-                  },
-                  "total_fat": {
-                    "label": "Total Fat",
-                    "value": "0.0g"
-                  },
-                  "saturated_fat": {
-                    "label": "Saturated Fat",
-                    "value": "0.0g"
-                  },
-                  "trans_fat": {
-                    "label": "Trans Fat",
-                    "value": "0.0g"
-                  },
-                  "cholesterol": {
-                    "label": "Cholesterol",
-                    "value": "0mg"
-                  },
-                  "sodium": {
-                    "label": "Sodium",
-                    "value": "0mg"
-                  },
-                  "carbohydrate": {
-                    "label": "Carbohydrate",
-                    "value": "7g"
-                  },
-                  "fiber": {
-                    "label": "Fiber",
-                    "value": "0g"
-                  },
-                  "total_sugars": {
-                    "label": "Total Sugars",
-                    "value": "7g"
-                  },
-                  "protein": {
-                    "label": "Protein",
-                    "value": "0.3g"
-                  },
-                  "calcium": {
-                    "label": "Calcium",
-                    "value": "6.0mg"
-                  },
-                  "iron": {
-                    "label": "Iron",
-                    "value": "0.1mg"
-                  },
-                  "potassium": {
-                    "label": "Potassium",
-                    "value": "80mg"
-                  }
-                },
-                "allergen_attributes": {
-                  "contains_soy": {
-                    "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_eggs": {
-                    "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_fish": {
-                    "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_milk": {
-                    "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_wheat": {
-                    "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_gluten": {
-                    "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_peanut": {
-                    "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_sesame": {
-                    "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_shellfish": {
-                    "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
-                  },
-                  "contains_tree_nuts": {
-                    "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
-                  }
-                },
-                "dietary_attributes": {
-                  "vegan": {
-                    "label": "Vegan",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  },
-                  "vegetarian": {
-                    "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
-                  }
-                }
-              }
             }
           ]
         },
@@ -18745,6 +18745,134 @@
           "id": "2",
           "name": "Lunch",
           "menuItems": [
+            {
+              "id": "104217",
+              "name": "Antipasto Platter",
+              "nutrition": {
+                "id": "18918",
+                "description": "Marinated artichoke hearts, diced cheeses, mixed olives, slice meats, mushroom salad and roasted red peppers",
+                "serving_size": "1 serving",
+                "ingredient_statement": "Pita Bread, Genoa Salami, Ham Capicola, Deli Pepperoni, Sharp Yellow Cheddar, Sharp Provolone Cheese, Swiss Cheese, Roasted Red Peppers, Olives, Artichoke Hearts, Mushrooms, Tomato , Kalamata Olives, Mushrooms, Shallot, Vegetable Oil Blend, Lemon Juice, Dijon Mustard, Vegetable Oil Blend, Orange Zest, Garlic, Red Wine Vinegar, Green Onion, Vegetable Oil Blend, Parsley, Basil, Parsley, Kosher Salt, Crushed Red Pepper, Thyme, Black Pepper, Garlic, Black Pepper, Ground Mustard, Dried Thyme Leaf, Dried Oregano",
+                "primary_attributes": {
+                  "calories": {
+                    "label": "Calories",
+                    "value": "1150"
+                  },
+                  "total_fat": {
+                    "label": "Total Fat",
+                    "value": "83.0g"
+                  },
+                  "saturated_fat": {
+                    "label": "Saturated Fat",
+                    "value": "36.0g"
+                  },
+                  "trans_fat": {
+                    "label": "Trans Fat",
+                    "value": "0.5g"
+                  },
+                  "cholesterol": {
+                    "label": "Cholesterol",
+                    "value": "200mg"
+                  },
+                  "sodium": {
+                    "label": "Sodium",
+                    "value": "3566mg"
+                  },
+                  "carbohydrate": {
+                    "label": "Carbohydrate",
+                    "value": "45g"
+                  },
+                  "fiber": {
+                    "label": "Fiber",
+                    "value": "4g"
+                  },
+                  "total_sugars": {
+                    "label": "Total Sugars",
+                    "value": "6g"
+                  },
+                  "protein": {
+                    "label": "Protein",
+                    "value": "58.8g"
+                  },
+                  "calcium": {
+                    "label": "Calcium",
+                    "value": "1,033.2mg"
+                  },
+                  "iron": {
+                    "label": "Iron",
+                    "value": "4.7mg"
+                  },
+                  "potassium": {
+                    "label": "Potassium",
+                    "value": "840mg"
+                  }
+                },
+                "allergen_attributes": {
+                  "contains_soy": {
+                    "label": "Contains Soy",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_eggs": {
+                    "label": "Contains Eggs",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_fish": {
+                    "label": "Contains Fish",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_milk": {
+                    "label": "Contains Milk",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_wheat": {
+                    "label": "Contains Wheat",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_gluten": {
+                    "label": "Contains Gluten",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_peanut": {
+                    "label": "Contains Peanut",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_sesame": {
+                    "label": "Contains Sesame",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_shellfish": {
+                    "label": "Contains Shellfish",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "contains_tree_nuts": {
+                    "label": "Contains Tree Nuts",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                },
+                "dietary_attributes": {
+                  "vegan": {
+                    "label": "Vegan",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  },
+                  "vegetarian": {
+                    "label": "Vegetarian",
+                    "value": "U",
+                    "formatted_value": "Unknown"
+                  }
+                }
+              }
+            },
             {
               "id": "76317",
               "name": "Baby Spinach",
@@ -24652,25 +24780,25 @@
           "name": "Lunch",
           "menuItems": [
             {
-              "id": "76468",
-              "name": "Chipotle Chicken Tortilla Soup",
+              "id": "104216",
+              "name": "Brunswick Pork Stew",
               "nutrition": {
-                "id": "2047",
-                "description": "Chicken, corn tortillas, tomatoes, onion, garlic, chipotle pepper and cumin in a chicken broth",
+                "id": "18973",
+                "description": "Pork stew made with beans, corn,  Worcestershire and hot sauce",
                 "serving_size": "6 fl oz",
-                "ingredient_statement": "Water, Tomatoes, Black Beans, Corn Kernels, Chicken Thigh, Onion, Chicken Breast, Tomato Paste, Tortilla (Whole Grain Corn, Water, contain 2% or less of: Guar Gum, Cellulose Gum, Enzymes, and Propionic Acid, Benzoic Acid and Phosphoric Acid (to maintain freshness).), Chicken Base (CHICKEN MEAT AND NATURAL CHICKEN JUICES, MALTODEXTRIN, AUTOLYZED YEAST EXTRACT, NATURAL FLAVORS, SALT, CORN STARCH, 2% OR LESS OF VEGETABLE OIL (CORN AND/OR CANOLA OIL), DISODIUM INOSINATE, DRIED CHICKEN BROTH, TURMERIC AND ANNATTO (COLOR), POTATO STARCH, DISODIUM GUANYLATE, CHICKEN FAT, PAPRIKA (COLOR), DRIED CHICKEN, SUGAR, SPICES, PAPAIN, CITRIC ACID.), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Garlic, Chipotle Soup Base  (RED BELL PEPPER PUREE (RED PEPPERS, WATER, SALT, CITRIC ACID), MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), ONIONS, CHIOPTLE POWDER, SALT, SUGAR, OLIVE OIL, JALAPENO PEPPERS, SPICES, CARROT, CELERY, ONION POWDER, VINEGAR, MODIFIED CORNSTARCH, 2% OR LESS OF PALM OIL, GARLIC, YEAST EXTRACT, NATURAL SMOKE FLAVOR, CITRIC ACID, NATURAL FLAVORS.), Kosher Salt, Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Cumin, Chili Powder (CHILI PEPPER, SPICES, SALT, SILICON DIOXIDE (TO MAKE FREE FLOWING) AND GARLIC), Cilantro, Black Pepper, Dried Oregano, Kosher Salt, Black Pepper",
+                "ingredient_statement": "Water, Seasoned Pork, Lima Beans, Corn Kernels, Red Skin Potatoes, Tomato Puree, Tomatoes, Lemon Juice, Hot Sauce, Garlic  Herb Seasoning, Kosher Salt",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "90"
+                    "value": "190"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "2.5g"
+                    "value": "5.5g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "0.5g"
+                    "value": "2.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -24678,11 +24806,11 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "15mg"
+                    "value": "60mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "298mg"
+                    "value": "190mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
@@ -24694,87 +24822,87 @@
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "2g"
+                    "value": "1g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "5.6g"
+                    "value": "20.6g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "23.4mg"
+                    "value": "22.4mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "1.0mg"
+                    "value": "1.7mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "230mg"
+                    "value": "530mg"
                   }
                 },
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_sesame": {
                     "label": "Contains Sesame",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_shellfish": {
                     "label": "Contains Shellfish",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "contains_tree_nuts": {
                     "label": "Contains Tree Nuts",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 },
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "U",
+                    "formatted_value": "Unknown"
                   }
                 }
               }
@@ -25426,25 +25554,25 @@
               }
             },
             {
-              "id": "76511",
-              "name": "Butternut Squash Bisque",
+              "id": "104220",
+              "name": "Italian Wedding Soup",
               "nutrition": {
-                "id": "2033",
-                "description": "Puree of butternut squash and sweet potatoes spiced with pumpkin pie spice, nutmeg and fresh ginger",
+                "id": "2309",
+                "description": "Beef and chicken meatballs, acini di pepe pasta and spinach in a mild garlic Parmesan chicken broth",
                 "serving_size": "6 fl oz",
-                "ingredient_statement": "Water, Sweet Potato, Butternut Squash, Carrots, Celery, Onion, Vegetable Base (SAUTEED VEGETABLE PUREE MIX (CARROTS, ONIONS, CELERY), CORN STARCH, MALTODEXTRIN, VEGETABLE OIL (CORN AND/OR CANOLA OIL), HYDROLYZED CORN PROTEIN, YEAST EXTRACT, TOMATO POWDER, WATER, ONION POWDER, 2% OR LESS OF DISODIUM INOSINATE AND DISODIUM GUANYLATE, SALT, GARLIC POWDER, PAPRIKA (COLOR), NATURAL FLAVORS, LACTIC ACID, NATURAL FLAVOR, MODIFIED CORNSTARCH, CITRIC ACID.), Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean, Canola, Corn, Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i)), Ginger Root, Kosher Salt, Pumpkin Pie Spice (CINNAMON, GINGER, NUTMEG, ALLSPICE & SULFITING AGENT.), Black Pepper, Nutmeg, Thyme",
+                "ingredient_statement": "Water, Italian Wedding Soup  (CHICKEN  BROTH, COOKED ITALIAN STYLE MEATBALLS (BEEF, CHICKEN, WATER, TEXTURED SOY  FLOUR, BREAD CRUMBS [WHEAT FLOUR, SALT, YEAST], EGGS, SALT, DEHYDRATED ONION,  FLAVORINGS, ROMANO CHEESE [SHEEP’S AND/OR COW’S MILK, RENNET, SALT, CHEESE  CULTURES, ENZYMES]), ENRICHED MACARONI PRODUCT (SEMOLINA WHEAT FLOUR, EGG  WHITE, NIACIN, FERROUS SULFATE (IRON), THIAMIN MONONITRATE, RIBOFLAVIN AND  FOLIC ACID), SPINACH, CARROTS, CONTAINS LESS THAN 2% OF MODIFIED FOOD STARCH,  CHICKEN FLAVOR (SALT, HYDROLYZED CORN GLUTEN, SUGAR, YEAST EXTRACT, CHICKEN  POWDER, YEAST, ROSEMARY, SOY FLOUR), GARLIC PUREE (GARLIC, HIGH FRUCTOSE CORN  SYRUP), SALT, CHICKEN SEASONING (AUTOLYZED YEAST EXTRACT, CHICKEN FAT,  TAPIOCA DEXTRIN, MALTODEXTRIN [CORN], HYDROLYZED WHEAT PROTEIN, FLAVOR,  SILICON DIOXIDE, MODIFIED CORNSTARCH, CARAMEL COLOR, GRILL FLAVOR [FROM  VEGETABLE OIL], DISODIUM GUANYLATE, DISODIUM INOSINATE, TRICALCIUM PHOSPHATE,  LACTIC ACID, SULFITIES), PARMESAN CHEESE FLAVOR (PARMESAN CHEESE [MILK,  CHEESE CULTURES, SALT, ENZYMES], NATURAL FLAVORS, DISODIUM PHOSPHATE),  DEHYDRATED ONION, ANNATTO COLOR, DISODIUM INOSINATE AND GUANYLATE, FLAVOR  (GUM ARABIC, EXTRACTIVES OF TURMERIC), WHITE PEPPER)",
                 "primary_attributes": {
                   "calories": {
                     "label": "Calories",
-                    "value": "70"
+                    "value": "90"
                   },
                   "total_fat": {
                     "label": "Total Fat",
-                    "value": "2.0g"
+                    "value": "3.0g"
                   },
                   "saturated_fat": {
                     "label": "Saturated Fat",
-                    "value": "0.0g"
+                    "value": "1.0g"
                   },
                   "trans_fat": {
                     "label": "Trans Fat",
@@ -25452,51 +25580,51 @@
                   },
                   "cholesterol": {
                     "label": "Cholesterol",
-                    "value": "0mg"
+                    "value": "10mg"
                   },
                   "sodium": {
                     "label": "Sodium",
-                    "value": "307mg"
+                    "value": "612mg"
                   },
                   "carbohydrate": {
                     "label": "Carbohydrate",
-                    "value": "12g"
+                    "value": "11g"
                   },
                   "fiber": {
                     "label": "Fiber",
-                    "value": "2g"
+                    "value": "1g"
                   },
                   "total_sugars": {
                     "label": "Total Sugars",
-                    "value": "3g"
+                    "value": "1g"
                   },
                   "protein": {
                     "label": "Protein",
-                    "value": "1.2g"
+                    "value": "4.4g"
                   },
                   "calcium": {
                     "label": "Calcium",
-                    "value": "32.5mg"
+                    "value": "31.2mg"
                   },
                   "iron": {
                     "label": "Iron",
-                    "value": "0.5mg"
+                    "value": "0.7mg"
                   },
                   "potassium": {
                     "label": "Potassium",
-                    "value": "250mg"
+                    "value": "125mg"
                   }
                 },
                 "allergen_attributes": {
                   "contains_soy": {
                     "label": "Contains Soy",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_eggs": {
                     "label": "Contains Eggs",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_fish": {
                     "label": "Contains Fish",
@@ -25505,18 +25633,18 @@
                   },
                   "contains_milk": {
                     "label": "Contains Milk",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_wheat": {
                     "label": "Contains Wheat",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_gluten": {
                     "label": "Contains Gluten",
-                    "value": "N",
-                    "formatted_value": "No"
+                    "value": "Y",
+                    "formatted_value": "Yes"
                   },
                   "contains_peanut": {
                     "label": "Contains Peanut",
@@ -25542,13 +25670,13 @@
                 "dietary_attributes": {
                   "vegan": {
                     "label": "Vegan",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "N",
+                    "formatted_value": "No"
                   },
                   "vegetarian": {
                     "label": "Vegetarian",
-                    "value": "Y",
-                    "formatted_value": "Yes"
+                    "value": "N",
+                    "formatted_value": "No"
                   }
                 }
               }
